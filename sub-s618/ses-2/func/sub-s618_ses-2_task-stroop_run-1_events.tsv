@@ -1,97 +1,97 @@
-onset	duration	block_duration	condition	correct	correct_response	experiment_exp_id	key_press	response_time	stim_color	stim_word	trial_id	trial_type	worker_id	junk
-3.513	1.5	2.272	incongruent	1.0	89.0	stroop	89	0.777	red	blue	stim	incongruent	s618	False
-5.791	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.631	red	green	stim	incongruent	s618	False
-7.796	1.5	2.0	congruent	1.0	71.0	stroop	71	0.558	blue	blue	stim	congruent	s618	False
-9.798	1.5	2.0	congruent	1.0	82.0	stroop	82	0.467	green	green	stim	congruent	s618	False
-11.802	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.469	red	blue	stim	incongruent	s618	False
-13.805	1.5	2.136	congruent	1.0	71.0	stroop	71	0.442	blue	blue	stim	congruent	s618	False
-15.946	1.5	2.0	congruent	1.0	89.0	stroop	89	0.523	red	red	stim	congruent	s618	False
-17.951	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.543	blue	green	stim	incongruent	s618	False
-19.954	1.5	2.136	congruent	1.0	71.0	stroop	71	0.62	blue	blue	stim	congruent	s618	False
-22.095	1.5	2.0	incongruent	1.0	82.0	stroop	82	0.598	green	blue	stim	incongruent	s618	False
-24.1	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.529	blue	green	stim	incongruent	s618	False
-26.103	1.5	2.136	incongruent	0.0	82.0	stroop	89	0.541	green	red	stim	incongruent	s618	False
-28.242	1.5	2.136	congruent	1.0	89.0	stroop	89	0.395	red	red	stim	congruent	s618	False
-30.38	1.5	2.272	congruent	1.0	82.0	stroop	82	0.4	green	green	stim	congruent	s618	False
-32.658	1.5	2.68	incongruent	1.0	89.0	stroop	89	0.817	red	blue	stim	incongruent	s618	False
-35.343	1.5	2.0	congruent	1.0	71.0	stroop	71	0.502	blue	blue	stim	congruent	s618	False
-37.348	1.5	2.0	congruent	1.0	89.0	stroop	89	0.614	red	red	stim	congruent	s618	False
-39.354	1.5	2.272	incongruent	1.0	82.0	stroop	82	0.768	green	red	stim	incongruent	s618	False
-41.631	1.5	2.0	incongruent	0.0	82.0	stroop	89	0.618	green	blue	stim	incongruent	s618	False
-43.636	1.5	2.0	congruent	1.0	82.0	stroop	82	0.931	green	green	stim	congruent	s618	False
-45.642	1.5	2.0	incongruent	1.0	82.0	stroop	82	0.915	green	blue	stim	incongruent	s618	False
-47.644	1.5	2.0	incongruent	1.0	82.0	stroop	82	0.632	green	blue	stim	incongruent	s618	False
-49.647	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.495	blue	red	stim	incongruent	s618	False
-51.652	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.404	red	green	stim	incongruent	s618	False
-53.656	1.5	2.272	congruent	1.0	89.0	stroop	89	0.491	red	red	stim	congruent	s618	False
-55.93	1.5	2.0	incongruent	1.0	82.0	stroop	82	0.575	green	red	stim	incongruent	s618	False
-57.933	1.5	2.408	congruent	1.0	89.0	stroop	89	0.575	red	red	stim	congruent	s618	False
-60.346	1.5	2.0	congruent	1.0	82.0	stroop	82	0.659	green	green	stim	congruent	s618	False
-62.348	1.5	2.136	congruent	1.0	71.0	stroop	71	0.728	blue	blue	stim	congruent	s618	False
-64.49	1.5	2.0	congruent	1.0	82.0	stroop	82	0.705	green	green	stim	congruent	s618	False
-66.495	1.5	2.0	congruent	1.0	82.0	stroop	82	0.694	green	green	stim	congruent	s618	False
-68.5	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.771	blue	red	stim	incongruent	s618	False
-70.504	1.5	2.272	congruent	1.0	71.0	stroop	71	0.437	blue	blue	stim	congruent	s618	False
-72.779	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.598	red	blue	stim	incongruent	s618	False
-74.782	1.5	2.272	incongruent	1.0	71.0	stroop	71	0.585	blue	red	stim	incongruent	s618	False
-77.06	1.5	2.272	incongruent	1.0	82.0	stroop	82	0.694	green	red	stim	incongruent	s618	False
-79.338	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.631	blue	green	stim	incongruent	s618	False
-81.344	1.5	2.68	congruent	1.0	89.0	stroop	89	0.563	red	red	stim	congruent	s618	False
-84.025	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.606	blue	green	stim	incongruent	s618	False
-86.031	1.5	2.272	congruent	1.0	82.0	stroop	82	0.779	green	green	stim	congruent	s618	False
-88.307	1.5	2.0	congruent	1.0	71.0	stroop	71	0.406	blue	blue	stim	congruent	s618	False
-90.308	1.5	2.0	congruent	1.0	89.0	stroop	89	0.523	red	red	stim	congruent	s618	False
-92.31	1.5	2.272	incongruent	1.0	89.0	stroop	89	0.816	red	green	stim	incongruent	s618	False
-94.584	1.5	2.136	congruent	1.0	82.0	stroop	82	0.438	green	green	stim	congruent	s618	False
-96.725	1.5	2.544	congruent	1.0	89.0	stroop	89	0.536	red	red	stim	congruent	s618	False
-99.271	1.5	2.408	incongruent	1.0	82.0	stroop	82	0.752	green	blue	stim	incongruent	s618	False
-101.684	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.539	red	green	stim	incongruent	s618	False
-103.69	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.623	red	blue	stim	incongruent	s618	False
-105.693	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.492	red	blue	stim	incongruent	s618	False
-107.695	1.5	2.544	congruent	1.0	82.0	stroop	82	0.589	green	green	stim	congruent	s618	False
-110.242	1.5	2.136	congruent	1.0	71.0	stroop	71	0.452	blue	blue	stim	congruent	s618	False
-112.38	1.5	2.0	congruent	1.0	82.0	stroop	82	0.813	green	green	stim	congruent	s618	False
-114.383	1.5	2.0	congruent	1.0	89.0	stroop	89	0.448	red	red	stim	congruent	s618	False
-116.388	1.5	2.272	congruent	1.0	82.0	stroop	82	0.993	green	green	stim	congruent	s618	False
-118.664	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.767	red	green	stim	incongruent	s618	False
-120.666	1.5	2.0	congruent	1.0	89.0	stroop	89	0.547	red	red	stim	congruent	s618	False
-122.668	1.5	2.136	incongruent	1.0	82.0	stroop	82	0.825	green	red	stim	incongruent	s618	False
-124.81	1.5	2.0	incongruent	1.0	82.0	stroop	82	0.958	green	red	stim	incongruent	s618	False
-126.812	1.5	2.272	incongruent	0.0	82.0	stroop	89	0.525	green	blue	stim	incongruent	s618	False
-129.089	1.5	2.136	congruent	1.0	71.0	stroop	71	0.855	blue	blue	stim	congruent	s618	False
-131.228	1.5	2.408	incongruent	1.0	82.0	stroop	82	0.801	green	red	stim	incongruent	s618	False
-133.642	1.5	2.0	congruent	1.0	71.0	stroop	71	0.631	blue	blue	stim	congruent	s618	False
-135.647	1.5	2.0	congruent	1.0	71.0	stroop	71	0.562	blue	blue	stim	congruent	s618	False
-137.652	1.5	2.816	incongruent	1.0	71.0	stroop	71	0.585	blue	red	stim	incongruent	s618	False
-140.474	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.628	blue	red	stim	incongruent	s618	False
-142.478	1.5	2.0	incongruent	1.0	89.0	stroop	89	1.196	red	green	stim	incongruent	s618	False
-144.482	1.5	2.136	congruent	1.0	89.0	stroop	89	0.534	red	red	stim	congruent	s618	False
-146.623	1.5	2.0	congruent	1.0	82.0	stroop	82	0.618	green	green	stim	congruent	s618	False
-148.628	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.606	blue	green	stim	incongruent	s618	False
-150.633	1.5	2.0	congruent	1.0	89.0	stroop	89	0.813	red	red	stim	congruent	s618	False
-152.634	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.573	blue	red	stim	incongruent	s618	False
-154.639	1.5	2.0	congruent	1.0	71.0	stroop	71	0.557	blue	blue	stim	congruent	s618	False
-156.644	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.591	red	blue	stim	incongruent	s618	False
-158.65	1.5	2.0	congruent	1.0	71.0	stroop	71	0.509	blue	blue	stim	congruent	s618	False
-160.655	1.5	2.272	incongruent	1.0	71.0	stroop	71	0.46	blue	green	stim	incongruent	s618	False
-162.931	1.5	2.0	incongruent	0.0	82.0	stroop	89	0.612	green	red	stim	incongruent	s618	False
-164.935	1.5	2.136	congruent	1.0	71.0	stroop	71	0.54	blue	blue	stim	congruent	s618	False
-167.076	1.5	2.0	congruent	1.0	71.0	stroop	71	0.603	blue	blue	stim	congruent	s618	False
-169.079	1.5	2.136	congruent	1.0	71.0	stroop	71	0.45	blue	blue	stim	congruent	s618	False
-171.22	1.5	2.0	congruent	1.0	82.0	stroop	82	0.592	green	green	stim	congruent	s618	False
-173.224	1.5	2.0	congruent	1.0	89.0	stroop	89	0.526	red	red	stim	congruent	s618	False
-175.226	1.5	2.0	incongruent	1.0	82.0	stroop	82	0.711	green	blue	stim	incongruent	s618	False
-177.231	1.5	2.272	incongruent	1.0	89.0	stroop	89	1.139	red	green	stim	incongruent	s618	False
-179.508	1.5	2.0	incongruent	1.0	89.0	stroop	89	0.627	red	blue	stim	incongruent	s618	False
-181.512	1.5	2.136	incongruent	1.0	82.0	stroop	82	0.964	green	blue	stim	incongruent	s618	False
-183.652	1.5	2.408	congruent	1.0	89.0	stroop	89	0.582	red	red	stim	congruent	s618	False
-186.063	1.5	2.272	incongruent	0.0	71.0	stroop	82	0.65	blue	green	stim	incongruent	s618	False
-188.338	1.5	2.68	congruent	1.0	82.0	stroop	82	0.466	green	green	stim	congruent	s618	False
-191.023	1.5	2.0	congruent	1.0	89.0	stroop	89	0.569	red	red	stim	congruent	s618	False
-193.026	1.5	2.408	congruent	1.0	89.0	stroop	89	0.459	red	red	stim	congruent	s618	False
-195.436	1.5	2.136	congruent	1.0	82.0	stroop	82	0.606	green	green	stim	congruent	s618	False
-197.575	1.5	2.68	incongruent	1.0	71.0	stroop	71	0.552	blue	red	stim	incongruent	s618	False
-200.26	1.5	2.0	incongruent	1.0	71.0	stroop	71	0.543	blue	red	stim	incongruent	s618	False
-202.263	1.5	2.136	incongruent	1.0	89.0	stroop	89	1.057	red	green	stim	incongruent	s618	False
-204.402	1.5	2.952	congruent	1.0	82.0	stroop	82	1.015	green	green	stim	congruent	s618	False
-207.359	1.5	2.0	incongruent	1.0	71.0	stroop	71	1.615	blue	green	stim	incongruent	s618	False
+onset	duration	condition	correct	correct_response	experiment_exp_id	key_press	response_time	stim_color	stim_word	trial_type	worker_id
+3.518	1.5	incongruent	1.0	71.0	stroop	71	0.875	blue	red	incongruent	s618
+5.794	1.5	incongruent	1.0	82.0	stroop	82	0.57	green	blue	incongruent	s618
+7.801	1.5	congruent	1.0	71.0	stroop	71	0.511	blue	blue	congruent	s618
+9.806	1.5	congruent	1.0	71.0	stroop	71	0.593	blue	blue	congruent	s618
+11.808	1.5	incongruent	1.0	71.0	stroop	71	0.748	blue	green	incongruent	s618
+13.809	1.5	congruent	1.0	89.0	stroop	89	0.446	red	red	congruent	s618
+15.95	1.5	congruent	1.0	89.0	stroop	89	0.531	red	red	congruent	s618
+17.956	1.5	incongruent	1.0	82.0	stroop	82	0.556	green	red	incongruent	s618
+19.958	1.5	congruent	1.0	71.0	stroop	71	0.361	blue	blue	congruent	s618
+22.1	1.5	incongruent	1.0	89.0	stroop	89	0.345	red	green	incongruent	s618
+24.105	1.5	incongruent	1.0	89.0	stroop	89	0.444	red	green	incongruent	s618
+26.108	1.5	incongruent	1.0	71.0	stroop	71	0.583	blue	green	incongruent	s618
+28.247	1.5	congruent	1.0	71.0	stroop	71	0.59	blue	blue	congruent	s618
+30.387	1.5	congruent	1.0	82.0	stroop	82	0.45	green	green	congruent	s618
+32.663	1.5	incongruent	1.0	89.0	stroop	89	0.636	red	blue	incongruent	s618
+35.348	1.5	congruent	1.0	89.0	stroop	89	0.504	red	red	congruent	s618
+37.354	1.5	congruent	1.0	82.0	stroop	82	0.594	green	green	congruent	s618
+39.359	1.5	incongruent	1.0	82.0	stroop	82	0.552	green	blue	incongruent	s618
+41.637	1.5	incongruent	1.0	89.0	stroop	89	0.681	red	blue	incongruent	s618
+43.642	1.5	congruent	1.0	89.0	stroop	89	0.571	red	red	congruent	s618
+45.644	1.5	incongruent	1.0	71.0	stroop	71	0.584	blue	green	incongruent	s618
+47.647	1.5	incongruent	1.0	71.0	stroop	71	0.476	blue	green	incongruent	s618
+49.653	1.5	incongruent	1.0	71.0	stroop	71	0.544	blue	green	incongruent	s618
+51.655	1.5	incongruent	1.0	71.0	stroop	71	0.395	blue	red	incongruent	s618
+53.658	1.5	congruent	1.0	89.0	stroop	89	0.54	red	red	congruent	s618
+55.936	1.5	incongruent	1.0	71.0	stroop	71	0.511	blue	red	incongruent	s618
+57.939	1.5	congruent	1.0	82.0	stroop	82	0.373	green	green	congruent	s618
+60.352	1.5	congruent	1.0	89.0	stroop	89	0.468	red	red	congruent	s618
+62.355	1.5	congruent	1.0	82.0	stroop	82	0.631	green	green	congruent	s618
+64.496	1.5	congruent	1.0	71.0	stroop	71	0.545	blue	blue	congruent	s618
+66.502	1.5	congruent	1.0	82.0	stroop	82	0.566	green	green	congruent	s618
+68.506	1.5	incongruent	1.0	71.0	stroop	71	0.564	blue	red	incongruent	s618
+70.508	1.5	congruent	1.0	71.0	stroop	71	0.621	blue	blue	congruent	s618
+72.785	1.5	incongruent	1.0	89.0	stroop	89	0.517	red	blue	incongruent	s618
+74.79	1.5	incongruent	1.0	82.0	stroop	82	0.622	green	red	incongruent	s618
+77.068	1.5	incongruent	1.0	71.0	stroop	71	0.388	blue	green	incongruent	s618
+79.345	1.5	incongruent	1.0	71.0	stroop	71	0.456	blue	red	incongruent	s618
+81.348	1.5	congruent	1.0	71.0	stroop	71	0.443	blue	blue	congruent	s618
+84.033	1.5	incongruent	1.0	89.0	stroop	89	0.523	red	blue	incongruent	s618
+86.038	1.5	congruent	1.0	71.0	stroop	71	0.426	blue	blue	congruent	s618
+88.316	1.5	congruent	1.0	82.0	stroop	82	0.32	green	green	congruent	s618
+90.321	1.5	congruent	1.0	89.0	stroop	89	0.379	red	red	congruent	s618
+92.326	1.5	incongruent	1.0	82.0	stroop	82	0.646	green	blue	incongruent	s618
+94.602	1.5	congruent	1.0	82.0	stroop	82	0.488	green	green	congruent	s618
+96.739	1.5	congruent	1.0	71.0	stroop	71	0.492	blue	blue	congruent	s618
+99.284	1.5	incongruent	1.0	89.0	stroop	89	0.864	red	blue	incongruent	s618
+101.697	1.5	incongruent	1.0	71.0	stroop	71	0.741	blue	green	incongruent	s618
+103.7	1.5	incongruent	1.0	71.0	stroop	71	0.485	blue	green	incongruent	s618
+105.707	1.5	incongruent	1.0	82.0	stroop	82	0.62	green	red	incongruent	s618
+107.709	1.5	congruent	1.0	89.0	stroop	89	0.531	red	red	congruent	s618
+110.256	1.5	congruent	1.0	71.0	stroop	71	0.547	blue	blue	congruent	s618
+112.397	1.5	congruent	1.0	71.0	stroop	71	0.431	blue	blue	congruent	s618
+114.402	1.5	congruent	1.0	71.0	stroop	71	0.358	blue	blue	congruent	s618
+116.406	1.5	congruent	1.0	82.0	stroop	82	0.497	green	green	congruent	s618
+118.68	1.5	incongruent	1.0	89.0	stroop	89	0.478	red	green	incongruent	s618
+120.683	1.5	congruent	1.0	71.0	stroop	71	0.384	blue	blue	congruent	s618
+122.688	1.5	incongruent	1.0	71.0	stroop	71	0.373	blue	red	incongruent	s618
+124.827	1.5	incongruent	1.0	89.0	stroop	89	0.616	red	green	incongruent	s618
+126.83	1.5	incongruent	1.0	82.0	stroop	82	0.494	green	red	incongruent	s618
+129.104	1.5	congruent	1.0	71.0	stroop	71	0.384	blue	blue	congruent	s618
+131.243	1.5	incongruent	0.0	82.0	stroop	89	0.702	green	blue	incongruent	s618
+133.657	1.5	congruent	1.0	89.0	stroop	89	0.456	red	red	congruent	s618
+135.662	1.5	congruent	1.0	82.0	stroop	82	0.619	green	green	congruent	s618
+137.667	1.5	incongruent	1.0	89.0	stroop	89	0.498	red	green	incongruent	s618
+140.487	1.5	incongruent	1.0	89.0	stroop	89	0.618	red	green	incongruent	s618
+142.489	1.5	incongruent	1.0	82.0	stroop	82	0.787	green	red	incongruent	s618
+144.492	1.5	congruent	1.0	71.0	stroop	71	0.498	blue	blue	congruent	s618
+146.633	1.5	congruent	1.0	82.0	stroop	82	0.533	green	green	congruent	s618
+148.638	1.5	incongruent	1.0	82.0	stroop	82	0.894	green	red	incongruent	s618
+150.644	1.5	congruent	1.0	89.0	stroop	89	0.519	red	red	congruent	s618
+152.649	1.5	incongruent	1.0	82.0	stroop	82	0.678	green	blue	incongruent	s618
+154.655	1.5	congruent	1.0	82.0	stroop	82	0.541	green	green	congruent	s618
+156.66	1.5	incongruent	1.0	82.0	stroop	82	0.652	green	blue	incongruent	s618
+158.666	1.5	congruent	1.0	89.0	stroop	89	0.461	red	red	congruent	s618
+160.671	1.5	incongruent	1.0	89.0	stroop	89	0.431	red	blue	incongruent	s618
+162.948	1.5	incongruent	1.0	71.0	stroop	71	0.346	blue	red	incongruent	s618
+164.95	1.5	congruent	1.0	89.0	stroop	89	0.576	red	red	congruent	s618
+167.087	1.5	congruent	1.0	71.0	stroop	71	0.875	blue	blue	congruent	s618
+169.09	1.5	congruent	1.0	89.0	stroop	89	0.457	red	red	congruent	s618
+171.231	1.5	congruent	1.0	82.0	stroop	82	0.507	green	green	congruent	s618
+173.237	1.5	congruent	1.0	82.0	stroop	82	0.689	green	green	congruent	s618
+175.242	1.5	incongruent	1.0	82.0	stroop	82	0.604	green	red	incongruent	s618
+177.248	1.5	incongruent	1.0	71.0	stroop	71	0.513	blue	red	incongruent	s618
+179.525	1.5	incongruent	1.0	82.0	stroop	82	0.839	green	blue	incongruent	s618
+181.528	1.5	incongruent	1.0	89.0	stroop	89	0.518	red	green	incongruent	s618
+183.667	1.5	congruent	1.0	82.0	stroop	82	0.392	green	green	congruent	s618
+186.08	1.5	incongruent	1.0	89.0	stroop	89	0.829	red	blue	incongruent	s618
+188.355	1.5	congruent	1.0	82.0	stroop	82	0.529	green	green	congruent	s618
+191.04	1.5	congruent	1.0	89.0	stroop	89	0.447	red	red	congruent	s618
+193.043	1.5	congruent	1.0	89.0	stroop	89	0.39	red	red	congruent	s618
+195.454	1.5	congruent	1.0	89.0	stroop	89	0.433	red	red	congruent	s618
+197.593	1.5	incongruent	1.0	82.0	stroop	82	0.843	green	blue	incongruent	s618
+200.278	1.5	incongruent	1.0	89.0	stroop	89	0.512	red	blue	incongruent	s618
+202.281	1.5	incongruent	1.0	82.0	stroop	82	0.792	green	red	incongruent	s618
+204.419	1.5	congruent	1.0	82.0	stroop	82	0.72	green	green	congruent	s618
+207.377	1.5	incongruent	1.0	89.0	stroop	89	0.528	red	green	incongruent	s618

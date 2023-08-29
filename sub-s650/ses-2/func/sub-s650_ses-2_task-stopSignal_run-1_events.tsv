@@ -1,126 +1,126 @@
-onset	duration	SS_delay	block_duration	correct	correct_response	experiment_exp_id	key_press	passed_check	response_time	stopped	trial_id	trial_type	worker_id	junk
-3.01	0.85	0.3	2.386	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-5.399	0.85	0.3	2.522	1.0	71.0	stop_signal	71.0	True	0.661	False	stim	go	s650	False
-7.924	0.85	0.3	2.93	1.0	89.0	stop_signal	89.0	True	0.604	False	stim	stop_failure	s650	False
-10.856	0.85	0.25	2.522	1.0	71.0	stop_signal	71.0	True	1.082	False	stim	go	s650	False
-13.381	0.85	0.25	2.522	1.0	71.0	stop_signal	71.0	True	1.537	False	stim	go	s650	False
-15.906	0.85	0.25	2.25	1.0	71.0	stop_signal	71.0	True	0.636	False	stim	go	s650	False
-18.159	0.85	0.25	2.522	1.0	89.0	stop_signal	89.0	True	1.097	False	stim	stop_failure	s650	False
-20.682	0.85	0.2	2.386	1.0	89.0	stop_signal	89.0	True	0.823	False	stim	go	s650	False
-23.071	0.85	0.2	2.25	1.0	89.0	stop_signal	89.0	True	0.559	False	stim	go	s650	False
-25.324	0.85	0.2	2.386	1.0	71.0	stop_signal	71.0	True	0.54	False	stim	go	s650	False
-27.712	0.85	0.2	2.25	1.0	71.0	stop_signal	71.0	True	0.436	False	stim	go	s650	False
-29.964	0.85	0.2	2.386	0.0	89.0	stop_signal	71.0	True	0.511	False	stim	stop_failure	s650	False
-32.352	0.85	0.15	2.522	1.0	71.0	stop_signal	71.0	True	0.823	False	stim	go	s650	False
-34.877	0.85	0.15	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-37.129	0.85	0.2	2.386	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-39.518	0.85	0.25	2.658	1.0	89.0	stop_signal	89.0	True	0.542	False	stim	go	s650	False
-42.179	0.85	0.25	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-44.432	0.85	0.3	3.202	1.0	71.0	stop_signal	71.0	True	0.435	False	stim	go	s650	False
-47.636	0.85	0.3	2.386	1.0	89.0	stop_signal	89.0	True	1.157	False	stim	go	s650	False
-50.025	0.85	0.3	2.386	1.0	89.0	stop_signal	89.0	True	0.554	False	stim	go	s650	False
-52.414	0.85	0.3	2.522	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-54.938	0.85	0.35	2.25	1.0	89.0	stop_signal	89.0	True	0.854	False	stim	go	s650	False
-57.191	0.85	0.35	2.25	1.0	89.0	stop_signal	89.0	True	0.45	False	stim	stop_failure	s650	False
-59.444	0.85	0.3	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-61.696	0.85	0.35	2.93	0.0	71.0	stop_signal	89.0	True	1.289	False	stim	go	s650	False
-64.627	0.85	0.35	2.522	1.0	89.0	stop_signal	89.0	True	1.218	False	stim	go	s650	False
-67.152	0.85	0.35	2.522	1.0	71.0	stop_signal	71.0	True	0.689	False	stim	go	s650	False
-69.676	0.85	0.35	2.25	1.0	89.0	stop_signal	89.0	True	1.122	False	stim	go	s650	False
-71.929	0.85	0.35	2.522	1.0	89.0	stop_signal	89.0	True	0.655	False	stim	stop_failure	s650	False
-74.453	0.85	0.3	2.25	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-76.706	0.85	0.35	2.386	1.0	71.0	stop_signal	71.0	True	1.057	False	stim	go	s650	False
-79.094	0.85	0.35	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-81.346	0.85	0.4	2.658	1.0	89.0	stop_signal	89.0	True	1.05	False	stim	go	s650	False
-84.007	0.85	0.4	2.658	1.0	71.0	stop_signal	71.0	True	0.893	False	stim	go	s650	False
-86.667	0.85	0.4	2.25	1.0	71.0	stop_signal	71.0	True	0.922	False	stim	go	s650	False
-88.92	0.85	0.4	2.25	1.0	71.0	stop_signal	71.0	True	0.794	False	stim	go	s650	False
-91.172	0.85	0.4	2.386	1.0	71.0	stop_signal	71.0	True	0.716	False	stim	go	s650	False
-93.561	0.85	0.4	2.794	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-96.358	0.85	0.45	2.386	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-98.747	0.85	0.5	2.25	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-101.0	0.85	0.55	2.25	1.0	71.0	stop_signal	71.0	True	0.723	False	stim	stop_failure	s650	False
-113.759	0.85	0.5	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-116.011	0.85	0.55	2.658	1.0	89.0	stop_signal	89.0	True	0.603	False	stim	go	s650	False
-118.671	0.85	0.55	2.658	1.0	89.0	stop_signal	89.0	True	0.431	False	stim	go	s650	False
-121.332	0.85	0.55	2.25	1.0	71.0	stop_signal	71.0	True	0.703	False	stim	go	s650	False
-123.585	0.85	0.55	2.522	1.0	71.0	stop_signal	71.0	True	0.717	False	stim	go	s650	False
-126.11	0.85	0.55	2.25	1.0	89.0	stop_signal	89.0	True	0.687	False	stim	go	s650	False
-128.362	0.85	0.55	2.522	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-130.887	0.85	0.6	2.522	1.0	71.0	stop_signal	71.0	True	0.761	False	stim	go	s650	False
-133.412	0.85	0.6	2.522	1.0	71.0	stop_signal	71.0	True	0.69	False	stim	stop_failure	s650	False
-135.937	0.85	0.55	2.386	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-138.326	0.85	0.6	2.522	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-140.852	0.85	0.65	2.522	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-143.377	0.85	0.65	2.386	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-145.766	0.85	0.65	2.25	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-148.017	0.85	0.65	2.522	1.0	71.0	stop_signal	71.0	True	0.608	False	stim	go	s650	False
-150.541	0.85	0.65	2.794	1.0	89.0	stop_signal	89.0	True	0.726	False	stim	go	s650	False
-153.338	0.85	0.65	2.522	1.0	71.0	stop_signal	71.0	True	0.834	False	stim	stop_failure	s650	False
-155.863	0.85	0.6	2.386	1.0	71.0	stop_signal	71.0	True	0.7	False	stim	stop_failure	s650	False
-158.251	0.85	0.55	2.25	1.0	89.0	stop_signal	89.0	True	1.123	False	stim	go	s650	False
-160.503	0.85	0.55	2.25	1.0	71.0	stop_signal	71.0	True	0.982	False	stim	stop_failure	s650	False
-162.756	0.85	0.5	2.25	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-165.009	0.85	0.55	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-167.262	0.85	0.6	2.522	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-169.787	0.85	0.6	2.25	1.0	89.0	stop_signal	89.0	True	0.999	False	stim	go	s650	False
-172.04	0.85	0.6	2.25	1.0	89.0	stop_signal	89.0	True	0.542	False	stim	stop_failure	s650	False
-174.291	0.85	0.55	2.25	1.0	71.0	stop_signal	71.0	True	0.858	False	stim	go	s650	False
-176.544	0.85	0.55	2.25	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-178.797	0.85	0.55	2.386	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-181.186	0.85	0.55	2.25	1.0	71.0	stop_signal	71.0	True	0.78	False	stim	go	s650	False
-183.438	0.85	0.55	2.25	1.0	71.0	stop_signal	71.0	True	0.374	False	stim	stop_failure	s650	False
-185.69	0.85	0.5	2.25	1.0	89.0	stop_signal	89.0	True	0.731	False	stim	go	s650	False
-187.942	0.85	0.5	2.25	0.0	71.0	stop_signal	89.0	True	0.581	False	stim	stop_failure	s650	False
-190.195	0.85	0.45	2.522	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-192.719	0.85	0.5	2.386	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-195.108	0.85	0.5	2.522	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-197.632	0.85	0.5	2.25	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-199.884	0.85	0.55	2.386	1.0	89.0	stop_signal	89.0	True	0.792	False	stim	go	s650	False
-202.273	0.85	0.55	2.386	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-204.662	0.85	0.55	2.25	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-206.915	0.85	0.55	2.386	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-209.303	0.85	0.55	2.386	1.0	89.0	stop_signal	89.0	True	0.723	False	stim	go	s650	False
-211.692	0.85	0.55	2.386	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-224.589	0.85	0.6	2.658	1.0	71.0	stop_signal	71.0	True	0.661	False	stim	go	s650	False
-227.25	0.85	0.6	2.522	1.0	89.0	stop_signal	89.0	True	1.088	False	stim	go	s650	False
-229.774	0.85	0.6	2.25	1.0	89.0	stop_signal	89.0	True	0.759	False	stim	stop_failure	s650	False
-232.027	0.85	0.55	2.93	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-234.96	0.85	0.6	2.25	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-237.213	0.85	0.6	2.522	1.0	71.0	stop_signal	71.0	True	1.271	False	stim	go	s650	False
-239.738	0.85	0.6	2.25	1.0	71.0	stop_signal	71.0	True	0.401	False	stim	stop_failure	s650	False
-241.99	0.85	0.55	2.25	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-244.242	0.85	0.55	2.25	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-246.494	0.85	0.55	2.25	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-248.747	0.85	0.55	2.522	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-251.272	0.85	0.55	3.066	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-254.341	0.85	0.6	2.25	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-256.593	0.85	0.65	2.386	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-258.982	0.85	0.65	2.386	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-261.371	0.85	0.7	2.522	1.0	89.0	stop_signal	89.0	True	1.174	False	stim	go	s650	False
-263.896	0.85	0.7	2.386	1.0	71.0	stop_signal	71.0	True	0.577	False	stim	go	s650	False
-266.284	0.85	0.7	2.386	1.0	89.0	stop_signal	89.0	True	0.705	False	stim	go	s650	False
-268.672	0.85	0.7	2.794	1.0	71.0	stop_signal	71.0	True	0.535	False	stim	stop_failure	s650	False
-271.469	0.85	0.65	2.386	1.0	89.0	stop_signal	89.0	True	1.18	False	stim	go	s650	False
-273.858	0.85	0.65	2.25	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-276.111	0.85	0.7	2.522	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-278.635	0.85	0.75	2.386	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-281.024	0.85	0.8	2.386	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-283.412	0.85	0.8	2.25	1.0	89.0	stop_signal	89.0	True	0.932	False	stim	stop_failure	s650	False
-285.664	0.85	0.75	2.386	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-288.052	0.85	0.75	2.25	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-290.304	0.85	0.75	2.25	1.0	89.0	stop_signal	89.0	True	0.759	False	stim	stop_failure	s650	False
-292.556	0.85	0.7	2.25	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-294.809	0.85	0.7	2.386	0.0	89.0	stop_signal	71.0	True	1.921	False	stim	go	s650	False
-297.198	0.85	0.7	2.25	1.0	71.0	stop_signal	71.0	True	0.518	False	stim	stop_failure	s650	False
-299.45	0.85	0.65	2.25	1.0	71.0	stop_signal	71.0	True	1.141	False	stim	stop_failure	s650	False
-301.703	0.85	0.6	2.386	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-304.092	0.85	0.65	2.386	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-306.48	0.85	0.7	2.25	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-308.733	0.85	0.7	2.522	1.0	89.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-311.257	0.85	0.75	2.25	0.0	71.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-313.51	0.85	0.75	2.386	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-315.899	0.85	0.75	2.25	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-318.152	0.85	0.75	2.25	1.0	71.0	stop_signal	-1.0	True	n/a	True	stim	stop_success	s650	False
-320.405	0.85	0.8	2.386	0.0	89.0	stop_signal	-1.0	True	n/a	True	stim	go	s650	False
-322.793	0.85	0.8	2.522	1.0	71.0	stop_signal	71.0	True	1.021	False	stim	go	s650	False
+onset	duration	SS_delay	correct_response	experiment_exp_id	key_press	response_time	stopped	trial_type	worker_id
+3.01	0.85	0.3	89.0	stop_signal	-1.0	n/a	True	go	s650
+5.399	0.85	0.3	71.0	stop_signal	71.0	0.661	False	go	s650
+7.924	0.85	0.3	89.0	stop_signal	89.0	0.604	False	stop_failure	s650
+10.856	0.85	0.25	71.0	stop_signal	71.0	1.082	False	go	s650
+13.381	0.85	0.25	71.0	stop_signal	71.0	1.537	False	go	s650
+15.906	0.85	0.25	71.0	stop_signal	71.0	0.636	False	go	s650
+18.159	0.85	0.25	89.0	stop_signal	89.0	1.097	False	stop_failure	s650
+20.682	0.85	0.2	89.0	stop_signal	89.0	0.823	False	go	s650
+23.071	0.85	0.2	89.0	stop_signal	89.0	0.559	False	go	s650
+25.324	0.85	0.2	71.0	stop_signal	71.0	0.54	False	go	s650
+27.712	0.85	0.2	71.0	stop_signal	71.0	0.436	False	go	s650
+29.964	0.85	0.2	89.0	stop_signal	71.0	0.511	False	stop_failure	s650
+32.352	0.85	0.15	71.0	stop_signal	71.0	0.823	False	go	s650
+34.877	0.85	0.15	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+37.129	0.85	0.2	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+39.518	0.85	0.25	89.0	stop_signal	89.0	0.542	False	go	s650
+42.179	0.85	0.25	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+44.432	0.85	0.3	71.0	stop_signal	71.0	0.435	False	go	s650
+47.636	0.85	0.3	89.0	stop_signal	89.0	1.157	False	go	s650
+50.025	0.85	0.3	89.0	stop_signal	89.0	0.554	False	go	s650
+52.414	0.85	0.3	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+54.938	0.85	0.35	89.0	stop_signal	89.0	0.854	False	go	s650
+57.191	0.85	0.35	89.0	stop_signal	89.0	0.45	False	stop_failure	s650
+59.444	0.85	0.3	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+61.696	0.85	0.35	71.0	stop_signal	89.0	1.289	False	go	s650
+64.627	0.85	0.35	89.0	stop_signal	89.0	1.218	False	go	s650
+67.152	0.85	0.35	71.0	stop_signal	71.0	0.689	False	go	s650
+69.676	0.85	0.35	89.0	stop_signal	89.0	1.122	False	go	s650
+71.929	0.85	0.35	89.0	stop_signal	89.0	0.655	False	stop_failure	s650
+74.453	0.85	0.3	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+76.706	0.85	0.35	71.0	stop_signal	71.0	1.057	False	go	s650
+79.094	0.85	0.35	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+81.346	0.85	0.4	89.0	stop_signal	89.0	1.05	False	go	s650
+84.007	0.85	0.4	71.0	stop_signal	71.0	0.893	False	go	s650
+86.667	0.85	0.4	71.0	stop_signal	71.0	0.922	False	go	s650
+88.92	0.85	0.4	71.0	stop_signal	71.0	0.794	False	go	s650
+91.172	0.85	0.4	71.0	stop_signal	71.0	0.716	False	go	s650
+93.561	0.85	0.4	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+96.358	0.85	0.45	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+98.747	0.85	0.5	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+101.0	0.85	0.55	71.0	stop_signal	71.0	0.723	False	stop_failure	s650
+113.759	0.85	0.5	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+116.011	0.85	0.55	89.0	stop_signal	89.0	0.603	False	go	s650
+118.671	0.85	0.55	89.0	stop_signal	89.0	0.431	False	go	s650
+121.332	0.85	0.55	71.0	stop_signal	71.0	0.703	False	go	s650
+123.585	0.85	0.55	71.0	stop_signal	71.0	0.717	False	go	s650
+126.11	0.85	0.55	89.0	stop_signal	89.0	0.687	False	go	s650
+128.362	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+130.887	0.85	0.6	71.0	stop_signal	71.0	0.761	False	go	s650
+133.412	0.85	0.6	71.0	stop_signal	71.0	0.69	False	stop_failure	s650
+135.937	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+138.326	0.85	0.6	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+140.852	0.85	0.65	71.0	stop_signal	-1.0	n/a	True	go	s650
+143.377	0.85	0.65	71.0	stop_signal	-1.0	n/a	True	go	s650
+145.766	0.85	0.65	89.0	stop_signal	-1.0	n/a	True	go	s650
+148.017	0.85	0.65	71.0	stop_signal	71.0	0.608	False	go	s650
+150.541	0.85	0.65	89.0	stop_signal	89.0	0.726	False	go	s650
+153.338	0.85	0.65	71.0	stop_signal	71.0	0.834	False	stop_failure	s650
+155.863	0.85	0.6	71.0	stop_signal	71.0	0.7	False	stop_failure	s650
+158.251	0.85	0.55	89.0	stop_signal	89.0	1.123	False	go	s650
+160.503	0.85	0.55	71.0	stop_signal	71.0	0.982	False	stop_failure	s650
+162.756	0.85	0.5	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+165.009	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+167.262	0.85	0.6	89.0	stop_signal	-1.0	n/a	True	go	s650
+169.787	0.85	0.6	89.0	stop_signal	89.0	0.999	False	go	s650
+172.04	0.85	0.6	89.0	stop_signal	89.0	0.542	False	stop_failure	s650
+174.291	0.85	0.55	71.0	stop_signal	71.0	0.858	False	go	s650
+176.544	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	go	s650
+178.797	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	go	s650
+181.186	0.85	0.55	71.0	stop_signal	71.0	0.78	False	go	s650
+183.438	0.85	0.55	71.0	stop_signal	71.0	0.374	False	stop_failure	s650
+185.69	0.85	0.5	89.0	stop_signal	89.0	0.731	False	go	s650
+187.942	0.85	0.5	71.0	stop_signal	89.0	0.581	False	stop_failure	s650
+190.195	0.85	0.45	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+192.719	0.85	0.5	89.0	stop_signal	-1.0	n/a	True	go	s650
+195.108	0.85	0.5	89.0	stop_signal	-1.0	n/a	True	go	s650
+197.632	0.85	0.5	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+199.884	0.85	0.55	89.0	stop_signal	89.0	0.792	False	go	s650
+202.273	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	go	s650
+204.662	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	go	s650
+206.915	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	go	s650
+209.303	0.85	0.55	89.0	stop_signal	89.0	0.723	False	go	s650
+211.692	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+224.589	0.85	0.6	71.0	stop_signal	71.0	0.661	False	go	s650
+227.25	0.85	0.6	89.0	stop_signal	89.0	1.088	False	go	s650
+229.774	0.85	0.6	89.0	stop_signal	89.0	0.759	False	stop_failure	s650
+232.027	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+234.96	0.85	0.6	89.0	stop_signal	-1.0	n/a	True	go	s650
+237.213	0.85	0.6	71.0	stop_signal	71.0	1.271	False	go	s650
+239.738	0.85	0.6	71.0	stop_signal	71.0	0.401	False	stop_failure	s650
+241.99	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	go	s650
+244.242	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	go	s650
+246.494	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	go	s650
+248.747	0.85	0.55	89.0	stop_signal	-1.0	n/a	True	go	s650
+251.272	0.85	0.55	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+254.341	0.85	0.6	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+256.593	0.85	0.65	71.0	stop_signal	-1.0	n/a	True	go	s650
+258.982	0.85	0.65	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+261.371	0.85	0.7	89.0	stop_signal	89.0	1.174	False	go	s650
+263.896	0.85	0.7	71.0	stop_signal	71.0	0.577	False	go	s650
+266.284	0.85	0.7	89.0	stop_signal	89.0	0.705	False	go	s650
+268.672	0.85	0.7	71.0	stop_signal	71.0	0.535	False	stop_failure	s650
+271.469	0.85	0.65	89.0	stop_signal	89.0	1.18	False	go	s650
+273.858	0.85	0.65	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+276.111	0.85	0.7	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+278.635	0.85	0.75	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+281.024	0.85	0.8	71.0	stop_signal	-1.0	n/a	True	go	s650
+283.412	0.85	0.8	89.0	stop_signal	89.0	0.932	False	stop_failure	s650
+285.664	0.85	0.75	71.0	stop_signal	-1.0	n/a	True	go	s650
+288.052	0.85	0.75	71.0	stop_signal	-1.0	n/a	True	go	s650
+290.304	0.85	0.75	89.0	stop_signal	89.0	0.759	False	stop_failure	s650
+292.556	0.85	0.7	89.0	stop_signal	-1.0	n/a	True	go	s650
+294.809	0.85	0.7	89.0	stop_signal	71.0	1.921	False	go	s650
+297.198	0.85	0.7	71.0	stop_signal	71.0	0.518	False	stop_failure	s650
+299.45	0.85	0.65	71.0	stop_signal	71.0	1.141	False	stop_failure	s650
+301.703	0.85	0.6	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+304.092	0.85	0.65	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+306.48	0.85	0.7	71.0	stop_signal	-1.0	n/a	True	go	s650
+308.733	0.85	0.7	89.0	stop_signal	-1.0	n/a	True	stop_success	s650
+311.257	0.85	0.75	71.0	stop_signal	-1.0	n/a	True	go	s650
+313.51	0.85	0.75	89.0	stop_signal	-1.0	n/a	True	go	s650
+315.899	0.85	0.75	89.0	stop_signal	-1.0	n/a	True	go	s650
+318.152	0.85	0.75	71.0	stop_signal	-1.0	n/a	True	stop_success	s650
+320.405	0.85	0.8	89.0	stop_signal	-1.0	n/a	True	go	s650
+322.793	0.85	0.8	71.0	stop_signal	71.0	1.021	False	go	s650

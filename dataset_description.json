@@ -1,5 +1,1 @@
-{
-    "BIDSVersion": "1.51-rc1",
-    "Name": "Uh 2 Aim 1 fmri_data",
-    "License": "CC0"
-}
+{"BIDSVersion": "1.51-rc1", "Name": "fmri_data"}

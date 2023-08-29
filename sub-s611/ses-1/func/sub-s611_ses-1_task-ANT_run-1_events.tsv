@@ -1,129 +1,129 @@
-onset	duration	block_duration	correct	correct_response	cue	experiment_exp_id	flanker_location	flanker_middle_direction	flanker_type	key_press	response_time	trial_id	worker_id	junk
-3.516	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.576	stim	s611	False
-6.123728	1.7	2.100272	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.86	stim	s611	False
-8.732	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.461	stim	s611	False
-11.339864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.411	stim	s611	False
-13.948592000000001	1.7	2.100408	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.507	stim	s611	False
-16.556455999999997	1.7	2.1005439999999997	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.754	stim	s611	False
-19.17	1.7	2.1	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.562	stim	s611	False
-21.783864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.633	stim	s611	False
-24.396864	1.7	2.100136	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.946	stim	s611	False
-27.004864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.621	stim	s611	False
-29.618864000000002	1.7	2.100136	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.807	stim	s611	False
-32.231728	1.7	2.100272	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.489	stim	s611	False
-34.840864	1.7	2.100136	0.0	71.0	spatial	attention_network_task	down	right	incongruent	89	0.577	stim	s611	False
-37.447592	1.7	2.100408	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.713	stim	s611	False
-40.057	1.7	2.1	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.578	stim	s611	False
-42.664864	1.7	2.100136	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.459	stim	s611	False
-45.273	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.571	stim	s611	False
-47.883864	1.7	2.100136	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.783	stim	s611	False
-50.496048	1.7	2.1009520000000004	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.505	stim	s611	False
-53.106728000000004	1.7	2.100272	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.472	stim	s611	False
-55.718864	1.7	2.100136	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.647	stim	s611	False
-58.329	1.7	2.1	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.527	stim	s611	False
-60.936864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.551	stim	s611	False
-63.545	1.7	2.1	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.512	stim	s611	False
-66.15886400000001	1.7	2.100136	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.589	stim	s611	False
-68.766728	1.7	2.100272	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.591	stim	s611	False
-71.37572800000001	1.7	2.100272	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.536	stim	s611	False
-73.982864	1.7	2.100136	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.699	stim	s611	False
-76.591	1.7	2.1	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.583	stim	s611	False
-79.199864	1.7	2.100136	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.511	stim	s611	False
-81.812	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.449	stim	s611	False
-84.419728	1.7	2.100272	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.685	stim	s611	False
-87.029	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.717	stim	s611	False
-89.637	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.572	stim	s611	False
-92.244864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.491	stim	s611	False
-94.852728	1.7	2.100272	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.55	stim	s611	False
-97.465592	1.7	2.100408	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.705	stim	s611	False
-100.075	1.7	2.1	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.725	stim	s611	False
-102.681864	1.7	2.100136	0.0	71.0	double	attention_network_task	up	right	congruent	89	0.69	stim	s611	False
-105.290864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.581	stim	s611	False
-107.899	1.7	2.1	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.538	stim	s611	False
-110.506592	1.7	2.100408	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.713	stim	s611	False
-113.114456	1.7	2.1005439999999997	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.459	stim	s611	False
-115.723864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.634	stim	s611	False
-118.329864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.695	stim	s611	False
-120.94	1.7	2.1	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.491	stim	s611	False
-123.553	1.7	2.1	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.595	stim	s611	False
-126.160864	1.7	2.100136	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.718	stim	s611	False
-128.772	1.7	2.1	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.719	stim	s611	False
-131.381864	1.7	2.100136	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.636	stim	s611	False
-133.99	1.7	2.1	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.575	stim	s611	False
-136.597592	1.7	2.100408	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.563	stim	s611	False
-139.208	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.698	stim	s611	False
-141.814184	1.7	2.100816	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.647	stim	s611	False
-144.42232	1.7	2.1006799999999997	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.578	stim	s611	False
-147.031	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.472	stim	s611	False
-149.638864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.536	stim	s611	False
-152.246864	1.7	2.100136	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.93	stim	s611	False
-154.854864	1.7	2.100136	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.806	stim	s611	False
-157.463	1.7	2.1	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.555	stim	s611	False
-160.072864	1.7	2.100136	0.0	89.0	spatial	attention_network_task	up	left	incongruent	71	0.667	stim	s611	False
-162.67904800000002	1.7	2.1009520000000004	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.452	stim	s611	False
-164.971864	1.7	2.100136	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.535	stim	s611	False
-167.585592	1.7	2.100408	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.536	stim	s611	False
-180.705048	1.7	2.1009520000000004	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.554	stim	s611	False
-183.311864	1.7	2.100136	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.547	stim	s611	False
-185.921728	1.7	2.100272	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.668	stim	s611	False
-188.529728	1.7	2.100272	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.594	stim	s611	False
-191.139	1.7	2.1	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.495	stim	s611	False
-193.748	1.7	2.1	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.503	stim	s611	False
-196.354728	1.7	2.100272	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.542	stim	s611	False
-198.966	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.548	stim	s611	False
-201.576	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.72	stim	s611	False
-204.184728	1.7	2.100272	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.604	stim	s611	False
-206.793	1.7	2.1	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.531	stim	s611	False
-209.400864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.683	stim	s611	False
-212.012728	1.7	2.100272	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.517	stim	s611	False
-214.622	1.7	2.1	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.574	stim	s611	False
-217.232	1.7	2.1	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.819	stim	s611	False
-219.844	1.7	2.1	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.879	stim	s611	False
-222.452	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.535	stim	s611	False
-225.065	1.7	2.1	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.539	stim	s611	False
-227.673	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.975	stim	s611	False
-230.280728	1.7	2.100272	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.663	stim	s611	False
-232.888864	1.7	2.100136	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.55	stim	s611	False
-235.500912	1.7	2.1010880000000003	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.627	stim	s611	False
-238.110728	1.7	2.100272	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.54	stim	s611	False
-240.718864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.594	stim	s611	False
-243.326864	1.7	2.100136	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.461	stim	s611	False
-245.935	1.7	2.1	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.433	stim	s611	False
-248.543	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.718	stim	s611	False
-251.151	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.502	stim	s611	False
-253.761	1.7	2.1	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.726	stim	s611	False
-256.367864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.582	stim	s611	False
-258.975728	1.7	2.100272	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.744	stim	s611	False
-261.583864	1.7	2.100136	0.0	71.0	spatial	attention_network_task	down	right	congruent	89	0.626	stim	s611	False
-264.196864	1.7	2.100136	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.573	stim	s611	False
-266.805	1.7	2.1	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.627	stim	s611	False
-269.414	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.538	stim	s611	False
-272.020592	1.7	2.100408	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.678	stim	s611	False
-274.633456	1.7	2.1005439999999997	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.645	stim	s611	False
-277.242592	1.7	2.100408	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.557	stim	s611	False
-279.851	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.488	stim	s611	False
-282.458592	1.7	2.100408	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.484	stim	s611	False
-285.067	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.527	stim	s611	False
-287.675592	1.7	2.100408	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.634	stim	s611	False
-290.283	1.7	2.1	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.496	stim	s611	False
-292.892	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.794	stim	s611	False
-295.499592	1.7	2.100408	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.639	stim	s611	False
-298.107864	1.7	2.100136	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.481	stim	s611	False
-300.716728	1.7	2.100272	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.651	stim	s611	False
-303.328456	1.7	2.1005439999999997	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.461	stim	s611	False
-305.936728	1.7	2.100272	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.556	stim	s611	False
-308.545	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.755	stim	s611	False
-311.152592	1.7	2.100408	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.491	stim	s611	False
-313.764	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.517	stim	s611	False
-316.375	1.7	2.1	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.716	stim	s611	False
-318.982456	1.7	2.1005439999999997	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.725	stim	s611	False
-321.590592	1.7	2.100408	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.676	stim	s611	False
-324.205	1.7	2.1	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.578	stim	s611	False
-326.817864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.454	stim	s611	False
-329.425184	1.7	2.100816	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.568	stim	s611	False
-332.033864	1.7	2.100136	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.726	stim	s611	False
-334.642	1.7	2.1	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.471	stim	s611	False
-337.255864	1.7	2.100136	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.674	stim	s611	False
-339.863864	1.7	2.100136	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.74	stim	s611	False
-342.471864	1.7	2.100136	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.712	stim	s611	False
-345.079456	1.7	2.1005439999999997	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.991	stim	s611	False
+onset	duration	correct	correct_response	cue	experiment_exp_id	flanker_location	flanker_middle_direction	flanker_type	key_press	response_time	worker_id
+3.516	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.576	s611
+6.123728	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.86	s611
+8.732	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.461	s611
+11.339864	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.411	s611
+13.948592000000001	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.507	s611
+16.556455999999997	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.754	s611
+19.17	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.562	s611
+21.783864	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.633	s611
+24.396864	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.946	s611
+27.004864	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.621	s611
+29.618864000000002	1.7	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.807	s611
+32.231728	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.489	s611
+34.840864	1.7	0.0	71.0	spatial	attention_network_task	down	right	incongruent	89	0.577	s611
+37.447592	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.713	s611
+40.057	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.578	s611
+42.664864	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.459	s611
+45.273	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.571	s611
+47.883864	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.783	s611
+50.496048	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.505	s611
+53.106728000000004	1.7	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.472	s611
+55.718864	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.647	s611
+58.329	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.527	s611
+60.936864	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.551	s611
+63.545	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.512	s611
+66.15886400000001	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.589	s611
+68.766728	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.591	s611
+71.37572800000001	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.536	s611
+73.982864	1.7	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.699	s611
+76.591	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.583	s611
+79.199864	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.511	s611
+81.812	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.449	s611
+84.419728	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.685	s611
+87.029	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.717	s611
+89.637	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.572	s611
+92.244864	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.491	s611
+94.852728	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.55	s611
+97.465592	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.705	s611
+100.075	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.725	s611
+102.681864	1.7	0.0	71.0	double	attention_network_task	up	right	congruent	89	0.69	s611
+105.290864	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.581	s611
+107.899	1.7	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.538	s611
+110.506592	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.713	s611
+113.114456	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.459	s611
+115.723864	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.634	s611
+118.329864	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.695	s611
+120.94	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.491	s611
+123.553	1.7	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.595	s611
+126.160864	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.718	s611
+128.772	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.719	s611
+131.381864	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.636	s611
+133.99	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.575	s611
+136.597592	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.563	s611
+139.208	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.698	s611
+141.814184	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.647	s611
+144.42232	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.578	s611
+147.031	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.472	s611
+149.638864	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.536	s611
+152.246864	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.93	s611
+154.854864	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.806	s611
+157.463	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.555	s611
+160.072864	1.7	0.0	89.0	spatial	attention_network_task	up	left	incongruent	71	0.667	s611
+162.67904800000002	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.452	s611
+164.971864	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.535	s611
+167.585592	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.536	s611
+180.705048	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.554	s611
+183.311864	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.547	s611
+185.921728	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.668	s611
+188.529728	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.594	s611
+191.139	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.495	s611
+193.748	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.503	s611
+196.354728	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.542	s611
+198.966	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.548	s611
+201.576	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.72	s611
+204.184728	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.604	s611
+206.793	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.531	s611
+209.400864	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.683	s611
+212.012728	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.517	s611
+214.622	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.574	s611
+217.232	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.819	s611
+219.844	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.879	s611
+222.452	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.535	s611
+225.065	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.539	s611
+227.673	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.975	s611
+230.280728	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.663	s611
+232.888864	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.55	s611
+235.500912	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.627	s611
+238.110728	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.54	s611
+240.718864	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.594	s611
+243.326864	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.461	s611
+245.935	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.433	s611
+248.543	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.718	s611
+251.151	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.502	s611
+253.761	1.7	1.0	71.0	double	attention_network_task	down	right	incongruent	71	0.726	s611
+256.367864	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.582	s611
+258.975728	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.744	s611
+261.583864	1.7	0.0	71.0	spatial	attention_network_task	down	right	congruent	89	0.626	s611
+264.196864	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.573	s611
+266.805	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.627	s611
+269.414	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.538	s611
+272.020592	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.678	s611
+274.633456	1.7	1.0	89.0	double	attention_network_task	up	left	congruent	89	0.645	s611
+277.242592	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.557	s611
+279.851	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.488	s611
+282.458592	1.7	1.0	89.0	double	attention_network_task	down	left	congruent	89	0.484	s611
+285.067	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.527	s611
+287.675592	1.7	1.0	89.0	spatial	attention_network_task	up	left	congruent	89	0.634	s611
+290.283	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.496	s611
+292.892	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.794	s611
+295.499592	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.639	s611
+298.107864	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.481	s611
+300.716728	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.651	s611
+303.328456	1.7	1.0	89.0	double	attention_network_task	up	left	incongruent	89	0.461	s611
+305.936728	1.7	1.0	89.0	spatial	attention_network_task	down	left	incongruent	89	0.556	s611
+308.545	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.755	s611
+311.152592	1.7	1.0	71.0	spatial	attention_network_task	down	right	incongruent	71	0.491	s611
+313.764	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.517	s611
+316.375	1.7	1.0	71.0	double	attention_network_task	up	right	congruent	71	0.716	s611
+318.982456	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.725	s611
+321.590592	1.7	1.0	89.0	spatial	attention_network_task	down	left	congruent	89	0.676	s611
+324.205	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.578	s611
+326.817864	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.454	s611
+329.425184	1.7	1.0	89.0	spatial	attention_network_task	up	left	incongruent	89	0.568	s611
+332.033864	1.7	1.0	71.0	double	attention_network_task	down	right	congruent	71	0.726	s611
+334.642	1.7	1.0	71.0	spatial	attention_network_task	up	right	congruent	71	0.471	s611
+337.255864	1.7	1.0	89.0	double	attention_network_task	down	left	incongruent	89	0.674	s611
+339.863864	1.7	1.0	71.0	spatial	attention_network_task	up	right	incongruent	71	0.74	s611
+342.471864	1.7	1.0	71.0	double	attention_network_task	up	right	incongruent	71	0.712	s611
+345.079456	1.7	1.0	71.0	spatial	attention_network_task	down	right	congruent	71	0.991	s611

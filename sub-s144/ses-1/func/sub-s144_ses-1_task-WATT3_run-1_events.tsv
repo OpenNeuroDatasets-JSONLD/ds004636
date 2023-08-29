@@ -1,397 +1,449 @@
-onset	duration	block_duration	movement_onset	planning	condition	exp_stage	experiment_exp_id	key_press	problem_id	response_time	trial_id	trial_type	worker_id	junk
-3.012	2.048	2.048	5.06	1	UA_with_intermediate	practice	ward_and_allport	71	0.0	2.048	to_hand	poldrack-single-stim	s144	False
-5.061	0.1	0.283	5.344	0	UA_with_intermediate	practice	ward_and_allport	82	0.0	0.283	to_board	poldrack-single-stim	s144	False
-5.346	0.1	0.283	5.629	0	UA_with_intermediate	practice	ward_and_allport	71	0.0	0.283	to_hand	poldrack-single-stim	s144	False
-5.63	0.1	0.227	5.857	0	UA_with_intermediate	practice	ward_and_allport	89	0.0	0.227	to_board	poldrack-single-stim	s144	False
-5.858	0.1	0.305	6.163	0	UA_with_intermediate	practice	ward_and_allport	82	0.0	0.305	to_hand	poldrack-single-stim	s144	False
-6.164	0.1	0.171	6.335	0	UA_with_intermediate	practice	ward_and_allport	89	0.0	0.171	to_board	poldrack-single-stim	s144	False
-6.339	1.0	2.5	6.338	0	UA_with_intermediate	practice	ward_and_allport	-1	0.0	n/a	feedback	poldrack-single-stim	s144	False
-8.842	2.182	2.182	11.024	1	UA_with_intermediate	practice	ward_and_allport	89	1.0	2.182	to_hand	poldrack-single-stim	s144	False
-11.024	0.1	0.183	11.207	0	UA_with_intermediate	practice	ward_and_allport	82	1.0	0.183	to_board	poldrack-single-stim	s144	False
-11.209	0.1	0.266	11.475	0	UA_with_intermediate	practice	ward_and_allport	71	1.0	0.266	to_hand	poldrack-single-stim	s144	False
-11.476	0.1	0.173	11.649	0	UA_with_intermediate	practice	ward_and_allport	89	1.0	0.173	to_board	poldrack-single-stim	s144	False
-11.65	0.1	0.503	12.153	0	UA_with_intermediate	practice	ward_and_allport	82	1.0	0.503	to_hand	poldrack-single-stim	s144	False
-12.154	0.1	0.116	12.27	0	UA_with_intermediate	practice	ward_and_allport	89	1.0	0.116	to_board	poldrack-single-stim	s144	False
-12.273	1.0	2.1	12.272	0	UA_with_intermediate	practice	ward_and_allport	-1	1.0	n/a	feedback	poldrack-single-stim	s144	False
-14.375	1.543	1.543	15.918	1	UA_without_intermediate	practice	ward_and_allport	82	2.0	1.543	to_hand	poldrack-single-stim	s144	False
-15.918	0.1	0.189	16.107	0	UA_without_intermediate	practice	ward_and_allport	89	2.0	0.189	to_board	poldrack-single-stim	s144	False
-16.108	0.1	0.378	16.486	0	UA_without_intermediate	practice	ward_and_allport	71	2.0	0.378	to_hand	poldrack-single-stim	s144	False
-16.487	0.1	0.138	16.625	0	UA_without_intermediate	practice	ward_and_allport	89	2.0	0.138	to_board	poldrack-single-stim	s144	False
-16.627	0.1	0.52	17.147	0	UA_without_intermediate	practice	ward_and_allport	71	2.0	0.52	to_hand	poldrack-single-stim	s144	False
-17.148	0.1	0.108	17.256	0	UA_without_intermediate	practice	ward_and_allport	89	2.0	0.108	to_board	poldrack-single-stim	s144	False
-17.259	1.0	2.2	17.258	0	UA_without_intermediate	practice	ward_and_allport	-1	2.0	n/a	feedback	poldrack-single-stim	s144	False
-19.461	1.826	1.826	21.287	1	UA_without_intermediate	practice	ward_and_allport	71	3.0	1.826	to_hand	poldrack-single-stim	s144	False
-21.288	0.1	0.164	21.452	0	UA_without_intermediate	practice	ward_and_allport	89	3.0	0.164	to_board	poldrack-single-stim	s144	False
-21.454	0.1	0.175	21.629	0	UA_without_intermediate	practice	ward_and_allport	82	3.0	0.175	to_hand	poldrack-single-stim	s144	False
-21.63	0.1	0.101	21.731	0	UA_without_intermediate	practice	ward_and_allport	89	3.0	0.101	to_board	poldrack-single-stim	s144	False
-21.732	0.1	0.171	21.903	0	UA_without_intermediate	practice	ward_and_allport	71	3.0	0.171	to_hand	poldrack-single-stim	s144	False
-21.905	0.1	0.608	22.513	0	UA_without_intermediate	practice	ward_and_allport	89	3.0	0.608	to_board	poldrack-single-stim	s144	False
-22.52	1.0	2.0	22.519	0	UA_without_intermediate	practice	ward_and_allport	-1	3.0	n/a	feedback	poldrack-single-stim	s144	False
-26.525	1.799	1.799	28.324	1	PA_with_intermediate	test	ward_and_allport	71	0.0	1.799	to_hand	poldrack-single-stim	s144	False
-28.325	0.1	0.176	28.501	0	PA_with_intermediate	test	ward_and_allport	82	0.0	0.176	to_board	poldrack-single-stim	s144	False
-28.502	0.1	0.357	28.859	0	PA_with_intermediate	test	ward_and_allport	71	0.0	0.357	to_hand	poldrack-single-stim	s144	False
-28.86	0.1	0.151	29.011	0	PA_with_intermediate	test	ward_and_allport	89	0.0	0.151	to_board	poldrack-single-stim	s144	False
-29.012	0.1	0.266	29.278	0	PA_with_intermediate	test	ward_and_allport	71	0.0	0.266	to_hand	poldrack-single-stim	s144	False
-29.279	0.1	0.653	29.932	0	PA_with_intermediate	test	ward_and_allport	71	0.0	0.653	to_board	poldrack-single-stim	s144	False
-29.934	0.1	0.281	30.215	0	PA_with_intermediate	test	ward_and_allport	82	0.0	0.281	to_hand	poldrack-single-stim	s144	False
-30.216	0.1	0.179	30.395	0	PA_with_intermediate	test	ward_and_allport	71	0.0	0.179	to_board	poldrack-single-stim	s144	False
-30.4	1.0	2.408	30.399	0	PA_with_intermediate	test	ward_and_allport	-1	0.0	n/a	feedback	poldrack-single-stim	s144	False
-32.81	2.04	2.04	34.85	1	PA_without_intermediate	test	ward_and_allport	89	1.0	2.04	to_hand	poldrack-single-stim	s144	False
-34.852	0.1	0.222	35.074	0	PA_without_intermediate	test	ward_and_allport	82	1.0	0.222	to_board	poldrack-single-stim	s144	False
-35.076	0.1	0.42	35.496	0	PA_without_intermediate	test	ward_and_allport	89	1.0	0.42	to_hand	poldrack-single-stim	s144	False
-35.498	0.1	0.249	35.747	0	PA_without_intermediate	test	ward_and_allport	82	1.0	0.249	to_board	poldrack-single-stim	s144	False
-35.749	0.1	0.882	36.631	0	PA_without_intermediate	test	ward_and_allport	89	1.0	0.882	to_hand	poldrack-single-stim	s144	False
-36.633	0.1	0.245	36.878	0	PA_without_intermediate	test	ward_and_allport	71	1.0	0.245	to_board	poldrack-single-stim	s144	False
-36.88	1.0	2.68	36.879	0	PA_without_intermediate	test	ward_and_allport	-1	1.0	n/a	feedback	poldrack-single-stim	s144	False
-39.564	1.709	1.709	41.273	1	PA_with_intermediate	test	ward_and_allport	82	2.0	1.709	to_hand	poldrack-single-stim	s144	False
-41.273	0.1	0.227	41.5	0	PA_with_intermediate	test	ward_and_allport	71	2.0	0.227	to_board	poldrack-single-stim	s144	False
-41.502	0.1	0.333	41.835	0	PA_with_intermediate	test	ward_and_allport	82	2.0	0.333	to_hand	poldrack-single-stim	s144	False
-41.836	0.1	0.201	42.037	0	PA_with_intermediate	test	ward_and_allport	89	2.0	0.201	to_board	poldrack-single-stim	s144	False
-42.04	0.1	0.492	42.532	0	PA_with_intermediate	test	ward_and_allport	71	2.0	0.492	to_hand	poldrack-single-stim	s144	False
-42.533	0.1	0.326	42.859	0	PA_with_intermediate	test	ward_and_allport	82	2.0	0.326	to_board	poldrack-single-stim	s144	False
-42.862	1.0	4.72	42.861	0	PA_with_intermediate	test	ward_and_allport	-1	2.0	n/a	feedback	poldrack-single-stim	s144	False
-47.585	3.091	3.091	50.676	1	PA_without_intermediate	test	ward_and_allport	89	3.0	3.091	to_hand	poldrack-single-stim	s144	False
-50.676	0.1	0.231	50.907	0	PA_without_intermediate	test	ward_and_allport	71	3.0	0.231	to_board	poldrack-single-stim	s144	False
-50.909	0.1	0.56	51.469	0	PA_without_intermediate	test	ward_and_allport	89	3.0	0.56	to_hand	poldrack-single-stim	s144	False
-51.471	0.1	0.273	51.744	0	PA_without_intermediate	test	ward_and_allport	71	3.0	0.273	to_board	poldrack-single-stim	s144	False
-51.748	0.1	0.279	52.027	0	PA_without_intermediate	test	ward_and_allport	89	3.0	0.279	to_hand	poldrack-single-stim	s144	False
-52.027	0.1	0.15	52.177	0	PA_without_intermediate	test	ward_and_allport	82	3.0	0.15	to_board	poldrack-single-stim	s144	False
-52.182	1.0	3.224	52.181	0	PA_without_intermediate	test	ward_and_allport	-1	3.0	n/a	feedback	poldrack-single-stim	s144	False
-55.407	1.355	1.355	56.762	1	PA_without_intermediate	test	ward_and_allport	82	4.0	1.355	to_hand	poldrack-single-stim	s144	False
-56.763	0.1	0.191	56.954	0	PA_without_intermediate	test	ward_and_allport	89	4.0	0.191	to_board	poldrack-single-stim	s144	False
-56.956	0.1	0.357	57.313	0	PA_without_intermediate	test	ward_and_allport	82	4.0	0.357	to_hand	poldrack-single-stim	s144	False
-57.314	0.1	0.595	57.909	0	PA_without_intermediate	test	ward_and_allport	71	4.0	0.595	to_board	poldrack-single-stim	s144	False
-57.911	0.1	0.229	58.14	0	PA_without_intermediate	test	ward_and_allport	82	4.0	0.229	to_hand	poldrack-single-stim	s144	False
-58.141	0.1	0.132	58.273	0	PA_without_intermediate	test	ward_and_allport	89	4.0	0.132	to_board	poldrack-single-stim	s144	False
-58.279	1.0	2.272	58.278	0	PA_without_intermediate	test	ward_and_allport	-1	4.0	n/a	feedback	poldrack-single-stim	s144	False
-60.553	1.799	1.799	62.352	1	PA_with_intermediate	test	ward_and_allport	82	5.0	1.799	to_hand	poldrack-single-stim	s144	False
-62.354	0.1	0.157	62.511	0	PA_with_intermediate	test	ward_and_allport	71	5.0	0.157	to_board	poldrack-single-stim	s144	False
-62.513	0.1	0.217	62.73	0	PA_with_intermediate	test	ward_and_allport	82	5.0	0.217	to_hand	poldrack-single-stim	s144	False
-62.731	0.1	0.165	62.896	0	PA_with_intermediate	test	ward_and_allport	89	5.0	0.165	to_board	poldrack-single-stim	s144	False
-62.9	0.1	0.757	63.657	0	PA_with_intermediate	test	ward_and_allport	82	5.0	0.757	to_hand	poldrack-single-stim	s144	False
-63.658	0.1	0.569	64.227	0	PA_with_intermediate	test	ward_and_allport	82	5.0	0.569	to_board	poldrack-single-stim	s144	False
-64.228	0.1	0.225	64.453	0	PA_with_intermediate	test	ward_and_allport	71	5.0	0.225	to_hand	poldrack-single-stim	s144	False
-64.455	0.1	0.136	64.591	0	PA_with_intermediate	test	ward_and_allport	89	5.0	0.136	to_board	poldrack-single-stim	s144	False
-64.595	1.0	3.632	64.594	0	PA_with_intermediate	test	ward_and_allport	-1	5.0	n/a	feedback	poldrack-single-stim	s144	False
-68.229	1.765	1.765	69.994	1	PA_without_intermediate	test	ward_and_allport	82	6.0	1.765	to_hand	poldrack-single-stim	s144	False
-69.995	0.1	0.183	70.178	0	PA_without_intermediate	test	ward_and_allport	89	6.0	0.183	to_board	poldrack-single-stim	s144	False
-70.181	0.1	0.512	70.693	0	PA_without_intermediate	test	ward_and_allport	82	6.0	0.512	to_hand	poldrack-single-stim	s144	False
-70.694	0.1	0.174	70.868	0	PA_without_intermediate	test	ward_and_allport	89	6.0	0.174	to_board	poldrack-single-stim	s144	False
-70.87	0.1	0.58	71.45	0	PA_without_intermediate	test	ward_and_allport	82	6.0	0.58	to_hand	poldrack-single-stim	s144	False
-71.451	0.1	0.135	71.586	0	PA_without_intermediate	test	ward_and_allport	71	6.0	0.135	to_board	poldrack-single-stim	s144	False
-71.594	1.0	2.408	71.593	0	PA_without_intermediate	test	ward_and_allport	-1	6.0	n/a	feedback	poldrack-single-stim	s144	False
-74.005	1.252	1.252	75.257	1	PA_without_intermediate	test	ward_and_allport	71	7.0	1.252	to_hand	poldrack-single-stim	s144	False
-75.258	0.1	0.21	75.468	0	PA_without_intermediate	test	ward_and_allport	89	7.0	0.21	to_board	poldrack-single-stim	s144	False
-75.471	0.1	0.436	75.907	0	PA_without_intermediate	test	ward_and_allport	71	7.0	0.436	to_hand	poldrack-single-stim	s144	False
-75.909	0.1	0.223	76.132	0	PA_without_intermediate	test	ward_and_allport	89	7.0	0.223	to_board	poldrack-single-stim	s144	False
-76.134	0.1	0.451	76.585	0	PA_without_intermediate	test	ward_and_allport	71	7.0	0.451	to_hand	poldrack-single-stim	s144	False
-76.586	0.1	0.197	76.783	0	PA_without_intermediate	test	ward_and_allport	82	7.0	0.197	to_board	poldrack-single-stim	s144	False
-76.787	1.0	2.0	76.786	0	PA_without_intermediate	test	ward_and_allport	-1	7.0	n/a	feedback	poldrack-single-stim	s144	False
-78.79	2.856	2.856	81.646	1	PA_with_intermediate	test	ward_and_allport	89	8.0	2.856	to_hand	poldrack-single-stim	s144	False
-81.646	0.1	0.163	81.809	0	PA_with_intermediate	test	ward_and_allport	82	8.0	0.163	to_board	poldrack-single-stim	s144	False
-81.812	0.1	0.365	82.177	0	PA_with_intermediate	test	ward_and_allport	89	8.0	0.365	to_hand	poldrack-single-stim	s144	False
-82.178	0.1	0.178	82.356	0	PA_with_intermediate	test	ward_and_allport	71	8.0	0.178	to_board	poldrack-single-stim	s144	False
-82.359	0.1	0.412	82.771	0	PA_with_intermediate	test	ward_and_allport	82	8.0	0.412	to_hand	poldrack-single-stim	s144	False
-82.772	0.1	0.073	82.845	0	PA_with_intermediate	test	ward_and_allport	89	8.0	0.073	to_board	poldrack-single-stim	s144	False
-82.851	1.0	2.0	82.85	0	PA_with_intermediate	test	ward_and_allport	-1	8.0	n/a	feedback	poldrack-single-stim	s144	False
-84.855	2.954	2.954	87.809	1	PA_with_intermediate	test	ward_and_allport	71	9.0	2.954	to_hand	poldrack-single-stim	s144	False
-87.81	0.1	0.15	87.96	0	PA_with_intermediate	test	ward_and_allport	89	9.0	0.15	to_board	poldrack-single-stim	s144	False
-87.964	0.1	0.222	88.186	0	PA_with_intermediate	test	ward_and_allport	71	9.0	0.222	to_hand	poldrack-single-stim	s144	False
-88.186	0.1	0.17	88.356	0	PA_with_intermediate	test	ward_and_allport	82	9.0	0.17	to_board	poldrack-single-stim	s144	False
-88.359	0.1	0.185	88.544	0	PA_with_intermediate	test	ward_and_allport	89	9.0	0.185	to_hand	poldrack-single-stim	s144	False
-88.545	0.1	0.148	88.693	0	PA_with_intermediate	test	ward_and_allport	71	9.0	0.148	to_board	poldrack-single-stim	s144	False
-88.699	1.0	2.0	88.698	0	PA_with_intermediate	test	ward_and_allport	-1	9.0	n/a	feedback	poldrack-single-stim	s144	False
-90.705	1.574	1.574	92.279	1	PA_with_intermediate	test	ward_and_allport	89	10.0	1.574	to_hand	poldrack-single-stim	s144	False
-92.281	0.1	0.208	92.489	0	PA_with_intermediate	test	ward_and_allport	82	10.0	0.208	to_board	poldrack-single-stim	s144	False
-92.494	0.1	0.144	92.638	0	PA_with_intermediate	test	ward_and_allport	89	10.0	0.144	to_hand	poldrack-single-stim	s144	False
-92.638	0.1	0.152	92.79	0	PA_with_intermediate	test	ward_and_allport	82	10.0	0.152	to_board	poldrack-single-stim	s144	False
-92.794	0.1	1.412	94.206	0	PA_with_intermediate	test	ward_and_allport	82	10.0	1.412	to_hand	poldrack-single-stim	s144	False
-94.207	0.1	0.253	94.46	0	PA_with_intermediate	test	ward_and_allport	71	10.0	0.253	to_board	poldrack-single-stim	s144	False
-94.464	0.1	0.766	95.23	0	PA_with_intermediate	test	ward_and_allport	82	10.0	0.766	to_hand	poldrack-single-stim	s144	False
-95.23	0.1	0.315	95.545	0	PA_with_intermediate	test	ward_and_allport	89	10.0	0.315	to_board	poldrack-single-stim	s144	False
-95.549	0.1	0.364	95.913	0	PA_with_intermediate	test	ward_and_allport	71	10.0	0.364	to_hand	poldrack-single-stim	s144	False
-95.913	0.1	0.429	96.342	0	PA_with_intermediate	test	ward_and_allport	82	10.0	0.429	to_board	poldrack-single-stim	s144	False
-96.346	0.1	0.297	96.643	0	PA_with_intermediate	test	ward_and_allport	89	10.0	0.297	to_hand	poldrack-single-stim	s144	False
-96.643	0.1	0.143	96.786	0	PA_with_intermediate	test	ward_and_allport	82	10.0	0.143	to_board	poldrack-single-stim	s144	False
-96.795	1.0	2.408	96.794	0	PA_with_intermediate	test	ward_and_allport	-1	10.0	n/a	feedback	poldrack-single-stim	s144	False
-99.205	1.258	1.258	100.463	1	PA_without_intermediate	test	ward_and_allport	82	11.0	1.258	to_hand	poldrack-single-stim	s144	False
-100.464	0.1	0.257	100.721	0	PA_without_intermediate	test	ward_and_allport	89	11.0	0.257	to_board	poldrack-single-stim	s144	False
-100.725	0.1	0.201	100.926	0	PA_without_intermediate	test	ward_and_allport	82	11.0	0.201	to_hand	poldrack-single-stim	s144	False
-100.927	0.1	0.193	101.12	0	PA_without_intermediate	test	ward_and_allport	71	11.0	0.193	to_board	poldrack-single-stim	s144	False
-101.123	0.1	0.202	101.325	0	PA_without_intermediate	test	ward_and_allport	82	11.0	0.202	to_hand	poldrack-single-stim	s144	False
-101.326	0.1	0.168	101.494	0	PA_without_intermediate	test	ward_and_allport	89	11.0	0.168	to_board	poldrack-single-stim	s144	False
-101.502	1.0	2.816	101.501	0	PA_without_intermediate	test	ward_and_allport	-1	11.0	n/a	feedback	poldrack-single-stim	s144	False
-104.321	1.377	1.377	105.698	1	PA_with_intermediate	test	ward_and_allport	82	12.0	1.377	to_hand	poldrack-single-stim	s144	False
-105.699	0.1	0.189	105.888	0	PA_with_intermediate	test	ward_and_allport	89	12.0	0.189	to_board	poldrack-single-stim	s144	False
-105.893	0.1	0.162	106.055	0	PA_with_intermediate	test	ward_and_allport	82	12.0	0.162	to_hand	poldrack-single-stim	s144	False
-106.056	0.1	0.184	106.24	0	PA_with_intermediate	test	ward_and_allport	71	12.0	0.184	to_board	poldrack-single-stim	s144	False
-106.244	0.1	0.413	106.657	0	PA_with_intermediate	test	ward_and_allport	89	12.0	0.413	to_hand	poldrack-single-stim	s144	False
-106.658	0.1	0.196	106.854	0	PA_with_intermediate	test	ward_and_allport	71	12.0	0.196	to_board	poldrack-single-stim	s144	False
-106.861	1.0	4.176	106.86	0	PA_with_intermediate	test	ward_and_allport	-1	12.0	n/a	feedback	poldrack-single-stim	s144	False
-111.04	1.906	1.906	112.946	1	PA_with_intermediate	test	ward_and_allport	89	13.0	1.906	to_hand	poldrack-single-stim	s144	False
-112.947	0.1	0.223	113.17	0	PA_with_intermediate	test	ward_and_allport	82	13.0	0.223	to_board	poldrack-single-stim	s144	False
-113.173	0.1	0.325	113.498	0	PA_with_intermediate	test	ward_and_allport	89	13.0	0.325	to_hand	poldrack-single-stim	s144	False
-113.499	0.1	0.173	113.672	0	PA_with_intermediate	test	ward_and_allport	82	13.0	0.173	to_board	poldrack-single-stim	s144	False
-113.676	0.1	1.124	114.8	0	PA_with_intermediate	test	ward_and_allport	82	13.0	1.124	to_hand	poldrack-single-stim	s144	False
-114.801	0.1	0.174	114.975	0	PA_with_intermediate	test	ward_and_allport	71	13.0	0.174	to_board	poldrack-single-stim	s144	False
-114.979	0.1	0.38	115.359	0	PA_with_intermediate	test	ward_and_allport	82	13.0	0.38	to_hand	poldrack-single-stim	s144	False
-115.359	0.1	0.189	115.548	0	PA_with_intermediate	test	ward_and_allport	89	13.0	0.189	to_board	poldrack-single-stim	s144	False
-115.552	0.1	0.671	116.223	0	PA_with_intermediate	test	ward_and_allport	71	13.0	0.671	to_hand	poldrack-single-stim	s144	False
-116.224	0.1	0.122	116.346	0	PA_with_intermediate	test	ward_and_allport	82	13.0	0.122	to_board	poldrack-single-stim	s144	False
-116.351	0.1	0.458	116.809	0	PA_with_intermediate	test	ward_and_allport	89	13.0	0.458	to_hand	poldrack-single-stim	s144	False
-116.81	0.1	0.122	116.932	0	PA_with_intermediate	test	ward_and_allport	82	13.0	0.122	to_board	poldrack-single-stim	s144	False
-116.938	1.0	3.36	116.937	0	PA_with_intermediate	test	ward_and_allport	-1	13.0	n/a	feedback	poldrack-single-stim	s144	False
-120.301	1.549	1.549	121.85	1	PA_with_intermediate	test	ward_and_allport	89	14.0	1.549	to_hand	poldrack-single-stim	s144	False
-121.851	0.1	0.15	122.001	0	PA_with_intermediate	test	ward_and_allport	82	14.0	0.15	to_board	poldrack-single-stim	s144	False
-122.005	0.1	0.18	122.185	0	PA_with_intermediate	test	ward_and_allport	89	14.0	0.18	to_hand	poldrack-single-stim	s144	False
-122.186	0.1	0.138	122.324	0	PA_with_intermediate	test	ward_and_allport	71	14.0	0.138	to_board	poldrack-single-stim	s144	False
-122.329	0.1	0.265	122.594	0	PA_with_intermediate	test	ward_and_allport	82	14.0	0.265	to_hand	poldrack-single-stim	s144	False
-122.596	0.1	0.123	122.719	0	PA_with_intermediate	test	ward_and_allport	71	14.0	0.123	to_board	poldrack-single-stim	s144	False
-122.723	1.0	2.0	122.722	0	PA_with_intermediate	test	ward_and_allport	-1	14.0	n/a	feedback	poldrack-single-stim	s144	False
-129.73	2.218	2.218	131.948	1	PA_without_intermediate	test	ward_and_allport	89	15.0	2.218	to_hand	poldrack-single-stim	s144	False
-131.949	0.1	0.175	132.124	0	PA_without_intermediate	test	ward_and_allport	71	15.0	0.175	to_board	poldrack-single-stim	s144	False
-132.128	0.1	0.246	132.374	0	PA_without_intermediate	test	ward_and_allport	89	15.0	0.246	to_hand	poldrack-single-stim	s144	False
-132.375	0.1	0.198	132.573	0	PA_without_intermediate	test	ward_and_allport	71	15.0	0.198	to_board	poldrack-single-stim	s144	False
-132.578	0.1	0.232	132.81	0	PA_without_intermediate	test	ward_and_allport	89	15.0	0.232	to_hand	poldrack-single-stim	s144	False
-132.81	0.1	0.114	132.924	0	PA_without_intermediate	test	ward_and_allport	82	15.0	0.114	to_board	poldrack-single-stim	s144	False
-132.93	1.0	2.408	132.929	0	PA_without_intermediate	test	ward_and_allport	-1	15.0	n/a	feedback	poldrack-single-stim	s144	False
-135.341	2.571	2.571	137.912	1	PA_with_intermediate	test	ward_and_allport	89	16.0	2.571	to_hand	poldrack-single-stim	s144	False
-137.913	0.1	0.126	138.039	0	PA_with_intermediate	test	ward_and_allport	82	16.0	0.126	to_board	poldrack-single-stim	s144	False
-138.044	0.1	0.243	138.287	0	PA_with_intermediate	test	ward_and_allport	89	16.0	0.243	to_hand	poldrack-single-stim	s144	False
-138.288	0.1	0.43	138.718	0	PA_with_intermediate	test	ward_and_allport	71	16.0	0.43	to_board	poldrack-single-stim	s144	False
-138.723	0.1	0.336	139.059	0	PA_with_intermediate	test	ward_and_allport	82	16.0	0.336	to_hand	poldrack-single-stim	s144	False
-139.059	0.1	0.087	139.146	0	PA_with_intermediate	test	ward_and_allport	89	16.0	0.087	to_board	poldrack-single-stim	s144	False
-139.151	1.0	2.816	139.15	0	PA_with_intermediate	test	ward_and_allport	-1	16.0	n/a	feedback	poldrack-single-stim	s144	False
-141.971	1.444	1.444	143.415	1	PA_without_intermediate	test	ward_and_allport	71	17.0	1.444	to_hand	poldrack-single-stim	s144	False
-143.416	0.1	0.138	143.554	0	PA_without_intermediate	test	ward_and_allport	82	17.0	0.138	to_board	poldrack-single-stim	s144	False
-143.559	0.1	0.236	143.795	0	PA_without_intermediate	test	ward_and_allport	71	17.0	0.236	to_hand	poldrack-single-stim	s144	False
-143.795	0.1	0.117	143.912	0	PA_without_intermediate	test	ward_and_allport	82	17.0	0.117	to_board	poldrack-single-stim	s144	False
-143.917	0.1	0.211	144.128	0	PA_without_intermediate	test	ward_and_allport	71	17.0	0.211	to_hand	poldrack-single-stim	s144	False
-144.128	0.1	0.114	144.242	0	PA_without_intermediate	test	ward_and_allport	89	17.0	0.114	to_board	poldrack-single-stim	s144	False
-144.252	1.0	3.088	144.251	0	PA_without_intermediate	test	ward_and_allport	-1	17.0	n/a	feedback	poldrack-single-stim	s144	False
-147.344	1.782	1.782	149.126	1	PA_without_intermediate	test	ward_and_allport	89	18.0	1.782	to_hand	poldrack-single-stim	s144	False
-149.127	0.1	0.097	149.224	0	PA_without_intermediate	test	ward_and_allport	71	18.0	0.097	to_board	poldrack-single-stim	s144	False
-149.228	0.1	0.248	149.476	0	PA_without_intermediate	test	ward_and_allport	89	18.0	0.248	to_hand	poldrack-single-stim	s144	False
-149.478	0.1	0.109	149.587	0	PA_without_intermediate	test	ward_and_allport	82	18.0	0.109	to_board	poldrack-single-stim	s144	False
-149.593	0.1	0.557	150.15	0	PA_without_intermediate	test	ward_and_allport	89	18.0	0.557	to_hand	poldrack-single-stim	s144	False
-150.152	0.1	0.075	150.227	0	PA_without_intermediate	test	ward_and_allport	71	18.0	0.075	to_board	poldrack-single-stim	s144	False
-150.232	1.0	2.136	150.231	0	PA_without_intermediate	test	ward_and_allport	-1	18.0	n/a	feedback	poldrack-single-stim	s144	False
-152.372	1.259	1.259	153.631	1	PA_without_intermediate	test	ward_and_allport	82	19.0	1.259	to_hand	poldrack-single-stim	s144	False
-153.633	0.1	0.12	153.753	0	PA_without_intermediate	test	ward_and_allport	71	19.0	0.12	to_board	poldrack-single-stim	s144	False
-153.76	0.1	0.757	154.517	0	PA_without_intermediate	test	ward_and_allport	82	19.0	0.757	to_hand	poldrack-single-stim	s144	False
-154.518	0.1	0.131	154.649	0	PA_without_intermediate	test	ward_and_allport	89	19.0	0.131	to_board	poldrack-single-stim	s144	False
-154.654	0.1	0.435	155.089	0	PA_without_intermediate	test	ward_and_allport	71	19.0	0.435	to_hand	poldrack-single-stim	s144	False
-155.089	0.1	0.011	155.1	0	PA_without_intermediate	test	ward_and_allport	82	19.0	0.011	to_board	poldrack-single-stim	s144	False
-155.107	0.1	0.876	155.983	0	PA_without_intermediate	test	ward_and_allport	82	19.0	0.876	to_hand	poldrack-single-stim	s144	False
-155.984	0.1	0.068	156.052	0	PA_without_intermediate	test	ward_and_allport	71	19.0	0.068	to_board	poldrack-single-stim	s144	False
-156.056	0.1	0.232	156.288	0	PA_without_intermediate	test	ward_and_allport	71	19.0	0.232	to_hand	poldrack-single-stim	s144	False
-156.289	0.1	0.545	156.834	0	PA_without_intermediate	test	ward_and_allport	71	19.0	0.545	to_board	poldrack-single-stim	s144	False
-156.839	0.1	0.186	157.025	0	PA_without_intermediate	test	ward_and_allport	82	19.0	0.186	to_hand	poldrack-single-stim	s144	False
-157.026	0.1	0.154	157.18	0	PA_without_intermediate	test	ward_and_allport	71	19.0	0.154	to_board	poldrack-single-stim	s144	False
-157.187	1.0	7.168	157.186	0	PA_without_intermediate	test	ward_and_allport	-1	19.0	n/a	feedback	poldrack-single-stim	s144	False
-164.362	1.177	1.177	165.539	1	PA_without_intermediate	test	ward_and_allport	82	20.0	1.177	to_hand	poldrack-single-stim	s144	False
-165.54	0.1	0.169	165.709	0	PA_without_intermediate	test	ward_and_allport	71	20.0	0.169	to_board	poldrack-single-stim	s144	False
-165.716	0.1	0.162	165.878	0	PA_without_intermediate	test	ward_and_allport	82	20.0	0.162	to_hand	poldrack-single-stim	s144	False
-165.879	0.1	0.131	166.01	0	PA_without_intermediate	test	ward_and_allport	71	20.0	0.131	to_board	poldrack-single-stim	s144	False
-166.016	0.1	0.262	166.278	0	PA_without_intermediate	test	ward_and_allport	82	20.0	0.262	to_hand	poldrack-single-stim	s144	False
-166.278	0.1	0.101	166.379	0	PA_without_intermediate	test	ward_and_allport	89	20.0	0.101	to_board	poldrack-single-stim	s144	False
-166.386	1.0	2.816	166.385	0	PA_without_intermediate	test	ward_and_allport	-1	20.0	n/a	feedback	poldrack-single-stim	s144	False
-169.208	2.142	2.142	171.35	1	PA_with_intermediate	test	ward_and_allport	82	21.0	2.142	to_hand	poldrack-single-stim	s144	False
-171.352	0.1	0.149	171.501	0	PA_with_intermediate	test	ward_and_allport	89	21.0	0.149	to_board	poldrack-single-stim	s144	False
-171.507	0.1	0.174	171.681	0	PA_with_intermediate	test	ward_and_allport	82	21.0	0.174	to_hand	poldrack-single-stim	s144	False
-171.682	0.1	0.154	171.836	0	PA_with_intermediate	test	ward_and_allport	71	21.0	0.154	to_board	poldrack-single-stim	s144	False
-171.842	0.1	0.448	172.29	0	PA_with_intermediate	test	ward_and_allport	89	21.0	0.448	to_hand	poldrack-single-stim	s144	False
-172.291	0.1	0.114	172.405	0	PA_with_intermediate	test	ward_and_allport	82	21.0	0.114	to_board	poldrack-single-stim	s144	False
-172.412	1.0	2.952	172.411	0	PA_with_intermediate	test	ward_and_allport	-1	21.0	n/a	feedback	poldrack-single-stim	s144	False
-175.369	1.427	1.427	176.796	1	PA_with_intermediate	test	ward_and_allport	82	22.0	1.427	to_hand	poldrack-single-stim	s144	False
-176.797	0.1	0.148	176.945	0	PA_with_intermediate	test	ward_and_allport	71	22.0	0.148	to_board	poldrack-single-stim	s144	False
-176.951	0.1	0.125	177.076	0	PA_with_intermediate	test	ward_and_allport	82	22.0	0.125	to_hand	poldrack-single-stim	s144	False
-177.077	0.1	0.194	177.271	0	PA_with_intermediate	test	ward_and_allport	89	22.0	0.194	to_board	poldrack-single-stim	s144	False
-177.277	0.1	0.295	177.572	0	PA_with_intermediate	test	ward_and_allport	71	22.0	0.295	to_hand	poldrack-single-stim	s144	False
-177.573	0.1	0.142	177.715	0	PA_with_intermediate	test	ward_and_allport	82	22.0	0.142	to_board	poldrack-single-stim	s144	False
-177.726	1.0	2.136	177.725	0	PA_with_intermediate	test	ward_and_allport	-1	22.0	n/a	feedback	poldrack-single-stim	s144	False
-179.868	0.955	0.955	180.823	1	PA_without_intermediate	test	ward_and_allport	71	23.0	0.955	to_hand	poldrack-single-stim	s144	False
-180.823	0.1	0.134	180.957	0	PA_without_intermediate	test	ward_and_allport	82	23.0	0.134	to_board	poldrack-single-stim	s144	False
-180.964	0.1	0.219	181.183	0	PA_without_intermediate	test	ward_and_allport	71	23.0	0.219	to_hand	poldrack-single-stim	s144	False
-181.183	0.1	0.116	181.299	0	PA_without_intermediate	test	ward_and_allport	82	23.0	0.116	to_board	poldrack-single-stim	s144	False
-181.304	0.1	0.319	181.623	0	PA_without_intermediate	test	ward_and_allport	71	23.0	0.319	to_hand	poldrack-single-stim	s144	False
-181.625	0.1	0.091	181.716	0	PA_without_intermediate	test	ward_and_allport	89	23.0	0.091	to_board	poldrack-single-stim	s144	False
-181.721	1.0	2.68	181.72	0	PA_without_intermediate	test	ward_and_allport	-1	23.0	n/a	feedback	poldrack-single-stim	s144	False
-184.407	1.198	1.198	185.605	1	PA_without_intermediate	test	ward_and_allport	82	24.0	1.198	to_hand	poldrack-single-stim	s144	False
-185.606	0.1	0.139	185.745	0	PA_without_intermediate	test	ward_and_allport	89	24.0	0.139	to_board	poldrack-single-stim	s144	False
-185.751	0.1	0.228	185.979	0	PA_without_intermediate	test	ward_and_allport	82	24.0	0.228	to_hand	poldrack-single-stim	s144	False
-185.98	0.1	0.081	186.061	0	PA_without_intermediate	test	ward_and_allport	89	24.0	0.081	to_board	poldrack-single-stim	s144	False
-186.066	0.1	0.474	186.54	0	PA_without_intermediate	test	ward_and_allport	82	24.0	0.474	to_hand	poldrack-single-stim	s144	False
-186.54	0.1	0.137	186.677	0	PA_without_intermediate	test	ward_and_allport	71	24.0	0.137	to_board	poldrack-single-stim	s144	False
-186.686	1.0	3.088	186.685	0	PA_without_intermediate	test	ward_and_allport	-1	24.0	n/a	feedback	poldrack-single-stim	s144	False
-189.778	1.739	1.739	191.517	1	PA_with_intermediate	test	ward_and_allport	89	25.0	1.739	to_hand	poldrack-single-stim	s144	False
-191.518	0.1	0.134	191.652	0	PA_with_intermediate	test	ward_and_allport	82	25.0	0.134	to_board	poldrack-single-stim	s144	False
-191.658	0.1	0.263	191.921	0	PA_with_intermediate	test	ward_and_allport	89	25.0	0.263	to_hand	poldrack-single-stim	s144	False
-191.922	0.1	0.111	192.033	0	PA_with_intermediate	test	ward_and_allport	71	25.0	0.111	to_board	poldrack-single-stim	s144	False
-192.039	0.1	0.25	192.289	0	PA_with_intermediate	test	ward_and_allport	82	25.0	0.25	to_hand	poldrack-single-stim	s144	False
-192.29	0.1	0.112	192.402	0	PA_with_intermediate	test	ward_and_allport	71	25.0	0.112	to_board	poldrack-single-stim	s144	False
-192.414	1.0	2.0	192.413	0	PA_with_intermediate	test	ward_and_allport	-1	25.0	n/a	feedback	poldrack-single-stim	s144	False
-194.422	1.667	1.667	196.089	1	PA_without_intermediate	test	ward_and_allport	82	26.0	1.667	to_hand	poldrack-single-stim	s144	False
-196.089	0.1	0.146	196.235	0	PA_without_intermediate	test	ward_and_allport	71	26.0	0.146	to_board	poldrack-single-stim	s144	False
-196.241	0.1	0.262	196.503	0	PA_without_intermediate	test	ward_and_allport	82	26.0	0.262	to_hand	poldrack-single-stim	s144	False
-196.504	0.1	0.12	196.624	0	PA_without_intermediate	test	ward_and_allport	89	26.0	0.12	to_board	poldrack-single-stim	s144	False
-196.63	0.1	0.29	196.92	0	PA_without_intermediate	test	ward_and_allport	82	26.0	0.29	to_hand	poldrack-single-stim	s144	False
-196.921	0.1	0.088	197.009	0	PA_without_intermediate	test	ward_and_allport	71	26.0	0.088	to_board	poldrack-single-stim	s144	False
-197.016	1.0	2.0	197.015	0	PA_without_intermediate	test	ward_and_allport	-1	26.0	n/a	feedback	poldrack-single-stim	s144	False
-199.021	1.185	1.185	200.206	1	PA_without_intermediate	test	ward_and_allport	71	27.0	1.185	to_hand	poldrack-single-stim	s144	False
-200.207	0.1	0.107	200.314	0	PA_without_intermediate	test	ward_and_allport	89	27.0	0.107	to_board	poldrack-single-stim	s144	False
-200.32	0.1	0.342	200.662	0	PA_without_intermediate	test	ward_and_allport	71	27.0	0.342	to_hand	poldrack-single-stim	s144	False
-200.663	0.1	0.094	200.757	0	PA_without_intermediate	test	ward_and_allport	82	27.0	0.094	to_board	poldrack-single-stim	s144	False
-200.763	0.1	0.396	201.159	0	PA_without_intermediate	test	ward_and_allport	71	27.0	0.396	to_hand	poldrack-single-stim	s144	False
-201.16	0.1	0.08	201.24	0	PA_without_intermediate	test	ward_and_allport	89	27.0	0.08	to_board	poldrack-single-stim	s144	False
-201.246	1.0	2.0	201.245	0	PA_without_intermediate	test	ward_and_allport	-1	27.0	n/a	feedback	poldrack-single-stim	s144	False
-203.251	1.507	1.507	204.758	1	PA_with_intermediate	test	ward_and_allport	71	28.0	1.507	to_hand	poldrack-single-stim	s144	False
-204.758	0.1	0.1	204.858	0	PA_with_intermediate	test	ward_and_allport	89	28.0	0.1	to_board	poldrack-single-stim	s144	False
-204.863	0.1	0.17	205.033	0	PA_with_intermediate	test	ward_and_allport	71	28.0	0.17	to_hand	poldrack-single-stim	s144	False
-205.035	0.1	0.1	205.135	0	PA_with_intermediate	test	ward_and_allport	82	28.0	0.1	to_board	poldrack-single-stim	s144	False
-205.141	0.1	0.315	205.456	0	PA_with_intermediate	test	ward_and_allport	89	28.0	0.315	to_hand	poldrack-single-stim	s144	False
-205.457	0.1	0.103	205.56	0	PA_with_intermediate	test	ward_and_allport	71	28.0	0.103	to_board	poldrack-single-stim	s144	False
-205.566	1.0	2.544	205.565	0	PA_with_intermediate	test	ward_and_allport	-1	28.0	n/a	feedback	poldrack-single-stim	s144	False
-208.114	2.159	2.159	210.273	1	PA_without_intermediate	test	ward_and_allport	89	29.0	2.159	to_hand	poldrack-single-stim	s144	False
-210.274	0.1	0.083	210.357	0	PA_without_intermediate	test	ward_and_allport	82	29.0	0.083	to_board	poldrack-single-stim	s144	False
-210.362	0.1	0.235	210.597	0	PA_without_intermediate	test	ward_and_allport	89	29.0	0.235	to_hand	poldrack-single-stim	s144	False
-210.598	0.1	0.064	210.662	0	PA_without_intermediate	test	ward_and_allport	71	29.0	0.064	to_board	poldrack-single-stim	s144	False
-210.67	0.1	0.59	211.26	0	PA_without_intermediate	test	ward_and_allport	89	29.0	0.59	to_hand	poldrack-single-stim	s144	False
-211.261	0.1	0.196	211.457	0	PA_without_intermediate	test	ward_and_allport	82	29.0	0.196	to_board	poldrack-single-stim	s144	False
-211.47	1.0	2.272	211.469	0	PA_without_intermediate	test	ward_and_allport	-1	29.0	n/a	feedback	poldrack-single-stim	s144	False
-218.751	1.56	1.56	220.311	1	PA_with_intermediate	test	ward_and_allport	89	30.0	1.56	to_hand	poldrack-single-stim	s144	False
-220.312	0.1	0.119	220.431	0	PA_with_intermediate	test	ward_and_allport	71	30.0	0.119	to_board	poldrack-single-stim	s144	False
-220.44	0.1	0.173	220.613	0	PA_with_intermediate	test	ward_and_allport	89	30.0	0.173	to_hand	poldrack-single-stim	s144	False
-220.613	0.1	0.111	220.724	0	PA_with_intermediate	test	ward_and_allport	82	30.0	0.111	to_board	poldrack-single-stim	s144	False
-220.732	0.1	0.322	221.054	0	PA_with_intermediate	test	ward_and_allport	71	30.0	0.322	to_hand	poldrack-single-stim	s144	False
-221.055	0.1	0.071	221.126	0	PA_with_intermediate	test	ward_and_allport	89	30.0	0.071	to_board	poldrack-single-stim	s144	False
-221.136	1.0	4.04	221.135	0	PA_with_intermediate	test	ward_and_allport	-1	30.0	n/a	feedback	poldrack-single-stim	s144	False
-225.182	2.421	2.421	227.603	1	PA_with_intermediate	test	ward_and_allport	71	31.0	2.421	to_hand	poldrack-single-stim	s144	False
-227.604	0.1	0.261	227.865	0	PA_with_intermediate	test	ward_and_allport	82	31.0	0.261	to_board	poldrack-single-stim	s144	False
-227.87	0.1	0.241	228.111	0	PA_with_intermediate	test	ward_and_allport	71	31.0	0.241	to_hand	poldrack-single-stim	s144	False
-228.112	0.1	0.715	228.827	0	PA_with_intermediate	test	ward_and_allport	82	31.0	0.715	to_board	poldrack-single-stim	s144	False
-228.835	0.1	0.378	229.213	0	PA_with_intermediate	test	ward_and_allport	71	31.0	0.378	to_hand	poldrack-single-stim	s144	False
-229.214	0.1	0.113	229.327	0	PA_with_intermediate	test	ward_and_allport	89	31.0	0.113	to_board	poldrack-single-stim	s144	False
-229.336	0.1	0.605	229.941	0	PA_with_intermediate	test	ward_and_allport	82	31.0	0.605	to_hand	poldrack-single-stim	s144	False
-229.942	0.1	0.101	230.043	0	PA_with_intermediate	test	ward_and_allport	71	31.0	0.101	to_board	poldrack-single-stim	s144	False
-230.052	0.1	1.742	231.794	0	PA_with_intermediate	test	ward_and_allport	82	31.0	1.742	to_hand	poldrack-single-stim	s144	False
-231.795	0.1	0.155	231.95	0	PA_with_intermediate	test	ward_and_allport	89	31.0	0.155	to_board	poldrack-single-stim	s144	False
-231.957	0.1	0.266	232.223	0	PA_with_intermediate	test	ward_and_allport	71	31.0	0.266	to_hand	poldrack-single-stim	s144	False
-232.223	0.1	0.124	232.347	0	PA_with_intermediate	test	ward_and_allport	82	31.0	0.124	to_board	poldrack-single-stim	s144	False
-232.353	0.1	0.407	232.76	0	PA_with_intermediate	test	ward_and_allport	89	31.0	0.407	to_hand	poldrack-single-stim	s144	False
-232.761	0.1	0.099	232.86	0	PA_with_intermediate	test	ward_and_allport	82	31.0	0.099	to_board	poldrack-single-stim	s144	False
-232.866	0.1	1.471	234.337	0	PA_with_intermediate	test	ward_and_allport	89	31.0	1.471	to_hand	poldrack-single-stim	s144	False
-234.338	0.1	0.051	234.389	0	PA_with_intermediate	test	ward_and_allport	71	31.0	0.051	to_board	poldrack-single-stim	s144	False
-234.398	1.0	2.272	234.397	0	PA_with_intermediate	test	ward_and_allport	-1	31.0	n/a	feedback	poldrack-single-stim	s144	False
-236.676	2.611	2.611	239.287	1	PA_with_intermediate	test	ward_and_allport	71	32.0	2.611	to_hand	poldrack-single-stim	s144	False
-239.288	0.1	0.107	239.395	0	PA_with_intermediate	test	ward_and_allport	89	32.0	0.107	to_board	poldrack-single-stim	s144	False
-239.402	0.1	0.202	239.604	0	PA_with_intermediate	test	ward_and_allport	71	32.0	0.202	to_hand	poldrack-single-stim	s144	False
-239.604	0.1	0.104	239.708	0	PA_with_intermediate	test	ward_and_allport	82	32.0	0.104	to_board	poldrack-single-stim	s144	False
-239.715	0.1	0.193	239.908	0	PA_with_intermediate	test	ward_and_allport	89	32.0	0.193	to_hand	poldrack-single-stim	s144	False
-239.909	0.1	0.1	240.009	0	PA_with_intermediate	test	ward_and_allport	82	32.0	0.1	to_board	poldrack-single-stim	s144	False
-240.022	1.0	2.136	240.021	0	PA_with_intermediate	test	ward_and_allport	-1	32.0	n/a	feedback	poldrack-single-stim	s144	False
-242.163	1.843	1.843	244.006	1	PA_with_intermediate	test	ward_and_allport	71	33.0	1.843	to_hand	poldrack-single-stim	s144	False
-244.007	0.1	0.104	244.111	0	PA_with_intermediate	test	ward_and_allport	82	33.0	0.104	to_board	poldrack-single-stim	s144	False
-244.118	0.1	0.143	244.261	0	PA_with_intermediate	test	ward_and_allport	71	33.0	0.143	to_hand	poldrack-single-stim	s144	False
-244.261	0.1	0.121	244.382	0	PA_with_intermediate	test	ward_and_allport	89	33.0	0.121	to_board	poldrack-single-stim	s144	False
-244.388	0.1	0.292	244.68	0	PA_with_intermediate	test	ward_and_allport	82	33.0	0.292	to_hand	poldrack-single-stim	s144	False
-244.681	0.1	0.092	244.773	0	PA_with_intermediate	test	ward_and_allport	89	33.0	0.092	to_board	poldrack-single-stim	s144	False
-244.782	1.0	2.0	244.781	0	PA_with_intermediate	test	ward_and_allport	-1	33.0	n/a	feedback	poldrack-single-stim	s144	False
-246.787	1.434	1.434	248.221	1	PA_with_intermediate	test	ward_and_allport	71	34.0	1.434	to_hand	poldrack-single-stim	s144	False
-248.223	0.1	0.114	248.337	0	PA_with_intermediate	test	ward_and_allport	82	34.0	0.114	to_board	poldrack-single-stim	s144	False
-248.343	0.1	0.153	248.496	0	PA_with_intermediate	test	ward_and_allport	71	34.0	0.153	to_hand	poldrack-single-stim	s144	False
-248.497	0.1	0.102	248.599	0	PA_with_intermediate	test	ward_and_allport	89	34.0	0.102	to_board	poldrack-single-stim	s144	False
-248.605	0.1	0.106	248.711	0	PA_with_intermediate	test	ward_and_allport	82	34.0	0.106	to_hand	poldrack-single-stim	s144	False
-248.712	0.1	0.072	248.784	0	PA_with_intermediate	test	ward_and_allport	71	34.0	0.072	to_board	poldrack-single-stim	s144	False
-248.798	1.0	2.0	248.797	0	PA_with_intermediate	test	ward_and_allport	-1	34.0	n/a	feedback	poldrack-single-stim	s144	False
-250.804	1.547	1.547	252.351	1	PA_without_intermediate	test	ward_and_allport	89	35.0	1.547	to_hand	poldrack-single-stim	s144	False
-252.352	0.1	0.091	252.443	0	PA_without_intermediate	test	ward_and_allport	82	35.0	0.091	to_board	poldrack-single-stim	s144	False
-252.449	0.1	0.105	252.554	0	PA_without_intermediate	test	ward_and_allport	89	35.0	0.105	to_hand	poldrack-single-stim	s144	False
-252.555	0.1	0.099	252.654	0	PA_without_intermediate	test	ward_and_allport	82	35.0	0.099	to_board	poldrack-single-stim	s144	False
-252.661	0.1	0.101	252.762	0	PA_without_intermediate	test	ward_and_allport	89	35.0	0.101	to_hand	poldrack-single-stim	s144	False
-252.763	0.1	0.071	252.834	0	PA_without_intermediate	test	ward_and_allport	71	35.0	0.071	to_board	poldrack-single-stim	s144	False
-252.843	1.0	2.408	252.842	0	PA_without_intermediate	test	ward_and_allport	-1	35.0	n/a	feedback	poldrack-single-stim	s144	False
-255.256	1.359	1.359	256.615	1	PA_with_intermediate	test	ward_and_allport	82	36.0	1.359	to_hand	poldrack-single-stim	s144	False
-256.616	0.1	0.054	256.67	0	PA_with_intermediate	test	ward_and_allport	89	36.0	0.054	to_board	poldrack-single-stim	s144	False
-256.676	0.1	0.196	256.872	0	PA_with_intermediate	test	ward_and_allport	82	36.0	0.196	to_hand	poldrack-single-stim	s144	False
-256.873	0.1	0.107	256.98	0	PA_with_intermediate	test	ward_and_allport	71	36.0	0.107	to_board	poldrack-single-stim	s144	False
-256.986	0.1	0.212	257.198	0	PA_with_intermediate	test	ward_and_allport	89	36.0	0.212	to_hand	poldrack-single-stim	s144	False
-257.199	0.1	0.074	257.273	0	PA_with_intermediate	test	ward_and_allport	82	36.0	0.074	to_board	poldrack-single-stim	s144	False
-257.28	1.0	3.768	257.279	0	PA_with_intermediate	test	ward_and_allport	-1	36.0	n/a	feedback	poldrack-single-stim	s144	False
-261.055	2.355	2.355	263.41	1	PA_with_intermediate	test	ward_and_allport	89	37.0	2.355	to_hand	poldrack-single-stim	s144	False
-263.41	0.1	0.082	263.492	0	PA_with_intermediate	test	ward_and_allport	71	37.0	0.082	to_board	poldrack-single-stim	s144	False
-263.498	0.1	0.115	263.613	0	PA_with_intermediate	test	ward_and_allport	89	37.0	0.115	to_hand	poldrack-single-stim	s144	False
-263.614	0.1	0.098	263.712	0	PA_with_intermediate	test	ward_and_allport	82	37.0	0.098	to_board	poldrack-single-stim	s144	False
-263.72	0.1	0.136	263.856	0	PA_with_intermediate	test	ward_and_allport	71	37.0	0.136	to_hand	poldrack-single-stim	s144	False
-263.857	0.1	0.103	263.96	0	PA_with_intermediate	test	ward_and_allport	89	37.0	0.103	to_board	poldrack-single-stim	s144	False
-263.973	1.0	2.68	263.972	0	PA_with_intermediate	test	ward_and_allport	-1	37.0	n/a	feedback	poldrack-single-stim	s144	False
-266.659	1.6	1.6	268.259	1	PA_without_intermediate	test	ward_and_allport	71	38.0	1.6	to_hand	poldrack-single-stim	s144	False
-268.26	0.1	0.099	268.359	0	PA_without_intermediate	test	ward_and_allport	82	38.0	0.099	to_board	poldrack-single-stim	s144	False
-268.366	0.1	0.102	268.468	0	PA_without_intermediate	test	ward_and_allport	71	38.0	0.102	to_hand	poldrack-single-stim	s144	False
-268.469	0.1	0.097	268.566	0	PA_without_intermediate	test	ward_and_allport	89	38.0	0.097	to_board	poldrack-single-stim	s144	False
-268.572	0.1	0.125	268.697	0	PA_without_intermediate	test	ward_and_allport	71	38.0	0.125	to_hand	poldrack-single-stim	s144	False
-268.698	0.1	0.109	268.807	0	PA_without_intermediate	test	ward_and_allport	82	38.0	0.109	to_board	poldrack-single-stim	s144	False
-268.816	1.0	3.224	268.815	0	PA_without_intermediate	test	ward_and_allport	-1	38.0	n/a	feedback	poldrack-single-stim	s144	False
-272.047	1.701	1.701	273.748	1	PA_without_intermediate	test	ward_and_allport	71	39.0	1.701	to_hand	poldrack-single-stim	s144	False
-273.748	0.1	0.124	273.872	0	PA_without_intermediate	test	ward_and_allport	82	39.0	0.124	to_board	poldrack-single-stim	s144	False
-273.878	0.1	0.108	273.986	0	PA_without_intermediate	test	ward_and_allport	71	39.0	0.108	to_hand	poldrack-single-stim	s144	False
-273.987	0.1	0.117	274.104	0	PA_without_intermediate	test	ward_and_allport	89	39.0	0.117	to_board	poldrack-single-stim	s144	False
-274.113	0.1	0.127	274.24	0	PA_without_intermediate	test	ward_and_allport	71	39.0	0.127	to_hand	poldrack-single-stim	s144	False
-274.241	0.1	0.111	274.352	0	PA_without_intermediate	test	ward_and_allport	82	39.0	0.111	to_board	poldrack-single-stim	s144	False
-274.364	1.0	3.36	274.363	0	PA_without_intermediate	test	ward_and_allport	-1	39.0	n/a	feedback	poldrack-single-stim	s144	False
-277.73	1.631	1.631	279.361	1	PA_without_intermediate	test	ward_and_allport	89	40.0	1.631	to_hand	poldrack-single-stim	s144	False
-279.362	0.1	0.096	279.458	0	PA_without_intermediate	test	ward_and_allport	82	40.0	0.096	to_board	poldrack-single-stim	s144	False
-279.465	0.1	0.094	279.559	0	PA_without_intermediate	test	ward_and_allport	89	40.0	0.094	to_hand	poldrack-single-stim	s144	False
-279.56	0.1	0.094	279.654	0	PA_without_intermediate	test	ward_and_allport	71	40.0	0.094	to_board	poldrack-single-stim	s144	False
-279.663	0.1	0.092	279.755	0	PA_without_intermediate	test	ward_and_allport	89	40.0	0.092	to_hand	poldrack-single-stim	s144	False
-279.756	0.1	0.106	279.862	0	PA_without_intermediate	test	ward_and_allport	82	40.0	0.106	to_board	poldrack-single-stim	s144	False
-279.875	1.0	2.0	279.874	0	PA_without_intermediate	test	ward_and_allport	-1	40.0	n/a	feedback	poldrack-single-stim	s144	False
-281.886	1.51	1.51	283.396	1	PA_without_intermediate	test	ward_and_allport	89	41.0	1.51	to_hand	poldrack-single-stim	s144	False
-283.397	0.1	0.117	283.514	0	PA_without_intermediate	test	ward_and_allport	71	41.0	0.117	to_board	poldrack-single-stim	s144	False
-283.52	0.1	0.109	283.629	0	PA_without_intermediate	test	ward_and_allport	89	41.0	0.109	to_hand	poldrack-single-stim	s144	False
-283.63	0.1	0.098	283.728	0	PA_without_intermediate	test	ward_and_allport	82	41.0	0.098	to_board	poldrack-single-stim	s144	False
-283.735	0.1	0.08	283.815	0	PA_without_intermediate	test	ward_and_allport	89	41.0	0.08	to_hand	poldrack-single-stim	s144	False
-283.816	0.1	0.086	283.902	0	PA_without_intermediate	test	ward_and_allport	71	41.0	0.086	to_board	poldrack-single-stim	s144	False
-283.91	1.0	2.408	283.909	0	PA_without_intermediate	test	ward_and_allport	-1	41.0	n/a	feedback	poldrack-single-stim	s144	False
-286.324	1.207	1.207	287.531	1	PA_with_intermediate	test	ward_and_allport	82	42.0	1.207	to_hand	poldrack-single-stim	s144	False
-287.532	0.1	0.125	287.657	0	PA_with_intermediate	test	ward_and_allport	89	42.0	0.125	to_board	poldrack-single-stim	s144	False
-287.663	0.1	0.17	287.833	0	PA_with_intermediate	test	ward_and_allport	82	42.0	0.17	to_hand	poldrack-single-stim	s144	False
-287.834	0.1	0.073	287.907	0	PA_with_intermediate	test	ward_and_allport	71	42.0	0.073	to_board	poldrack-single-stim	s144	False
-287.914	0.1	0.18	288.094	0	PA_with_intermediate	test	ward_and_allport	89	42.0	0.18	to_hand	poldrack-single-stim	s144	False
-288.095	0.1	0.154	288.249	0	PA_with_intermediate	test	ward_and_allport	71	42.0	0.154	to_board	poldrack-single-stim	s144	False
-288.256	1.0	2.136	288.255	0	PA_with_intermediate	test	ward_and_allport	-1	42.0	n/a	feedback	poldrack-single-stim	s144	False
-290.4	1.187	1.187	291.587	1	PA_without_intermediate	test	ward_and_allport	71	43.0	1.187	to_hand	poldrack-single-stim	s144	False
-291.587	0.1	0.098	291.685	0	PA_without_intermediate	test	ward_and_allport	89	43.0	0.098	to_board	poldrack-single-stim	s144	False
-291.695	0.1	0.094	291.789	0	PA_without_intermediate	test	ward_and_allport	71	43.0	0.094	to_hand	poldrack-single-stim	s144	False
-291.79	0.1	0.086	291.876	0	PA_without_intermediate	test	ward_and_allport	89	43.0	0.086	to_board	poldrack-single-stim	s144	False
-291.883	0.1	0.143	292.026	0	PA_without_intermediate	test	ward_and_allport	71	43.0	0.143	to_hand	poldrack-single-stim	s144	False
-292.029	0.1	0.102	292.131	0	PA_without_intermediate	test	ward_and_allport	82	43.0	0.102	to_board	poldrack-single-stim	s144	False
-292.144	1.0	5.128	292.143	0	PA_without_intermediate	test	ward_and_allport	-1	43.0	n/a	feedback	poldrack-single-stim	s144	False
-297.279	1.38	1.38	298.659	1	PA_without_intermediate	test	ward_and_allport	71	44.0	1.38	to_hand	poldrack-single-stim	s144	False
-298.66	0.1	0.081	298.741	0	PA_without_intermediate	test	ward_and_allport	89	44.0	0.081	to_board	poldrack-single-stim	s144	False
-298.754	0.1	0.114	298.868	0	PA_without_intermediate	test	ward_and_allport	71	44.0	0.114	to_hand	poldrack-single-stim	s144	False
-298.869	0.1	0.129	298.998	0	PA_without_intermediate	test	ward_and_allport	82	44.0	0.129	to_board	poldrack-single-stim	s144	False
-299.012	0.1	0.09	299.102	0	PA_without_intermediate	test	ward_and_allport	71	44.0	0.09	to_hand	poldrack-single-stim	s144	False
-299.103	0.1	0.09	299.193	0	PA_without_intermediate	test	ward_and_allport	89	44.0	0.09	to_board	poldrack-single-stim	s144	False
-299.211	1.0	2.136	299.21	0	PA_without_intermediate	test	ward_and_allport	-1	44.0	n/a	feedback	poldrack-single-stim	s144	False
-306.362	1.825	1.825	308.187	1	PA_without_intermediate	test	ward_and_allport	82	45.0	1.825	to_hand	poldrack-single-stim	s144	False
-308.188	0.1	0.159	308.347	0	PA_without_intermediate	test	ward_and_allport	71	45.0	0.159	to_board	poldrack-single-stim	s144	False
-308.364	0.1	0.786	309.15	0	PA_without_intermediate	test	ward_and_allport	82	45.0	0.786	to_hand	poldrack-single-stim	s144	False
-309.15	0.1	0.144	309.294	0	PA_without_intermediate	test	ward_and_allport	71	45.0	0.144	to_board	poldrack-single-stim	s144	False
-309.309	0.1	0.276	309.585	0	PA_without_intermediate	test	ward_and_allport	82	45.0	0.276	to_hand	poldrack-single-stim	s144	False
-309.586	0.1	0.1	309.686	0	PA_without_intermediate	test	ward_and_allport	89	45.0	0.1	to_board	poldrack-single-stim	s144	False
-309.704	1.0	5.264	309.703	0	PA_without_intermediate	test	ward_and_allport	-1	45.0	n/a	feedback	poldrack-single-stim	s144	False
-314.975	1.247	1.247	316.222	1	PA_with_intermediate	test	ward_and_allport	82	46.0	1.247	to_hand	poldrack-single-stim	s144	False
-316.223	0.1	0.095	316.318	0	PA_with_intermediate	test	ward_and_allport	71	46.0	0.095	to_board	poldrack-single-stim	s144	False
-316.329	0.1	0.122	316.451	0	PA_with_intermediate	test	ward_and_allport	82	46.0	0.122	to_hand	poldrack-single-stim	s144	False
-316.452	0.1	0.091	316.543	0	PA_with_intermediate	test	ward_and_allport	89	46.0	0.091	to_board	poldrack-single-stim	s144	False
-316.553	0.1	0.117	316.67	0	PA_with_intermediate	test	ward_and_allport	71	46.0	0.117	to_hand	poldrack-single-stim	s144	False
-316.672	0.1	0.668	317.34	0	PA_with_intermediate	test	ward_and_allport	89	46.0	0.668	to_board	poldrack-single-stim	s144	False
-317.355	1.0	4.04	317.354	0	PA_with_intermediate	test	ward_and_allport	-1	46.0	n/a	feedback	poldrack-single-stim	s144	False
-321.406	1.592	1.592	322.998	1	PA_with_intermediate	test	ward_and_allport	71	47.0	1.592	to_hand	poldrack-single-stim	s144	False
-322.999	0.1	0.12	323.119	0	PA_with_intermediate	test	ward_and_allport	82	47.0	0.12	to_board	poldrack-single-stim	s144	False
-323.129	0.1	0.091	323.22	0	PA_with_intermediate	test	ward_and_allport	71	47.0	0.091	to_hand	poldrack-single-stim	s144	False
-323.222	0.1	0.093	323.315	0	PA_with_intermediate	test	ward_and_allport	89	47.0	0.093	to_board	poldrack-single-stim	s144	False
-323.324	0.1	0.337	323.661	0	PA_with_intermediate	test	ward_and_allport	82	47.0	0.337	to_hand	poldrack-single-stim	s144	False
-323.661	0.1	0.061	323.722	0	PA_with_intermediate	test	ward_and_allport	89	47.0	0.061	to_board	poldrack-single-stim	s144	False
-323.733	1.0	2.136	323.732	0	PA_with_intermediate	test	ward_and_allport	-1	47.0	n/a	feedback	poldrack-single-stim	s144	False
+onset	duration	planning	condition	current_position	exp_stage	experiment_exp_id	goal_state	key_press	problem_id	response_time	start_state	trial_id	worker_id
+3.012	2.048	1.0	UA_with_intermediate	1,0,0,2,0,0,0,0,0	practice	ward_and_allport	1,2,3,0,0,0,0,0,0	71.0	0.0	2.048	1,0,0,2,3,0,0,0,0	to_hand	s144
+5.061	0.283	0.0	UA_with_intermediate	1,0,0,2,0,0,3,0,0	practice	ward_and_allport	1,2,3,0,0,0,0,0,0	82.0	0.0	0.283	1,0,0,2,3,0,0,0,0	to_board	s144
+5.346	0.283	0.0	UA_with_intermediate	1,0,0,0,0,0,3,0,0	practice	ward_and_allport	1,2,3,0,0,0,0,0,0	71.0	0.0	0.283	1,0,0,2,3,0,0,0,0	to_hand	s144
+5.63	0.227	0.0	UA_with_intermediate	1,2,0,0,0,0,3,0,0	practice	ward_and_allport	1,2,3,0,0,0,0,0,0	89.0	0.0	0.227	1,0,0,2,3,0,0,0,0	to_board	s144
+5.858	0.305	0.0	UA_with_intermediate	1,2,0,0,0,0,0,0,0	practice	ward_and_allport	1,2,3,0,0,0,0,0,0	82.0	0.0	0.305	1,0,0,2,3,0,0,0,0	to_hand	s144
+6.164	0.171	0.0	UA_with_intermediate	1,2,3,0,0,0,0,0,0	practice	ward_and_allport	1,2,3,0,0,0,0,0,0	89.0	0.0	0.171	1,0,0,2,3,0,0,0,0	to_board	s144
+6.339	1.0	0.0	UA_with_intermediate	n/a	practice	ward_and_allport	n/a	-1.0	0.0	n/a	n/a	feedback	s144
+7.339	1.5	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+8.842	2.182	1.0	UA_with_intermediate	1,0,0,3,0,0,0,0,0	practice	ward_and_allport	1,3,2,0,0,0,0,0,0	89.0	1.0	2.182	1,2,0,3,0,0,0,0,0	to_hand	s144
+11.024	0.183	0.0	UA_with_intermediate	1,0,0,3,0,0,2,0,0	practice	ward_and_allport	1,3,2,0,0,0,0,0,0	82.0	1.0	0.183	1,2,0,3,0,0,0,0,0	to_board	s144
+11.209	0.266	0.0	UA_with_intermediate	1,0,0,0,0,0,2,0,0	practice	ward_and_allport	1,3,2,0,0,0,0,0,0	71.0	1.0	0.266	1,2,0,3,0,0,0,0,0	to_hand	s144
+11.476	0.173	0.0	UA_with_intermediate	1,3,0,0,0,0,2,0,0	practice	ward_and_allport	1,3,2,0,0,0,0,0,0	89.0	1.0	0.173	1,2,0,3,0,0,0,0,0	to_board	s144
+11.65	0.503	0.0	UA_with_intermediate	1,3,0,0,0,0,0,0,0	practice	ward_and_allport	1,3,2,0,0,0,0,0,0	82.0	1.0	0.503	1,2,0,3,0,0,0,0,0	to_hand	s144
+12.154	0.116	0.0	UA_with_intermediate	1,3,2,0,0,0,0,0,0	practice	ward_and_allport	1,3,2,0,0,0,0,0,0	89.0	1.0	0.116	1,2,0,3,0,0,0,0,0	to_board	s144
+12.273	1.0	0.0	UA_with_intermediate	n/a	practice	ward_and_allport	n/a	-1.0	1.0	n/a	n/a	feedback	s144
+13.273	1.1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+14.375	1.543	1.0	UA_without_intermediate	0,0,0,1,2,0,0,0,0	practice	ward_and_allport	3,2,1,0,0,0,0,0,0	82.0	2.0	1.543	0,0,0,1,2,0,3,0,0	to_hand	s144
+15.918	0.189	0.0	UA_without_intermediate	3,0,0,1,2,0,0,0,0	practice	ward_and_allport	3,2,1,0,0,0,0,0,0	89.0	2.0	0.189	0,0,0,1,2,0,3,0,0	to_board	s144
+16.108	0.378	0.0	UA_without_intermediate	3,0,0,1,0,0,0,0,0	practice	ward_and_allport	3,2,1,0,0,0,0,0,0	71.0	2.0	0.378	0,0,0,1,2,0,3,0,0	to_hand	s144
+16.487	0.138	0.0	UA_without_intermediate	3,2,0,1,0,0,0,0,0	practice	ward_and_allport	3,2,1,0,0,0,0,0,0	89.0	2.0	0.138	0,0,0,1,2,0,3,0,0	to_board	s144
+16.627	0.52	0.0	UA_without_intermediate	3,2,0,0,0,0,0,0,0	practice	ward_and_allport	3,2,1,0,0,0,0,0,0	71.0	2.0	0.52	0,0,0,1,2,0,3,0,0	to_hand	s144
+17.148	0.108	0.0	UA_without_intermediate	3,2,1,0,0,0,0,0,0	practice	ward_and_allport	3,2,1,0,0,0,0,0,0	89.0	2.0	0.108	0,0,0,1,2,0,3,0,0	to_board	s144
+17.259	1.0	0.0	UA_without_intermediate	n/a	practice	ward_and_allport	n/a	-1.0	2.0	n/a	n/a	feedback	s144
+18.259	1.2	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+19.461	1.826	1.0	UA_without_intermediate	0,0,0,1,0,0,3,0,0	practice	ward_and_allport	2,3,1,0,0,0,0,0,0	71.0	3.0	1.826	0,0,0,1,2,0,3,0,0	to_hand	s144
+21.288	0.164	0.0	UA_without_intermediate	2,0,0,1,0,0,3,0,0	practice	ward_and_allport	2,3,1,0,0,0,0,0,0	89.0	3.0	0.164	0,0,0,1,2,0,3,0,0	to_board	s144
+21.454	0.175	0.0	UA_without_intermediate	2,0,0,1,0,0,0,0,0	practice	ward_and_allport	2,3,1,0,0,0,0,0,0	82.0	3.0	0.175	0,0,0,1,2,0,3,0,0	to_hand	s144
+21.63	0.101	0.0	UA_without_intermediate	2,3,0,1,0,0,0,0,0	practice	ward_and_allport	2,3,1,0,0,0,0,0,0	89.0	3.0	0.101	0,0,0,1,2,0,3,0,0	to_board	s144
+21.732	0.171	0.0	UA_without_intermediate	2,3,0,0,0,0,0,0,0	practice	ward_and_allport	2,3,1,0,0,0,0,0,0	71.0	3.0	0.171	0,0,0,1,2,0,3,0,0	to_hand	s144
+21.905	0.608	0.0	UA_without_intermediate	2,3,1,0,0,0,0,0,0	practice	ward_and_allport	2,3,1,0,0,0,0,0,0	89.0	3.0	0.608	0,0,0,1,2,0,3,0,0	to_board	s144
+22.52	1.0	0.0	UA_without_intermediate	n/a	practice	ward_and_allport	n/a	-1.0	3.0	n/a	n/a	feedback	s144
+23.52	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+26.525	1.799	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	0.0	1.799	0,0,0,1,2,3,0,0,0	to_hand	s144
+28.325	0.176	0.0	PA_with_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	82.0	0.0	0.176	0,0,0,1,2,3,0,0,0	to_board	s144
+28.502	0.357	0.0	PA_with_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	0.0	0.357	0,0,0,1,2,3,0,0,0	to_hand	s144
+28.86	0.151	0.0	PA_with_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	89.0	0.0	0.151	0,0,0,1,2,3,0,0,0	to_board	s144
+29.012	0.266	0.0	PA_with_intermediate	2,0,0,0,0,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	0.0	0.266	0,0,0,1,2,3,0,0,0	to_hand	s144
+29.279	0.653	0.0	PA_with_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	0.0	0.653	0,0,0,1,2,3,0,0,0	to_board	s144
+29.934	0.281	0.0	PA_with_intermediate	2,0,0,1,0,0,0,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	82.0	0.0	0.281	0,0,0,1,2,3,0,0,0	to_hand	s144
+30.216	0.179	0.0	PA_with_intermediate	2,0,0,1,3,0,0,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	0.0	0.179	0,0,0,1,2,3,0,0,0	to_board	s144
+30.4	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	0.0	n/a	n/a	feedback	s144
+31.4	1.408	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+32.81	2.04	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	89.0	1.0	2.04	1,2,3,0,0,0,0,0,0	to_hand	s144
+34.852	0.222	0.0	PA_without_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	82.0	1.0	0.222	1,2,3,0,0,0,0,0,0	to_board	s144
+35.076	0.42	0.0	PA_without_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	89.0	1.0	0.42	1,2,3,0,0,0,0,0,0	to_hand	s144
+35.498	0.249	0.0	PA_without_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	82.0	1.0	0.249	1,2,3,0,0,0,0,0,0	to_board	s144
+35.749	0.882	0.0	PA_without_intermediate	0,0,0,0,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	89.0	1.0	0.882	1,2,3,0,0,0,0,0,0	to_hand	s144
+36.633	0.245	0.0	PA_without_intermediate	0,0,0,1,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	71.0	1.0	0.245	1,2,3,0,0,0,0,0,0	to_board	s144
+36.88	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	1.0	n/a	n/a	feedback	s144
+37.88	1.68	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+39.564	1.709	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	82.0	2.0	1.709	0,0,0,0,0,0,1,2,3	to_hand	s144
+41.273	0.227	0.0	PA_with_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	71.0	2.0	0.227	0,0,0,0,0,0,1,2,3	to_board	s144
+41.502	0.333	0.0	PA_with_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	82.0	2.0	0.333	0,0,0,0,0,0,1,2,3	to_hand	s144
+41.836	0.201	0.0	PA_with_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	89.0	2.0	0.201	0,0,0,0,0,0,1,2,3	to_board	s144
+42.04	0.492	0.0	PA_with_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	71.0	2.0	0.492	0,0,0,0,0,0,1,2,3	to_hand	s144
+42.533	0.326	0.0	PA_with_intermediate	2,0,0,0,0,0,1,3,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	82.0	2.0	0.326	0,0,0,0,0,0,1,2,3	to_board	s144
+42.862	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	2.0	n/a	n/a	feedback	s144
+43.862	3.72	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+47.585	3.091	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	89.0	3.0	3.091	1,2,3,0,0,0,0,0,0	to_hand	s144
+50.676	0.231	0.0	PA_without_intermediate	1,2,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	71.0	3.0	0.231	1,2,3,0,0,0,0,0,0	to_board	s144
+50.909	0.56	0.0	PA_without_intermediate	1,0,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	89.0	3.0	0.56	1,2,3,0,0,0,0,0,0	to_hand	s144
+51.471	0.273	0.0	PA_without_intermediate	1,0,0,3,2,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	71.0	3.0	0.273	1,2,3,0,0,0,0,0,0	to_board	s144
+51.748	0.279	0.0	PA_without_intermediate	0,0,0,3,2,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	89.0	3.0	0.279	1,2,3,0,0,0,0,0,0	to_hand	s144
+52.027	0.15	0.0	PA_without_intermediate	0,0,0,3,2,0,1,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	82.0	3.0	0.15	1,2,3,0,0,0,0,0,0	to_board	s144
+52.182	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	3.0	n/a	n/a	feedback	s144
+53.182	2.224	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+55.407	1.355	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	82.0	4.0	1.355	0,0,0,0,0,0,1,2,3	to_hand	s144
+56.763	0.191	0.0	PA_without_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	89.0	4.0	0.191	0,0,0,0,0,0,1,2,3	to_board	s144
+56.956	0.357	0.0	PA_without_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	82.0	4.0	0.357	0,0,0,0,0,0,1,2,3	to_hand	s144
+57.314	0.595	0.0	PA_without_intermediate	3,0,0,2,0,0,1,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	71.0	4.0	0.595	0,0,0,0,0,0,1,2,3	to_board	s144
+57.911	0.229	0.0	PA_without_intermediate	3,0,0,2,0,0,0,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	82.0	4.0	0.229	0,0,0,0,0,0,1,2,3	to_hand	s144
+58.141	0.132	0.0	PA_without_intermediate	3,1,0,2,0,0,0,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	89.0	4.0	0.132	0,0,0,0,0,0,1,2,3	to_board	s144
+58.279	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	4.0	n/a	n/a	feedback	s144
+59.279	1.272	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+60.553	1.799	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	82.0	5.0	1.799	0,0,0,0,0,0,1,2,3	to_hand	s144
+62.354	0.157	0.0	PA_with_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	71.0	5.0	0.157	0,0,0,0,0,0,1,2,3	to_board	s144
+62.513	0.217	0.0	PA_with_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	82.0	5.0	0.217	0,0,0,0,0,0,1,2,3	to_hand	s144
+62.731	0.165	0.0	PA_with_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	89.0	5.0	0.165	0,0,0,0,0,0,1,2,3	to_board	s144
+62.9	0.757	0.0	PA_with_intermediate	2,0,0,3,0,0,0,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	82.0	5.0	0.757	0,0,0,0,0,0,1,2,3	to_hand	s144
+63.658	0.569	0.0	PA_with_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	82.0	5.0	0.569	0,0,0,0,0,0,1,2,3	to_board	s144
+64.228	0.225	0.0	PA_with_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	71.0	5.0	0.225	0,0,0,0,0,0,1,2,3	to_hand	s144
+64.455	0.136	0.0	PA_with_intermediate	2,3,0,0,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	89.0	5.0	0.136	0,0,0,0,0,0,1,2,3	to_board	s144
+64.595	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	5.0	n/a	n/a	feedback	s144
+65.595	2.632	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+68.229	1.765	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	82.0	6.0	1.765	0,0,0,0,0,0,1,2,3	to_hand	s144
+69.995	0.183	0.0	PA_without_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	89.0	6.0	0.183	0,0,0,0,0,0,1,2,3	to_board	s144
+70.181	0.512	0.0	PA_without_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	82.0	6.0	0.512	0,0,0,0,0,0,1,2,3	to_hand	s144
+70.694	0.174	0.0	PA_without_intermediate	3,2,0,0,0,0,1,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	89.0	6.0	0.174	0,0,0,0,0,0,1,2,3	to_board	s144
+70.87	0.58	0.0	PA_without_intermediate	3,2,0,0,0,0,0,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	82.0	6.0	0.58	0,0,0,0,0,0,1,2,3	to_hand	s144
+71.451	0.135	0.0	PA_without_intermediate	3,2,0,1,0,0,0,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	71.0	6.0	0.135	0,0,0,0,0,0,1,2,3	to_board	s144
+71.594	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	6.0	n/a	n/a	feedback	s144
+72.594	1.408	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+74.005	1.252	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	71.0	7.0	1.252	0,0,0,1,2,3,0,0,0	to_hand	s144
+75.258	0.21	0.0	PA_without_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	89.0	7.0	0.21	0,0,0,1,2,3,0,0,0	to_board	s144
+75.471	0.436	0.0	PA_without_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	71.0	7.0	0.436	0,0,0,1,2,3,0,0,0	to_hand	s144
+75.909	0.223	0.0	PA_without_intermediate	3,2,0,1,0,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	89.0	7.0	0.223	0,0,0,1,2,3,0,0,0	to_board	s144
+76.134	0.451	0.0	PA_without_intermediate	3,2,0,0,0,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	71.0	7.0	0.451	0,0,0,1,2,3,0,0,0	to_hand	s144
+76.586	0.197	0.0	PA_without_intermediate	3,2,0,0,0,0,1,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	82.0	7.0	0.197	0,0,0,1,2,3,0,0,0	to_board	s144
+76.787	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	7.0	n/a	n/a	feedback	s144
+77.787	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+78.79	2.856	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	89.0	8.0	2.856	1,2,3,0,0,0,0,0,0	to_hand	s144
+81.646	0.163	0.0	PA_with_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	82.0	8.0	0.163	1,2,3,0,0,0,0,0,0	to_board	s144
+81.812	0.365	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	89.0	8.0	0.365	1,2,3,0,0,0,0,0,0	to_hand	s144
+82.178	0.178	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	71.0	8.0	0.178	1,2,3,0,0,0,0,0,0	to_board	s144
+82.359	0.412	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	82.0	8.0	0.412	1,2,3,0,0,0,0,0,0	to_hand	s144
+82.772	0.073	0.0	PA_with_intermediate	1,3,0,2,0,0,0,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	89.0	8.0	0.073	1,2,3,0,0,0,0,0,0	to_board	s144
+82.851	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	8.0	n/a	n/a	feedback	s144
+83.851	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+84.855	2.954	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	71.0	9.0	2.954	0,0,0,1,2,3,0,0,0	to_hand	s144
+87.81	0.15	0.0	PA_with_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	89.0	9.0	0.15	0,0,0,1,2,3,0,0,0	to_board	s144
+87.964	0.222	0.0	PA_with_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	71.0	9.0	0.222	0,0,0,1,2,3,0,0,0	to_hand	s144
+88.186	0.17	0.0	PA_with_intermediate	3,0,0,1,0,0,2,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	82.0	9.0	0.17	0,0,0,1,2,3,0,0,0	to_board	s144
+88.359	0.185	0.0	PA_with_intermediate	0,0,0,1,0,0,2,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	89.0	9.0	0.185	0,0,0,1,2,3,0,0,0	to_hand	s144
+88.545	0.148	0.0	PA_with_intermediate	0,0,0,1,3,0,2,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	71.0	9.0	0.148	0,0,0,1,2,3,0,0,0	to_board	s144
+88.699	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	9.0	n/a	n/a	feedback	s144
+89.699	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+90.705	1.574	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	10.0	1.574	1,2,3,0,0,0,0,0,0	to_hand	s144
+92.281	0.208	0.0	PA_with_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	10.0	0.208	1,2,3,0,0,0,0,0,0	to_board	s144
+92.494	0.144	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	10.0	0.144	1,2,3,0,0,0,0,0,0	to_hand	s144
+92.638	0.152	0.0	PA_with_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	10.0	0.152	1,2,3,0,0,0,0,0,0	to_board	s144
+92.794	1.412	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	10.0	1.412	1,2,3,0,0,0,0,0,0	to_hand	s144
+94.207	0.253	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	71.0	10.0	0.253	1,2,3,0,0,0,0,0,0	to_board	s144
+94.464	0.766	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	10.0	0.766	1,2,3,0,0,0,0,0,0	to_hand	s144
+95.23	0.315	0.0	PA_with_intermediate	1,3,0,2,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	10.0	0.315	1,2,3,0,0,0,0,0,0	to_board	s144
+95.549	0.364	0.0	PA_with_intermediate	1,3,0,0,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	71.0	10.0	0.364	1,2,3,0,0,0,0,0,0	to_hand	s144
+95.913	0.429	0.0	PA_with_intermediate	1,3,0,0,0,0,2,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	10.0	0.429	1,2,3,0,0,0,0,0,0	to_board	s144
+96.346	0.297	0.0	PA_with_intermediate	1,0,0,0,0,0,2,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	10.0	0.297	1,2,3,0,0,0,0,0,0	to_hand	s144
+96.643	0.143	0.0	PA_with_intermediate	1,0,0,0,0,0,2,3,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	10.0	0.143	1,2,3,0,0,0,0,0,0	to_board	s144
+96.795	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	10.0	n/a	n/a	feedback	s144
+97.795	1.408	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+99.205	1.258	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	82.0	11.0	1.258	0,0,0,0,0,0,1,2,3	to_hand	s144
+100.464	0.257	0.0	PA_without_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	89.0	11.0	0.257	0,0,0,0,0,0,1,2,3	to_board	s144
+100.725	0.201	0.0	PA_without_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	82.0	11.0	0.201	0,0,0,0,0,0,1,2,3	to_hand	s144
+100.927	0.193	0.0	PA_without_intermediate	3,0,0,2,0,0,1,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	71.0	11.0	0.193	0,0,0,0,0,0,1,2,3	to_board	s144
+101.123	0.202	0.0	PA_without_intermediate	3,0,0,2,0,0,0,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	82.0	11.0	0.202	0,0,0,0,0,0,1,2,3	to_hand	s144
+101.326	0.168	0.0	PA_without_intermediate	3,1,0,2,0,0,0,0,0	test	ward_and_allport	3,1,0,2,0,0,0,0,0	89.0	11.0	0.168	0,0,0,0,0,0,1,2,3	to_board	s144
+101.502	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	11.0	n/a	n/a	feedback	s144
+102.502	1.816	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+104.321	1.377	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	82.0	12.0	1.377	0,0,0,0,0,0,1,2,3	to_hand	s144
+105.699	0.189	0.0	PA_with_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	89.0	12.0	0.189	0,0,0,0,0,0,1,2,3	to_board	s144
+105.893	0.162	0.0	PA_with_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	82.0	12.0	0.162	0,0,0,0,0,0,1,2,3	to_hand	s144
+106.056	0.184	0.0	PA_with_intermediate	3,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	71.0	12.0	0.184	0,0,0,0,0,0,1,2,3	to_board	s144
+106.244	0.413	0.0	PA_with_intermediate	0,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	89.0	12.0	0.413	0,0,0,0,0,0,1,2,3	to_hand	s144
+106.658	0.196	0.0	PA_with_intermediate	0,0,0,2,3,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	71.0	12.0	0.196	0,0,0,0,0,0,1,2,3	to_board	s144
+106.861	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	12.0	n/a	n/a	feedback	s144
+107.861	3.176	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+111.04	1.906	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	13.0	1.906	1,2,3,0,0,0,0,0,0	to_hand	s144
+112.947	0.223	0.0	PA_with_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	13.0	0.223	1,2,3,0,0,0,0,0,0	to_board	s144
+113.173	0.325	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	13.0	0.325	1,2,3,0,0,0,0,0,0	to_hand	s144
+113.499	0.173	0.0	PA_with_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	13.0	0.173	1,2,3,0,0,0,0,0,0	to_board	s144
+113.676	1.124	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	13.0	1.124	1,2,3,0,0,0,0,0,0	to_hand	s144
+114.801	0.174	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	71.0	13.0	0.174	1,2,3,0,0,0,0,0,0	to_board	s144
+114.979	0.38	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	13.0	0.38	1,2,3,0,0,0,0,0,0	to_hand	s144
+115.359	0.189	0.0	PA_with_intermediate	1,3,0,2,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	13.0	0.189	1,2,3,0,0,0,0,0,0	to_board	s144
+115.552	0.671	0.0	PA_with_intermediate	1,3,0,0,0,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	71.0	13.0	0.671	1,2,3,0,0,0,0,0,0	to_hand	s144
+116.224	0.122	0.0	PA_with_intermediate	1,3,0,0,0,0,2,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	13.0	0.122	1,2,3,0,0,0,0,0,0	to_board	s144
+116.351	0.458	0.0	PA_with_intermediate	1,0,0,0,0,0,2,0,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	89.0	13.0	0.458	1,2,3,0,0,0,0,0,0	to_hand	s144
+116.81	0.122	0.0	PA_with_intermediate	1,0,0,0,0,0,2,3,0	test	ward_and_allport	1,0,0,0,0,0,2,3,0	82.0	13.0	0.122	1,2,3,0,0,0,0,0,0	to_board	s144
+116.938	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	13.0	n/a	n/a	feedback	s144
+117.938	2.36	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+120.301	1.549	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	89.0	14.0	1.549	1,2,3,0,0,0,0,0,0	to_hand	s144
+121.851	0.15	0.0	PA_with_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	82.0	14.0	0.15	1,2,3,0,0,0,0,0,0	to_board	s144
+122.005	0.18	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	89.0	14.0	0.18	1,2,3,0,0,0,0,0,0	to_hand	s144
+122.186	0.138	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	71.0	14.0	0.138	1,2,3,0,0,0,0,0,0	to_board	s144
+122.329	0.265	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	82.0	14.0	0.265	1,2,3,0,0,0,0,0,0	to_hand	s144
+122.596	0.123	0.0	PA_with_intermediate	1,0,0,2,3,0,0,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	71.0	14.0	0.123	1,2,3,0,0,0,0,0,0	to_board	s144
+122.723	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	14.0	n/a	n/a	feedback	s144
+123.723	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+129.73	2.218	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	89.0	15.0	2.218	1,2,3,0,0,0,0,0,0	to_hand	s144
+131.949	0.175	0.0	PA_without_intermediate	1,2,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	71.0	15.0	0.175	1,2,3,0,0,0,0,0,0	to_board	s144
+132.128	0.246	0.0	PA_without_intermediate	1,0,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	89.0	15.0	0.246	1,2,3,0,0,0,0,0,0	to_hand	s144
+132.375	0.198	0.0	PA_without_intermediate	1,0,0,3,2,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	71.0	15.0	0.198	1,2,3,0,0,0,0,0,0	to_board	s144
+132.578	0.232	0.0	PA_without_intermediate	0,0,0,3,2,0,0,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	89.0	15.0	0.232	1,2,3,0,0,0,0,0,0	to_hand	s144
+132.81	0.114	0.0	PA_without_intermediate	0,0,0,3,2,0,1,0,0	test	ward_and_allport	0,0,0,3,2,0,1,0,0	82.0	15.0	0.114	1,2,3,0,0,0,0,0,0	to_board	s144
+132.93	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	15.0	n/a	n/a	feedback	s144
+133.93	1.408	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+135.341	2.571	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	89.0	16.0	2.571	1,2,3,0,0,0,0,0,0	to_hand	s144
+137.913	0.126	0.0	PA_with_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	82.0	16.0	0.126	1,2,3,0,0,0,0,0,0	to_board	s144
+138.044	0.243	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	89.0	16.0	0.243	1,2,3,0,0,0,0,0,0	to_hand	s144
+138.288	0.43	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	71.0	16.0	0.43	1,2,3,0,0,0,0,0,0	to_board	s144
+138.723	0.336	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	82.0	16.0	0.336	1,2,3,0,0,0,0,0,0	to_hand	s144
+139.059	0.087	0.0	PA_with_intermediate	1,3,0,2,0,0,0,0,0	test	ward_and_allport	1,3,0,2,0,0,0,0,0	89.0	16.0	0.087	1,2,3,0,0,0,0,0,0	to_board	s144
+139.151	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	16.0	n/a	n/a	feedback	s144
+140.151	1.816	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+141.971	1.444	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	71.0	17.0	1.444	0,0,0,1,2,3,0,0,0	to_hand	s144
+143.416	0.138	0.0	PA_without_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	82.0	17.0	0.138	0,0,0,1,2,3,0,0,0	to_board	s144
+143.559	0.236	0.0	PA_without_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	71.0	17.0	0.236	0,0,0,1,2,3,0,0,0	to_hand	s144
+143.795	0.117	0.0	PA_without_intermediate	0,0,0,1,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	82.0	17.0	0.117	0,0,0,1,2,3,0,0,0	to_board	s144
+143.917	0.211	0.0	PA_without_intermediate	0,0,0,0,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	71.0	17.0	0.211	0,0,0,1,2,3,0,0,0	to_hand	s144
+144.128	0.114	0.0	PA_without_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	89.0	17.0	0.114	0,0,0,1,2,3,0,0,0	to_board	s144
+144.252	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	17.0	n/a	n/a	feedback	s144
+145.252	2.088	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+147.344	1.782	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	89.0	18.0	1.782	1,2,3,0,0,0,0,0,0	to_hand	s144
+149.127	0.097	0.0	PA_without_intermediate	1,2,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	71.0	18.0	0.097	1,2,3,0,0,0,0,0,0	to_board	s144
+149.228	0.248	0.0	PA_without_intermediate	1,0,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	89.0	18.0	0.248	1,2,3,0,0,0,0,0,0	to_hand	s144
+149.478	0.109	0.0	PA_without_intermediate	1,0,0,3,0,0,2,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	82.0	18.0	0.109	1,2,3,0,0,0,0,0,0	to_board	s144
+149.593	0.557	0.0	PA_without_intermediate	0,0,0,3,0,0,2,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	89.0	18.0	0.557	1,2,3,0,0,0,0,0,0	to_hand	s144
+150.152	0.075	0.0	PA_without_intermediate	0,0,0,3,1,0,2,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	71.0	18.0	0.075	1,2,3,0,0,0,0,0,0	to_board	s144
+150.232	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	18.0	n/a	n/a	feedback	s144
+151.232	1.136	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+152.372	1.259	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	19.0	1.259	0,0,0,0,0,0,1,2,3	to_hand	s144
+153.633	0.12	0.0	PA_without_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	19.0	0.12	0,0,0,0,0,0,1,2,3	to_board	s144
+153.76	0.757	0.0	PA_without_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	19.0	0.757	0,0,0,0,0,0,1,2,3	to_hand	s144
+154.518	0.131	0.0	PA_without_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	89.0	19.0	0.131	0,0,0,0,0,0,1,2,3	to_board	s144
+154.654	0.435	0.0	PA_without_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	19.0	0.435	0,0,0,0,0,0,1,2,3	to_hand	s144
+155.089	0.011	0.0	PA_without_intermediate	2,0,0,0,0,0,1,3,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	19.0	0.011	0,0,0,0,0,0,1,2,3	to_board	s144
+155.107	0.876	0.0	PA_without_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	19.0	0.876	0,0,0,0,0,0,1,2,3	to_hand	s144
+155.984	0.068	0.0	PA_without_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	19.0	0.068	0,0,0,0,0,0,1,2,3	to_board	s144
+156.056	0.232	0.0	PA_without_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	19.0	0.232	0,0,0,0,0,0,1,2,3	to_hand	s144
+156.289	0.545	0.0	PA_without_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	19.0	0.545	0,0,0,0,0,0,1,2,3	to_board	s144
+156.839	0.186	0.0	PA_without_intermediate	2,0,0,3,0,0,0,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	19.0	0.186	0,0,0,0,0,0,1,2,3	to_hand	s144
+157.026	0.154	0.0	PA_without_intermediate	2,0,0,3,1,0,0,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	19.0	0.154	0,0,0,0,0,0,1,2,3	to_board	s144
+157.187	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	19.0	n/a	n/a	feedback	s144
+158.187	6.168	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+164.362	1.177	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	82.0	20.0	1.177	0,0,0,0,0,0,1,2,3	to_hand	s144
+165.54	0.169	0.0	PA_without_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	71.0	20.0	0.169	0,0,0,0,0,0,1,2,3	to_board	s144
+165.716	0.162	0.0	PA_without_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	82.0	20.0	0.162	0,0,0,0,0,0,1,2,3	to_hand	s144
+165.879	0.131	0.0	PA_without_intermediate	0,0,0,3,2,0,1,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	71.0	20.0	0.131	0,0,0,0,0,0,1,2,3	to_board	s144
+166.016	0.262	0.0	PA_without_intermediate	0,0,0,3,2,0,0,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	82.0	20.0	0.262	0,0,0,0,0,0,1,2,3	to_hand	s144
+166.278	0.101	0.0	PA_without_intermediate	1,0,0,3,2,0,0,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	89.0	20.0	0.101	0,0,0,0,0,0,1,2,3	to_board	s144
+166.386	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	20.0	n/a	n/a	feedback	s144
+167.386	1.816	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+169.208	2.142	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	82.0	21.0	2.142	0,0,0,0,0,0,1,2,3	to_hand	s144
+171.352	0.149	0.0	PA_with_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	89.0	21.0	0.149	0,0,0,0,0,0,1,2,3	to_board	s144
+171.507	0.174	0.0	PA_with_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	82.0	21.0	0.174	0,0,0,0,0,0,1,2,3	to_hand	s144
+171.682	0.154	0.0	PA_with_intermediate	3,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	71.0	21.0	0.154	0,0,0,0,0,0,1,2,3	to_board	s144
+171.842	0.448	0.0	PA_with_intermediate	0,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	89.0	21.0	0.448	0,0,0,0,0,0,1,2,3	to_hand	s144
+172.291	0.114	0.0	PA_with_intermediate	0,0,0,2,0,0,1,3,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	82.0	21.0	0.114	0,0,0,0,0,0,1,2,3	to_board	s144
+172.412	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	21.0	n/a	n/a	feedback	s144
+173.412	1.952	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+175.369	1.427	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	82.0	22.0	1.427	0,0,0,0,0,0,1,2,3	to_hand	s144
+176.797	0.148	0.0	PA_with_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	71.0	22.0	0.148	0,0,0,0,0,0,1,2,3	to_board	s144
+176.951	0.125	0.0	PA_with_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	82.0	22.0	0.125	0,0,0,0,0,0,1,2,3	to_hand	s144
+177.077	0.194	0.0	PA_with_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	89.0	22.0	0.194	0,0,0,0,0,0,1,2,3	to_board	s144
+177.277	0.295	0.0	PA_with_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	71.0	22.0	0.295	0,0,0,0,0,0,1,2,3	to_hand	s144
+177.573	0.142	0.0	PA_with_intermediate	2,0,0,0,0,0,1,3,0	test	ward_and_allport	2,0,0,0,0,0,1,3,0	82.0	22.0	0.142	0,0,0,0,0,0,1,2,3	to_board	s144
+177.726	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	22.0	n/a	n/a	feedback	s144
+178.726	1.136	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+179.868	0.955	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	71.0	23.0	0.955	0,0,0,1,2,3,0,0,0	to_hand	s144
+180.823	0.134	0.0	PA_without_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	82.0	23.0	0.134	0,0,0,1,2,3,0,0,0	to_board	s144
+180.964	0.219	0.0	PA_without_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	71.0	23.0	0.219	0,0,0,1,2,3,0,0,0	to_hand	s144
+181.183	0.116	0.0	PA_without_intermediate	0,0,0,1,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	82.0	23.0	0.116	0,0,0,1,2,3,0,0,0	to_board	s144
+181.304	0.319	0.0	PA_without_intermediate	0,0,0,0,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	71.0	23.0	0.319	0,0,0,1,2,3,0,0,0	to_hand	s144
+181.625	0.091	0.0	PA_without_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	1,0,0,0,0,0,3,2,0	89.0	23.0	0.091	0,0,0,1,2,3,0,0,0	to_board	s144
+181.721	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	23.0	n/a	n/a	feedback	s144
+182.721	1.68	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+184.407	1.198	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	82.0	24.0	1.198	0,0,0,0,0,0,1,2,3	to_hand	s144
+185.606	0.139	0.0	PA_without_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	89.0	24.0	0.139	0,0,0,0,0,0,1,2,3	to_board	s144
+185.751	0.228	0.0	PA_without_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	82.0	24.0	0.228	0,0,0,0,0,0,1,2,3	to_hand	s144
+185.98	0.081	0.0	PA_without_intermediate	3,2,0,0,0,0,1,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	89.0	24.0	0.081	0,0,0,0,0,0,1,2,3	to_board	s144
+186.066	0.474	0.0	PA_without_intermediate	3,2,0,0,0,0,0,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	82.0	24.0	0.474	0,0,0,0,0,0,1,2,3	to_hand	s144
+186.54	0.137	0.0	PA_without_intermediate	3,2,0,1,0,0,0,0,0	test	ward_and_allport	3,2,0,1,0,0,0,0,0	71.0	24.0	0.137	0,0,0,0,0,0,1,2,3	to_board	s144
+186.686	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	24.0	n/a	n/a	feedback	s144
+187.686	2.088	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+189.778	1.739	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	89.0	25.0	1.739	1,2,3,0,0,0,0,0,0	to_hand	s144
+191.518	0.134	0.0	PA_with_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	82.0	25.0	0.134	1,2,3,0,0,0,0,0,0	to_board	s144
+191.658	0.263	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	89.0	25.0	0.263	1,2,3,0,0,0,0,0,0	to_hand	s144
+191.922	0.111	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	71.0	25.0	0.111	1,2,3,0,0,0,0,0,0	to_board	s144
+192.039	0.25	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	82.0	25.0	0.25	1,2,3,0,0,0,0,0,0	to_hand	s144
+192.29	0.112	0.0	PA_with_intermediate	1,0,0,2,3,0,0,0,0	test	ward_and_allport	1,0,0,2,3,0,0,0,0	71.0	25.0	0.112	1,2,3,0,0,0,0,0,0	to_board	s144
+192.414	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	25.0	n/a	n/a	feedback	s144
+193.414	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+194.422	1.667	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	26.0	1.667	0,0,0,0,0,0,1,2,3	to_hand	s144
+196.089	0.146	0.0	PA_without_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	26.0	0.146	0,0,0,0,0,0,1,2,3	to_board	s144
+196.241	0.262	0.0	PA_without_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	26.0	0.262	0,0,0,0,0,0,1,2,3	to_hand	s144
+196.504	0.12	0.0	PA_without_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	89.0	26.0	0.12	0,0,0,0,0,0,1,2,3	to_board	s144
+196.63	0.29	0.0	PA_without_intermediate	2,0,0,3,0,0,0,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	82.0	26.0	0.29	0,0,0,0,0,0,1,2,3	to_hand	s144
+196.921	0.088	0.0	PA_without_intermediate	2,0,0,3,1,0,0,0,0	test	ward_and_allport	2,0,0,3,1,0,0,0,0	71.0	26.0	0.088	0,0,0,0,0,0,1,2,3	to_board	s144
+197.016	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	26.0	n/a	n/a	feedback	s144
+198.016	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+199.021	1.185	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	71.0	27.0	1.185	0,0,0,1,2,3,0,0,0	to_hand	s144
+200.207	0.107	0.0	PA_without_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	89.0	27.0	0.107	0,0,0,1,2,3,0,0,0	to_board	s144
+200.32	0.342	0.0	PA_without_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	71.0	27.0	0.342	0,0,0,1,2,3,0,0,0	to_hand	s144
+200.663	0.094	0.0	PA_without_intermediate	3,0,0,1,0,0,2,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	82.0	27.0	0.094	0,0,0,1,2,3,0,0,0	to_board	s144
+200.763	0.396	0.0	PA_without_intermediate	3,0,0,0,0,0,2,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	71.0	27.0	0.396	0,0,0,1,2,3,0,0,0	to_hand	s144
+201.16	0.08	0.0	PA_without_intermediate	3,1,0,0,0,0,2,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	89.0	27.0	0.08	0,0,0,1,2,3,0,0,0	to_board	s144
+201.246	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	27.0	n/a	n/a	feedback	s144
+202.246	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+203.251	1.507	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	71.0	28.0	1.507	0,0,0,1,2,3,0,0,0	to_hand	s144
+204.758	0.1	0.0	PA_with_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	89.0	28.0	0.1	0,0,0,1,2,3,0,0,0	to_board	s144
+204.863	0.17	0.0	PA_with_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	71.0	28.0	0.17	0,0,0,1,2,3,0,0,0	to_hand	s144
+205.035	0.1	0.0	PA_with_intermediate	3,0,0,1,0,0,2,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	82.0	28.0	0.1	0,0,0,1,2,3,0,0,0	to_board	s144
+205.141	0.315	0.0	PA_with_intermediate	0,0,0,1,0,0,2,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	89.0	28.0	0.315	0,0,0,1,2,3,0,0,0	to_hand	s144
+205.457	0.103	0.0	PA_with_intermediate	0,0,0,1,3,0,2,0,0	test	ward_and_allport	0,0,0,1,3,0,2,0,0	71.0	28.0	0.103	0,0,0,1,2,3,0,0,0	to_board	s144
+205.566	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	28.0	n/a	n/a	feedback	s144
+206.566	1.544	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+208.114	2.159	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	89.0	29.0	2.159	1,2,3,0,0,0,0,0,0	to_hand	s144
+210.274	0.083	0.0	PA_without_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	82.0	29.0	0.083	1,2,3,0,0,0,0,0,0	to_board	s144
+210.362	0.235	0.0	PA_without_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	89.0	29.0	0.235	1,2,3,0,0,0,0,0,0	to_hand	s144
+210.598	0.064	0.0	PA_without_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	71.0	29.0	0.064	1,2,3,0,0,0,0,0,0	to_board	s144
+210.67	0.59	0.0	PA_without_intermediate	0,0,0,2,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	89.0	29.0	0.59	1,2,3,0,0,0,0,0,0	to_hand	s144
+211.261	0.196	0.0	PA_without_intermediate	0,0,0,2,0,0,3,1,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	82.0	29.0	0.196	1,2,3,0,0,0,0,0,0	to_board	s144
+211.47	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	29.0	n/a	n/a	feedback	s144
+212.47	1.272	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+218.751	1.56	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	89.0	30.0	1.56	1,2,3,0,0,0,0,0,0	to_hand	s144
+220.312	0.119	0.0	PA_with_intermediate	1,2,0,3,0,0,0,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	71.0	30.0	0.119	1,2,3,0,0,0,0,0,0	to_board	s144
+220.44	0.173	0.0	PA_with_intermediate	1,0,0,3,0,0,0,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	89.0	30.0	0.173	1,2,3,0,0,0,0,0,0	to_hand	s144
+220.613	0.111	0.0	PA_with_intermediate	1,0,0,3,0,0,2,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	82.0	30.0	0.111	1,2,3,0,0,0,0,0,0	to_board	s144
+220.732	0.322	0.0	PA_with_intermediate	1,0,0,0,0,0,2,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	71.0	30.0	0.322	1,2,3,0,0,0,0,0,0	to_hand	s144
+221.055	0.071	0.0	PA_with_intermediate	1,3,0,0,0,0,2,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	89.0	30.0	0.071	1,2,3,0,0,0,0,0,0	to_board	s144
+221.136	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	30.0	n/a	n/a	feedback	s144
+222.136	3.04	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+225.182	2.421	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	31.0	2.421	0,0,0,1,2,3,0,0,0	to_hand	s144
+227.604	0.261	0.0	PA_with_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	31.0	0.261	0,0,0,1,2,3,0,0,0	to_board	s144
+227.87	0.241	0.0	PA_with_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	31.0	0.241	0,0,0,1,2,3,0,0,0	to_hand	s144
+228.112	0.715	0.0	PA_with_intermediate	0,0,0,1,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	31.0	0.715	0,0,0,1,2,3,0,0,0	to_board	s144
+228.835	0.378	0.0	PA_with_intermediate	0,0,0,0,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	31.0	0.378	0,0,0,1,2,3,0,0,0	to_hand	s144
+229.214	0.113	0.0	PA_with_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	89.0	31.0	0.113	0,0,0,1,2,3,0,0,0	to_board	s144
+229.336	0.605	0.0	PA_with_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	31.0	0.605	0,0,0,1,2,3,0,0,0	to_hand	s144
+229.942	0.101	0.0	PA_with_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	31.0	0.101	0,0,0,1,2,3,0,0,0	to_board	s144
+230.052	1.742	0.0	PA_with_intermediate	1,0,0,2,0,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	31.0	1.742	0,0,0,1,2,3,0,0,0	to_hand	s144
+231.795	0.155	0.0	PA_with_intermediate	1,3,0,2,0,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	89.0	31.0	0.155	0,0,0,1,2,3,0,0,0	to_board	s144
+231.957	0.266	0.0	PA_with_intermediate	1,3,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	31.0	0.266	0,0,0,1,2,3,0,0,0	to_hand	s144
+232.223	0.124	0.0	PA_with_intermediate	1,3,0,0,0,0,2,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	31.0	0.124	0,0,0,1,2,3,0,0,0	to_board	s144
+232.353	0.407	0.0	PA_with_intermediate	1,0,0,0,0,0,2,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	89.0	31.0	0.407	0,0,0,1,2,3,0,0,0	to_hand	s144
+232.761	0.099	0.0	PA_with_intermediate	1,0,0,0,0,0,2,3,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	31.0	0.099	0,0,0,1,2,3,0,0,0	to_board	s144
+232.866	1.471	0.0	PA_with_intermediate	0,0,0,0,0,0,2,3,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	89.0	31.0	1.471	0,0,0,1,2,3,0,0,0	to_hand	s144
+234.338	0.051	0.0	PA_with_intermediate	0,0,0,1,0,0,2,3,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	31.0	0.051	0,0,0,1,2,3,0,0,0	to_board	s144
+234.398	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	31.0	n/a	n/a	feedback	s144
+235.398	1.272	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+236.676	2.611	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	32.0	2.611	0,0,0,1,2,3,0,0,0	to_hand	s144
+239.288	0.107	0.0	PA_with_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	89.0	32.0	0.107	0,0,0,1,2,3,0,0,0	to_board	s144
+239.402	0.202	0.0	PA_with_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	71.0	32.0	0.202	0,0,0,1,2,3,0,0,0	to_hand	s144
+239.604	0.104	0.0	PA_with_intermediate	3,0,0,1,0,0,2,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	32.0	0.104	0,0,0,1,2,3,0,0,0	to_board	s144
+239.715	0.193	0.0	PA_with_intermediate	0,0,0,1,0,0,2,0,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	89.0	32.0	0.193	0,0,0,1,2,3,0,0,0	to_hand	s144
+239.909	0.1	0.0	PA_with_intermediate	0,0,0,1,0,0,2,3,0	test	ward_and_allport	0,0,0,1,0,0,2,3,0	82.0	32.0	0.1	0,0,0,1,2,3,0,0,0	to_board	s144
+240.022	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	32.0	n/a	n/a	feedback	s144
+241.022	1.136	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+242.163	1.843	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	71.0	33.0	1.843	0,0,0,1,2,3,0,0,0	to_hand	s144
+244.007	0.104	0.0	PA_with_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	82.0	33.0	0.104	0,0,0,1,2,3,0,0,0	to_board	s144
+244.118	0.143	0.0	PA_with_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	71.0	33.0	0.143	0,0,0,1,2,3,0,0,0	to_hand	s144
+244.261	0.121	0.0	PA_with_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	89.0	33.0	0.121	0,0,0,1,2,3,0,0,0	to_board	s144
+244.388	0.292	0.0	PA_with_intermediate	2,0,0,1,0,0,0,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	82.0	33.0	0.292	0,0,0,1,2,3,0,0,0	to_hand	s144
+244.681	0.092	0.0	PA_with_intermediate	2,3,0,1,0,0,0,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	89.0	33.0	0.092	0,0,0,1,2,3,0,0,0	to_board	s144
+244.782	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	33.0	n/a	n/a	feedback	s144
+245.782	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+246.787	1.434	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	34.0	1.434	0,0,0,1,2,3,0,0,0	to_hand	s144
+248.223	0.114	0.0	PA_with_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	82.0	34.0	0.114	0,0,0,1,2,3,0,0,0	to_board	s144
+248.343	0.153	0.0	PA_with_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	34.0	0.153	0,0,0,1,2,3,0,0,0	to_hand	s144
+248.497	0.102	0.0	PA_with_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	89.0	34.0	0.102	0,0,0,1,2,3,0,0,0	to_board	s144
+248.605	0.106	0.0	PA_with_intermediate	2,0,0,1,0,0,0,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	82.0	34.0	0.106	0,0,0,1,2,3,0,0,0	to_hand	s144
+248.712	0.072	0.0	PA_with_intermediate	2,0,0,1,3,0,0,0,0	test	ward_and_allport	2,0,0,1,3,0,0,0,0	71.0	34.0	0.072	0,0,0,1,2,3,0,0,0	to_board	s144
+248.798	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	34.0	n/a	n/a	feedback	s144
+249.798	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+250.804	1.547	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	89.0	35.0	1.547	1,2,3,0,0,0,0,0,0	to_hand	s144
+252.352	0.091	0.0	PA_without_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	82.0	35.0	0.091	1,2,3,0,0,0,0,0,0	to_board	s144
+252.449	0.105	0.0	PA_without_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	89.0	35.0	0.105	1,2,3,0,0,0,0,0,0	to_hand	s144
+252.555	0.099	0.0	PA_without_intermediate	1,0,0,0,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	82.0	35.0	0.099	1,2,3,0,0,0,0,0,0	to_board	s144
+252.661	0.101	0.0	PA_without_intermediate	0,0,0,0,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	89.0	35.0	0.101	1,2,3,0,0,0,0,0,0	to_hand	s144
+252.763	0.071	0.0	PA_without_intermediate	0,0,0,1,0,0,3,2,0	test	ward_and_allport	0,0,0,1,0,0,3,2,0	71.0	35.0	0.071	1,2,3,0,0,0,0,0,0	to_board	s144
+252.843	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	35.0	n/a	n/a	feedback	s144
+253.843	1.408	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+255.256	1.359	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	82.0	36.0	1.359	0,0,0,0,0,0,1,2,3	to_hand	s144
+256.616	0.054	0.0	PA_with_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	89.0	36.0	0.054	0,0,0,0,0,0,1,2,3	to_board	s144
+256.676	0.196	0.0	PA_with_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	82.0	36.0	0.196	0,0,0,0,0,0,1,2,3	to_hand	s144
+256.873	0.107	0.0	PA_with_intermediate	3,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	71.0	36.0	0.107	0,0,0,0,0,0,1,2,3	to_board	s144
+256.986	0.212	0.0	PA_with_intermediate	0,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	89.0	36.0	0.212	0,0,0,0,0,0,1,2,3	to_hand	s144
+257.199	0.074	0.0	PA_with_intermediate	0,0,0,2,0,0,1,3,0	test	ward_and_allport	0,0,0,2,0,0,1,3,0	82.0	36.0	0.074	0,0,0,0,0,0,1,2,3	to_board	s144
+257.28	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	36.0	n/a	n/a	feedback	s144
+258.28	2.768	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+261.055	2.355	1.0	PA_with_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	89.0	37.0	2.355	1,2,3,0,0,0,0,0,0	to_hand	s144
+263.41	0.082	0.0	PA_with_intermediate	1,2,0,3,0,0,0,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	71.0	37.0	0.082	1,2,3,0,0,0,0,0,0	to_board	s144
+263.498	0.115	0.0	PA_with_intermediate	1,0,0,3,0,0,0,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	89.0	37.0	0.115	1,2,3,0,0,0,0,0,0	to_hand	s144
+263.614	0.098	0.0	PA_with_intermediate	1,0,0,3,0,0,2,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	82.0	37.0	0.098	1,2,3,0,0,0,0,0,0	to_board	s144
+263.72	0.136	0.0	PA_with_intermediate	1,0,0,0,0,0,2,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	71.0	37.0	0.136	1,2,3,0,0,0,0,0,0	to_hand	s144
+263.857	0.103	0.0	PA_with_intermediate	1,3,0,0,0,0,2,0,0	test	ward_and_allport	1,3,0,0,0,0,2,0,0	89.0	37.0	0.103	1,2,3,0,0,0,0,0,0	to_board	s144
+263.973	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	37.0	n/a	n/a	feedback	s144
+264.973	1.68	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+266.659	1.6	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	71.0	38.0	1.6	0,0,0,1,2,3,0,0,0	to_hand	s144
+268.26	0.099	0.0	PA_without_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	82.0	38.0	0.099	0,0,0,1,2,3,0,0,0	to_board	s144
+268.366	0.102	0.0	PA_without_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	71.0	38.0	0.102	0,0,0,1,2,3,0,0,0	to_hand	s144
+268.469	0.097	0.0	PA_without_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	89.0	38.0	0.097	0,0,0,1,2,3,0,0,0	to_board	s144
+268.572	0.125	0.0	PA_without_intermediate	2,0,0,0,0,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	71.0	38.0	0.125	0,0,0,1,2,3,0,0,0	to_hand	s144
+268.698	0.109	0.0	PA_without_intermediate	2,0,0,0,0,0,3,1,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	82.0	38.0	0.109	0,0,0,1,2,3,0,0,0	to_board	s144
+268.816	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	38.0	n/a	n/a	feedback	s144
+269.816	2.224	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+272.047	1.701	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	71.0	39.0	1.701	0,0,0,1,2,3,0,0,0	to_hand	s144
+273.748	0.124	0.0	PA_without_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	82.0	39.0	0.124	0,0,0,1,2,3,0,0,0	to_board	s144
+273.878	0.108	0.0	PA_without_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	71.0	39.0	0.108	0,0,0,1,2,3,0,0,0	to_hand	s144
+273.987	0.117	0.0	PA_without_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	89.0	39.0	0.117	0,0,0,1,2,3,0,0,0	to_board	s144
+274.113	0.127	0.0	PA_without_intermediate	2,0,0,0,0,0,3,0,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	71.0	39.0	0.127	0,0,0,1,2,3,0,0,0	to_hand	s144
+274.241	0.111	0.0	PA_without_intermediate	2,0,0,0,0,0,3,1,0	test	ward_and_allport	2,0,0,0,0,0,3,1,0	82.0	39.0	0.111	0,0,0,1,2,3,0,0,0	to_board	s144
+274.364	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	39.0	n/a	n/a	feedback	s144
+275.364	2.36	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+277.73	1.631	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	89.0	40.0	1.631	1,2,3,0,0,0,0,0,0	to_hand	s144
+279.362	0.096	0.0	PA_without_intermediate	1,2,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	82.0	40.0	0.096	1,2,3,0,0,0,0,0,0	to_board	s144
+279.465	0.094	0.0	PA_without_intermediate	1,0,0,0,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	89.0	40.0	0.094	1,2,3,0,0,0,0,0,0	to_hand	s144
+279.56	0.094	0.0	PA_without_intermediate	1,0,0,2,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	71.0	40.0	0.094	1,2,3,0,0,0,0,0,0	to_board	s144
+279.663	0.092	0.0	PA_without_intermediate	0,0,0,2,0,0,3,0,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	89.0	40.0	0.092	1,2,3,0,0,0,0,0,0	to_hand	s144
+279.756	0.106	0.0	PA_without_intermediate	0,0,0,2,0,0,3,1,0	test	ward_and_allport	0,0,0,2,0,0,3,1,0	82.0	40.0	0.106	1,2,3,0,0,0,0,0,0	to_board	s144
+279.875	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	40.0	n/a	n/a	feedback	s144
+280.875	1.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+281.886	1.51	1.0	PA_without_intermediate	1,2,0,0,0,0,0,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	89.0	41.0	1.51	1,2,3,0,0,0,0,0,0	to_hand	s144
+283.397	0.117	0.0	PA_without_intermediate	1,2,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	71.0	41.0	0.117	1,2,3,0,0,0,0,0,0	to_board	s144
+283.52	0.109	0.0	PA_without_intermediate	1,0,0,3,0,0,0,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	89.0	41.0	0.109	1,2,3,0,0,0,0,0,0	to_hand	s144
+283.63	0.098	0.0	PA_without_intermediate	1,0,0,3,0,0,2,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	82.0	41.0	0.098	1,2,3,0,0,0,0,0,0	to_board	s144
+283.735	0.08	0.0	PA_without_intermediate	0,0,0,3,0,0,2,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	89.0	41.0	0.08	1,2,3,0,0,0,0,0,0	to_hand	s144
+283.816	0.086	0.0	PA_without_intermediate	0,0,0,3,1,0,2,0,0	test	ward_and_allport	0,0,0,3,1,0,2,0,0	71.0	41.0	0.086	1,2,3,0,0,0,0,0,0	to_board	s144
+283.91	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	41.0	n/a	n/a	feedback	s144
+284.91	1.408	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+286.324	1.207	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	82.0	42.0	1.207	0,0,0,0,0,0,1,2,3	to_hand	s144
+287.532	0.125	0.0	PA_with_intermediate	3,0,0,0,0,0,1,2,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	89.0	42.0	0.125	0,0,0,0,0,0,1,2,3	to_board	s144
+287.663	0.17	0.0	PA_with_intermediate	3,0,0,0,0,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	82.0	42.0	0.17	0,0,0,0,0,0,1,2,3	to_hand	s144
+287.834	0.073	0.0	PA_with_intermediate	3,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	71.0	42.0	0.073	0,0,0,0,0,0,1,2,3	to_board	s144
+287.914	0.18	0.0	PA_with_intermediate	0,0,0,2,0,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	89.0	42.0	0.18	0,0,0,0,0,0,1,2,3	to_hand	s144
+288.095	0.154	0.0	PA_with_intermediate	0,0,0,2,3,0,1,0,0	test	ward_and_allport	0,0,0,2,3,0,1,0,0	71.0	42.0	0.154	0,0,0,0,0,0,1,2,3	to_board	s144
+288.256	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	42.0	n/a	n/a	feedback	s144
+289.256	1.136	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+290.4	1.187	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	71.0	43.0	1.187	0,0,0,1,2,3,0,0,0	to_hand	s144
+291.587	0.098	0.0	PA_without_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	89.0	43.0	0.098	0,0,0,1,2,3,0,0,0	to_board	s144
+291.695	0.094	0.0	PA_without_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	71.0	43.0	0.094	0,0,0,1,2,3,0,0,0	to_hand	s144
+291.79	0.086	0.0	PA_without_intermediate	3,2,0,1,0,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	89.0	43.0	0.086	0,0,0,1,2,3,0,0,0	to_board	s144
+291.883	0.143	0.0	PA_without_intermediate	3,2,0,0,0,0,0,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	71.0	43.0	0.143	0,0,0,1,2,3,0,0,0	to_hand	s144
+292.029	0.102	0.0	PA_without_intermediate	3,2,0,0,0,0,1,0,0	test	ward_and_allport	3,2,0,0,0,0,1,0,0	82.0	43.0	0.102	0,0,0,1,2,3,0,0,0	to_board	s144
+292.144	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	43.0	n/a	n/a	feedback	s144
+293.144	4.128	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+297.279	1.38	1.0	PA_without_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	71.0	44.0	1.38	0,0,0,1,2,3,0,0,0	to_hand	s144
+298.66	0.081	0.0	PA_without_intermediate	3,0,0,1,2,0,0,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	89.0	44.0	0.081	0,0,0,1,2,3,0,0,0	to_board	s144
+298.754	0.114	0.0	PA_without_intermediate	3,0,0,1,0,0,0,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	71.0	44.0	0.114	0,0,0,1,2,3,0,0,0	to_hand	s144
+298.869	0.129	0.0	PA_without_intermediate	3,0,0,1,0,0,2,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	82.0	44.0	0.129	0,0,0,1,2,3,0,0,0	to_board	s144
+299.012	0.09	0.0	PA_without_intermediate	3,0,0,0,0,0,2,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	71.0	44.0	0.09	0,0,0,1,2,3,0,0,0	to_hand	s144
+299.103	0.09	0.0	PA_without_intermediate	3,1,0,0,0,0,2,0,0	test	ward_and_allport	3,1,0,0,0,0,2,0,0	89.0	44.0	0.09	0,0,0,1,2,3,0,0,0	to_board	s144
+299.211	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	44.0	n/a	n/a	feedback	s144
+300.211	1.136	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+306.362	1.825	1.0	PA_without_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	82.0	45.0	1.825	0,0,0,0,0,0,1,2,3	to_hand	s144
+308.188	0.159	0.0	PA_without_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	71.0	45.0	0.159	0,0,0,0,0,0,1,2,3	to_board	s144
+308.364	0.786	0.0	PA_without_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	82.0	45.0	0.786	0,0,0,0,0,0,1,2,3	to_hand	s144
+309.15	0.144	0.0	PA_without_intermediate	0,0,0,3,2,0,1,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	71.0	45.0	0.144	0,0,0,0,0,0,1,2,3	to_board	s144
+309.309	0.276	0.0	PA_without_intermediate	0,0,0,3,2,0,0,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	82.0	45.0	0.276	0,0,0,0,0,0,1,2,3	to_hand	s144
+309.586	0.1	0.0	PA_without_intermediate	1,0,0,3,2,0,0,0,0	test	ward_and_allport	1,0,0,3,2,0,0,0,0	89.0	45.0	0.1	0,0,0,0,0,0,1,2,3	to_board	s144
+309.704	1.0	0.0	PA_without_intermediate	n/a	test	ward_and_allport	n/a	-1.0	45.0	n/a	n/a	feedback	s144
+310.704	4.264	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+314.975	1.247	1.0	PA_with_intermediate	0,0,0,0,0,0,1,2,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	82.0	46.0	1.247	0,0,0,0,0,0,1,2,3	to_hand	s144
+316.223	0.095	0.0	PA_with_intermediate	0,0,0,3,0,0,1,2,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	71.0	46.0	0.095	0,0,0,0,0,0,1,2,3	to_board	s144
+316.329	0.122	0.0	PA_with_intermediate	0,0,0,3,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	82.0	46.0	0.122	0,0,0,0,0,0,1,2,3	to_hand	s144
+316.452	0.091	0.0	PA_with_intermediate	2,0,0,3,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	89.0	46.0	0.091	0,0,0,0,0,0,1,2,3	to_board	s144
+316.553	0.117	0.0	PA_with_intermediate	2,0,0,0,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	71.0	46.0	0.117	0,0,0,0,0,0,1,2,3	to_hand	s144
+316.672	0.668	0.0	PA_with_intermediate	2,3,0,0,0,0,1,0,0	test	ward_and_allport	2,3,0,0,0,0,1,0,0	89.0	46.0	0.668	0,0,0,0,0,0,1,2,3	to_board	s144
+317.355	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	46.0	n/a	n/a	feedback	s144
+318.355	3.04	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a
+321.406	1.592	1.0	PA_with_intermediate	0,0,0,1,2,0,0,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	71.0	47.0	1.592	0,0,0,1,2,3,0,0,0	to_hand	s144
+322.999	0.12	0.0	PA_with_intermediate	0,0,0,1,2,0,3,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	82.0	47.0	0.12	0,0,0,1,2,3,0,0,0	to_board	s144
+323.129	0.091	0.0	PA_with_intermediate	0,0,0,1,0,0,3,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	71.0	47.0	0.091	0,0,0,1,2,3,0,0,0	to_hand	s144
+323.222	0.093	0.0	PA_with_intermediate	2,0,0,1,0,0,3,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	89.0	47.0	0.093	0,0,0,1,2,3,0,0,0	to_board	s144
+323.324	0.337	0.0	PA_with_intermediate	2,0,0,1,0,0,0,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	82.0	47.0	0.337	0,0,0,1,2,3,0,0,0	to_hand	s144
+323.661	0.061	0.0	PA_with_intermediate	2,3,0,1,0,0,0,0,0	test	ward_and_allport	2,3,0,1,0,0,0,0,0	89.0	47.0	0.061	0,0,0,1,2,3,0,0,0	to_board	s144
+323.733	1.0	0.0	PA_with_intermediate	n/a	test	ward_and_allport	n/a	-1.0	47.0	n/a	n/a	feedback	s144
+324.733	1.136	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ITI	n/a

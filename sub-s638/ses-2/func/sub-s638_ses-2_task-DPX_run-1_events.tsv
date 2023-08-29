@@ -1,161 +1,321 @@
-onset	duration	movement_onset	block_duration	condition	correct	correct_response	experiment_exp_id	key_press	response_time	trial_id	trial_type	worker_id	junk
-5.45	1.5	6.834	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.384	probe	AX	s638	False
-9.739	1.5	11.168	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.429	probe	AX	s638	False
-13.756	1.5	15.253	2.452	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.497	probe	AY	s638	False
-18.726	1.5	20.195	1.772	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.469	probe	AY	s638	False
-23.016	1.5	24.745	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.729	probe	AX	s638	False
-27.442	1.5	29.189	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.747	probe	AX	s638	False
-31.86	1.5	33.582	2.588	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.722	probe	AX	s638	False
-36.965	1.5	38.429	1.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.464	probe	AY	s638	False
-40.981	1.5	42.557	1.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.576	probe	BY	s638	False
-44.996	1.5	46.95	1.5	BY	0.0	71.0	dot_pattern_expectancy	89.0	0.954	probe	BY	s638	False
-49.015	1.5	50.649	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.634	probe	AX	s638	False
-53.166	1.5	54.667	2.044	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.501	probe	BX	s638	False
-57.722	1.5	59.278	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.556	probe	AX	s638	False
-62.01	1.5	63.428	2.588	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.418	probe	BX	s638	False
-67.111	1.5	68.531	1.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.42	probe	AY	s638	False
-71.127	1.5	73.288	2.452	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.161	probe	AX	s638	False
-76.091	1.5	77.812	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.721	probe	BY	s638	False
-80.246	1.5	82.34	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.094	probe	AX	s638	False
-84.4	1.5	86.458	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.058	probe	AX	s638	False
-88.412	1.5	89.959	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.547	probe	BY	s638	False
-92.563	1.5	94.143	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.58	probe	AX	s638	False
-96.582	1.5	98.17	2.18	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.588	probe	AY	s638	False
-101.273	1.5	102.811	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.538	probe	AX	s638	False
-105.291	1.5	107.002	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.711	probe	AX	s638	False
-109.717	1.5	111.41	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.693	probe	BY	s638	False
-113.872	1.5	115.545	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.673	probe	BY	s638	False
-118.027	1.5	119.692	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.665	probe	AX	s638	False
-122.179	1.5	123.673	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.494	probe	AX	s638	False
-126.198	1.5	127.773	2.044	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.575	probe	BY	s638	False
-130.757	1.5	132.431	2.18	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.674	probe	AY	s638	False
-135.451	1.5	137.011	1.636	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.56	probe	AY	s638	False
-139.601	1.5	141.362	1.772	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.761	probe	AY	s638	False
-143.885	1.5	145.467	1.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.582	probe	BY	s638	False
-147.904	1.5	149.621	1.908	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.717	probe	BX	s638	False
-152.328	1.5	153.725	2.044	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.397	probe	AX	s638	False
-156.89	1.5	158.515	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.625	probe	AX	s638	False
-161.045	1.5	162.527	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.482	probe	AX	s638	False
-165.333	1.5	166.855	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.522	probe	AX	s638	False
-169.485	1.5	170.918	1.772	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.433	probe	BX	s638	False
-173.773	1.5	175.328	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.555	probe	AX	s638	False
-188.298	1.5	189.876	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.578	probe	BY	s638	False
-192.451	1.5	194.169	1.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.718	probe	AY	s638	False
-196.463	1.5	197.791	2.044	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.328	probe	AX	s638	False
-201.02	1.5	202.629	1.772	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.609	probe	BY	s638	False
-205.306	1.5	206.967	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.661	probe	BX	s638	False
-209.46	1.5	210.845	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.385	probe	AX	s638	False
-213.612	1.5	215.248	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.636	probe	AX	s638	False
-217.623	1.5	219.084	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.461	probe	AX	s638	False
-221.636	1.5	223.187	2.044	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.551	probe	AY	s638	False
-226.196	1.5	227.726	2.452	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.53	probe	AX	s638	False
-231.162	1.5	232.899	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.737	probe	AX	s638	False
-235.586	1.5	237.282	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.696	probe	AX	s638	False
-239.598	1.5	241.16	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.562	probe	AX	s638	False
-244.019	1.5	245.569	2.18	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.55	probe	BX	s638	False
-248.71	1.5	250.154	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.444	probe	AX	s638	False
-252.729	1.5	254.338	1.908	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.609	probe	BY	s638	False
-257.153	1.5	259.399	2.316	BX	0.0	71.0	dot_pattern_expectancy	89.0	1.246	probe	BX	s638	False
-261.985	1.5	263.689	2.316	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.704	probe	AY	s638	False
-266.819	1.5	268.347	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.528	probe	BX	s638	False
-270.971	1.5	272.562	1.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.591	probe	AY	s638	False
-274.986	1.5	276.622	1.908	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.636	probe	BY	s638	False
-279.404	1.5	281.045	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.641	probe	AX	s638	False
-283.42	1.5	285.026	2.316	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.606	probe	AY	s638	False
-288.246	1.5	290.03	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.784	probe	AX	s638	False
-292.264	1.5	293.993	2.724	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.729	probe	AY	s638	False
-297.499	1.5	299.211	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.712	probe	AX	s638	False
-301.517	1.5	303.52	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.003	probe	AX	s638	False
-305.667	1.5	307.345	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.678	probe	AX	s638	False
-309.819	1.5	311.552	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.733	probe	AX	s638	False
-314.107	1.5	315.691	1.772	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.584	probe	BY	s638	False
-318.395	1.5	320.036	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.641	probe	AX	s638	False
-322.414	1.5	324.026	2.452	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.612	probe	BY	s638	False
-327.384	1.5	329.23	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.846	probe	AX	s638	False
-331.538	1.5	333.113	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.575	probe	AX	s638	False
-335.687	1.5	337.434	1.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.747	probe	BX	s638	False
-339.701	1.5	341.411	1.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.71	probe	BX	s638	False
-343.717	1.5	345.188	2.316	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.471	probe	AX	s638	False
-348.549	1.5	350.524	2.044	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.975	probe	AY	s638	False
-353.109	1.5	354.657	3.948	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.548	probe	AX	s638	False
-359.576	1.5	361.331	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.755	probe	AX	s638	False
-374.242	1.5	375.836	1.636	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.594	probe	AY	s638	False
-378.397	1.5	379.902	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.505	probe	AX	s638	False
-382.549	1.5	384.129	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.58	probe	AX	s638	False
-386.564	1.5	388.115	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.551	probe	AX	s638	False
-390.583	1.5	392.101	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.518	probe	AX	s638	False
-395.003	1.5	396.748	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.745	probe	BX	s638	False
-399.151	1.5	400.599	2.044	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.448	probe	AX	s638	False
-403.711	1.5	405.295	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.584	probe	AX	s638	False
-407.999	1.5	409.59	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.591	probe	AX	s638	False
-412.014	1.5	414.335	2.18	AX	0.0	89.0	dot_pattern_expectancy	71.0	1.321	probe	AX	s638	False
-416.708	1.5	418.216	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.508	probe	AX	s638	False
-420.724	1.5	422.353	3.676	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.629	probe	BX	s638	False
-426.918	1.5	428.528	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.61	probe	BY	s638	False
-431.068	1.5	432.804	1.636	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.736	probe	BY	s638	False
-435.22	1.5	436.819	1.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.599	probe	BX	s638	False
-439.233	1.5	440.838	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.605	probe	AX	s638	False
-443.659	1.5	445.239	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.58	probe	AX	s638	False
-447.812	1.5	449.238	1.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.426	probe	BX	s638	False
-451.83	1.5	453.86	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.03	probe	AX	s638	False
-456.256	1.5	457.916	2.18	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.66	probe	BY	s638	False
-460.948	1.5	462.835	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.887	probe	AX	s638	False
-465.236	1.5	466.772	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.536	probe	AX	s638	False
-469.252	1.5	470.251	1.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638	False
-473.267	1.5	474.821	2.044	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.554	probe	AX	s638	False
-477.828	1.5	479.231	2.86	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.403	probe	AX	s638	False
-483.203	1.5	484.761	1.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.558	probe	BX	s638	False
-487.222	1.5	488.221	1.772	BY	0.0	71.0	dot_pattern_expectancy	-1.0	n/a	probe	BY	s638	False
-491.507	1.5	492.506	1.772	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638	False
-495.795	1.5	497.354	2.86	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.559	probe	AX	s638	False
-501.17	1.5	502.707	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.537	probe	AX	s638	False
-505.461	1.5	506.979	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.518	probe	BX	s638	False
-509.615	1.5	511.155	2.452	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.54	probe	BX	s638	False
-514.587	1.5	516.077	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.49	probe	AX	s638	False
-518.739	1.5	520.695	1.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.956	probe	BX	s638	False
-522.756	1.5	524.313	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.557	probe	AX	s638	False
-526.906	1.5	528.496	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.59	probe	AX	s638	False
-531.06	1.5	532.817	2.18	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.757	probe	BY	s638	False
-535.752	1.5	537.372	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.62	probe	AX	s638	False
-539.771	1.5	541.367	1.636	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.596	probe	AY	s638	False
-543.924	1.5	545.608	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.684	probe	AX	s638	False
-558.592	1.5	560.265	2.18	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.673	probe	AX	s638	False
-563.288	1.5	564.846	2.316	AY	0.0	71.0	dot_pattern_expectancy	89.0	0.558	probe	AY	s638	False
-568.122	1.5	569.844	1.636	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.722	probe	AY	s638	False
-572.277	1.5	574.127	1.908	BX	1.0	71.0	dot_pattern_expectancy	71.0	0.85	probe	BX	s638	False
-576.703	1.5	578.285	3.54	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.582	probe	AX	s638	False
-582.761	1.5	584.485	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.724	probe	BX	s638	False
-586.914	1.5	588.889	1.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.975	probe	BY	s638	False
-590.93	1.5	592.579	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.649	probe	AX	s638	False
-594.946	1.5	597.043	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.097	probe	AX	s638	False
-599.235	1.5	601.834	2.452	BY	1.0	71.0	dot_pattern_expectancy	71.0	1.599	probe	BY	s638	False
-604.206	1.5	605.205	1.908	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638	False
-608.634	1.5	610.12	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.486	probe	BX	s638	False
-612.785	1.5	614.485	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.7	probe	AX	s638	False
-616.803	1.5	618.471	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.668	probe	AX	s638	False
-620.958	1.5	621.957	1.636	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638	False
-625.113	1.5	626.112	2.452	BY	0.0	71.0	dot_pattern_expectancy	-1.0	n/a	probe	BY	s638	False
-630.081	1.5	631.507	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.426	probe	AX	s638	False
-634.097	1.5	635.693	1.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.596	probe	BY	s638	False
-638.115	1.5	639.702	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.587	probe	AX	s638	False
-642.261	1.5	643.833	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.572	probe	AX	s638	False
-646.414	1.5	648.033	1.636	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.619	probe	AY	s638	False
-650.566	1.5	651.979	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.413	probe	AX	s638	False
-654.582	1.5	656.168	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.586	probe	AX	s638	False
-658.598	1.5	660.19	1.772	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.592	probe	AX	s638	False
-662.888	1.5	664.445	2.18	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.557	probe	AX	s638	False
-667.584	1.5	668.998	1.772	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.414	probe	BX	s638	False
-671.873	1.5	673.6	1.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.727	probe	BY	s638	False
-675.888	1.5	677.528	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.64	probe	AX	s638	False
-679.902	1.5	681.506	1.636	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.604	probe	AX	s638	False
-684.051	1.5	685.608	2.18	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.557	probe	AY	s638	False
-688.742	1.5	690.965	2.316	AY	1.0	71.0	dot_pattern_expectancy	71.0	1.223	probe	AY	s638	False
-693.575	1.5	695.361	1.636	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.786	probe	BX	s638	False
-697.73	1.5	699.997	2.18	BX	1.0	71.0	dot_pattern_expectancy	71.0	1.267	probe	BX	s638	False
-702.427	1.5	704.187	2.044	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.76	probe	AY	s638	False
-706.987	1.5	707.986	1.772	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638	False
-711.275	1.5	713.033	1.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.758	probe	AX	s638	False
-715.288	1.5	716.845	2.18	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.557	probe	AX	s638	False
-719.986	1.5	721.975	2.452	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.989	probe	AY	s638	False
-724.956	1.5	725.955	1.636	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638	False
-729.111	1.5	730.58	1.908	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.469	probe	AX	s638	False
+onset	duration	condition	correct	correct_response	experiment_exp_id	key_press	response_time	trial_id	trial_type	worker_id
+3.941	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+6.45	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.384	probe	AX	s638
+8.229	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+10.739	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.429	probe	AX	s638
+12.245	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+14.756	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.497	probe	AY	s638
+17.215	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+19.726	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.469	probe	AY	s638
+21.503	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+24.016	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.729	probe	AX	s638
+25.93	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+28.442	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.747	probe	AX	s638
+30.353	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+32.86	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.722	probe	AX	s638
+35.454	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+37.965	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.464	probe	AY	s638
+39.472	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+41.981	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.576	probe	BY	s638
+43.487	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+45.996	0.5	BY	0.0	71.0	dot_pattern_expectancy	89.0	0.954	probe	BY	s638
+47.503	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+50.015	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.634	probe	AX	s638
+51.657	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+54.166	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.501	probe	BX	s638
+56.214	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+58.722	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.556	probe	AX	s638
+60.5	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+63.01	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.418	probe	BX	s638
+65.605	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+68.111	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.42	probe	AY	s638
+69.617	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+72.127	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.161	probe	AX	s638
+74.583	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+77.091	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.721	probe	BY	s638
+78.734	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+81.246	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.094	probe	AX	s638
+82.889	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+85.4	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.058	probe	AX	s638
+86.903	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+89.412	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.547	probe	BY	s638
+91.055	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+93.563	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.58	probe	AX	s638
+95.07	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+97.582	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.588	probe	AY	s638
+99.768	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+102.273	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.538	probe	AX	s638
+103.779	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+106.291	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.711	probe	AX	s638
+108.208	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+110.717	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.693	probe	BY	s638
+112.36	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+114.872	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.673	probe	BY	s638
+116.515	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+119.027	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.665	probe	AX	s638
+120.67	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+123.179	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.494	probe	AX	s638
+124.686	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+127.198	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.575	probe	BY	s638
+129.246	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+131.757	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.674	probe	AY	s638
+133.94	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+136.451	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.56	probe	AY	s638
+138.093	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+140.601	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.761	probe	AY	s638
+142.379	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+144.885	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.582	probe	BY	s638
+146.391	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+148.904	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.717	probe	BX	s638
+150.818	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+153.328	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.397	probe	AX	s638
+155.378	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+157.89	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.625	probe	AX	s638
+159.533	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+162.045	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.482	probe	AX	s638
+163.821	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+166.333	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.522	probe	AX	s638
+167.976	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+170.485	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.433	probe	BX	s638
+172.264	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+174.773	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.555	probe	AX	s638
+186.793	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+189.298	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.578	probe	BY	s638
+190.94	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+193.451	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.718	probe	AY	s638
+194.957	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+197.463	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.328	probe	AX	s638
+199.512	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+202.02	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.609	probe	BY	s638
+203.799	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+206.306	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.661	probe	BX	s638
+207.948	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+210.46	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.385	probe	AX	s638
+212.103	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+214.612	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.636	probe	AX	s638
+216.114	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+218.623	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.461	probe	AX	s638
+220.13	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+222.636	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.551	probe	AY	s638
+224.685	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+227.196	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.53	probe	AX	s638
+229.655	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+232.162	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.737	probe	AX	s638
+234.077	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+236.586	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.696	probe	AX	s638
+238.09	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+240.598	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.562	probe	AX	s638
+242.508	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+245.019	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.55	probe	BX	s638
+247.202	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+249.71	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.444	probe	AX	s638
+251.216	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+253.729	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.609	probe	BY	s638
+255.644	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+258.153	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	1.246	probe	BX	s638
+260.476	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+262.985	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.704	probe	AY	s638
+265.308	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+267.819	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.528	probe	BX	s638
+269.461	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+271.971	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.591	probe	AY	s638
+273.475	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+275.986	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.636	probe	BY	s638
+277.896	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+280.404	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.641	probe	AX	s638
+281.91	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+284.42	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.606	probe	AY	s638
+286.74	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+289.246	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.784	probe	AX	s638
+290.752	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+293.264	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.729	probe	AY	s638
+295.993	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+298.499	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.712	probe	AX	s638
+300.006	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+302.517	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.003	probe	AX	s638
+304.16	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+306.667	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.678	probe	AX	s638
+308.31	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+310.819	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.733	probe	AX	s638
+312.597	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+315.107	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.584	probe	BY	s638
+316.885	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+319.395	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.641	probe	AX	s638
+320.901	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+323.414	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.612	probe	BY	s638
+325.873	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+328.384	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.846	probe	AX	s638
+330.027	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+332.538	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.575	probe	AX	s638
+334.178	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+336.687	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.747	probe	BX	s638
+338.192	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+340.701	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.71	probe	BX	s638
+342.208	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+344.717	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.471	probe	AX	s638
+347.039	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+349.549	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.975	probe	AY	s638
+351.599	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+354.109	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.548	probe	AX	s638
+358.064	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+360.576	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.755	probe	AX	s638
+372.73	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+375.242	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.594	probe	AY	s638
+376.884	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+379.397	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.505	probe	AX	s638
+381.039	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+383.549	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.58	probe	AX	s638
+385.055	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+387.564	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.551	probe	AX	s638
+389.071	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+391.583	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.518	probe	AX	s638
+393.493	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+396.003	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.745	probe	BX	s638
+397.642	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+400.151	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.448	probe	AX	s638
+402.201	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+404.711	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.584	probe	AX	s638
+406.489	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+408.999	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.591	probe	AX	s638
+410.503	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+413.014	0.5	AX	0.0	89.0	dot_pattern_expectancy	71.0	1.321	probe	AX	s638
+415.2	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+417.708	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.508	probe	AX	s638
+419.214	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+421.724	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.629	probe	BX	s638
+425.406	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+427.918	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.61	probe	BY	s638
+429.561	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+432.068	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.736	probe	BY	s638
+433.71	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+436.22	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.599	probe	BX	s638
+437.726	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+440.233	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.605	probe	AX	s638
+442.148	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+444.659	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.58	probe	AX	s638
+446.302	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+448.812	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.426	probe	BX	s638
+450.318	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+452.83	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.03	probe	AX	s638
+454.745	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+457.256	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.66	probe	BY	s638
+459.439	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+461.948	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.887	probe	AX	s638
+463.726	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+466.236	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.536	probe	AX	s638
+467.741	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+470.252	0.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638
+471.758	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+474.267	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.554	probe	AX	s638
+476.318	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+478.828	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.403	probe	AX	s638
+481.694	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+484.203	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.558	probe	BX	s638
+485.711	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+488.222	0.5	BY	0.0	71.0	dot_pattern_expectancy	-1.0	n/a	probe	BY	s638
+489.998	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+492.507	0.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638
+494.285	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+496.795	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.559	probe	AX	s638
+499.661	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+502.17	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.537	probe	AX	s638
+503.949	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+506.461	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.518	probe	BX	s638
+508.103	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+510.615	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.54	probe	BX	s638
+513.074	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+515.587	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.49	probe	AX	s638
+517.229	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+519.739	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.956	probe	BX	s638
+521.245	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+523.756	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.557	probe	AX	s638
+525.394	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+527.906	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.59	probe	AX	s638
+529.549	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+532.06	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.757	probe	BY	s638
+534.243	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+536.752	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.62	probe	AX	s638
+538.258	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+540.771	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.596	probe	AY	s638
+542.411	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+544.924	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.684	probe	AX	s638
+557.08	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+559.592	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.673	probe	AX	s638
+561.778	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+564.288	0.5	AY	0.0	71.0	dot_pattern_expectancy	89.0	0.558	probe	AY	s638
+566.61	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+569.122	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.722	probe	AY	s638
+570.764	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+573.277	0.5	BX	1.0	71.0	dot_pattern_expectancy	71.0	0.85	probe	BX	s638
+575.191	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+577.703	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.582	probe	AX	s638
+581.249	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+583.761	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.724	probe	BX	s638
+585.404	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+587.914	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.975	probe	BY	s638
+589.42	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+591.93	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.649	probe	AX	s638
+593.437	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+595.946	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	1.097	probe	AX	s638
+597.725	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+600.235	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	1.599	probe	BY	s638
+602.694	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+605.206	0.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638
+607.121	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+609.634	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.486	probe	BX	s638
+611.276	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+613.785	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.7	probe	AX	s638
+615.291	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+617.803	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.668	probe	AX	s638
+619.446	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+621.958	0.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638
+623.601	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+626.113	0.5	BY	0.0	71.0	dot_pattern_expectancy	-1.0	n/a	probe	BY	s638
+628.572	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+631.081	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.426	probe	AX	s638
+632.587	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+635.097	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.596	probe	BY	s638
+636.603	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+639.115	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.587	probe	AX	s638
+640.756	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+643.261	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.572	probe	AX	s638
+644.903	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+647.414	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.619	probe	AY	s638
+649.056	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+651.566	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.413	probe	AX	s638
+653.073	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+655.582	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.586	probe	AX	s638
+657.088	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+659.598	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.592	probe	AX	s638
+661.376	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+663.888	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.557	probe	AX	s638
+666.076	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+668.584	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.414	probe	BX	s638
+670.363	0.5	BY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BY	s638
+672.873	0.5	BY	1.0	71.0	dot_pattern_expectancy	71.0	0.727	probe	BY	s638
+674.379	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+676.888	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.64	probe	AX	s638
+678.39	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+680.902	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.604	probe	AX	s638
+682.544	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+685.051	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.557	probe	AY	s638
+687.233	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+689.742	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	1.223	probe	AY	s638
+692.065	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+694.575	0.5	BX	0.0	71.0	dot_pattern_expectancy	89.0	0.786	probe	BX	s638
+696.218	0.5	BX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	BX	s638
+698.73	0.5	BX	1.0	71.0	dot_pattern_expectancy	71.0	1.267	probe	BX	s638
+700.916	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+703.427	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.76	probe	AY	s638
+705.477	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+707.987	0.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638
+709.765	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+712.275	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.758	probe	AX	s638
+713.778	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+716.288	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.557	probe	AX	s638
+718.475	0.5	AY	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AY	s638
+720.986	0.5	AY	1.0	71.0	dot_pattern_expectancy	71.0	0.989	probe	AY	s638
+723.445	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+725.956	0.5	AX	0.0	89.0	dot_pattern_expectancy	-1.0	n/a	probe	AX	s638
+727.599	0.5	AX	n/a	n/a	dot_pattern_expectancy	-1.0	n/a	cue	AX	s638
+730.111	0.5	AX	1.0	89.0	dot_pattern_expectancy	89.0	0.469	probe	AX	s638
