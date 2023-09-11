@@ -1,1 +1,8 @@
-{"BIDSVersion": "1.51-rc1", "Name": "fmri_data"}
+{
+    "BIDSVersion": "1.51-rc1",
+    "Name": "fmri_data",
+    "Authors": [
+        "Bissett, P. G., Eisenberg, I. W., Shim, S., Rios, J. A. H., Jones, H. M., Hagen, M. P., Enkavi, A. Z., Li, J. K., Mumford, J. A., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A."
+    ],
+    "License": "CC0"
+}
