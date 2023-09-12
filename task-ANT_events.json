@@ -1,7 +1,7 @@
 {
     "onset": {
         "LongName": "onset",
-        "Description": "timepoint that stimulus appears on screen that matches scan timeseries",
+        "Description": "timepoint that probe appears on screen that matches scan timeseries",
         "Units": "seconds"
     },
     "duration": {
