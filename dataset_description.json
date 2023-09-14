@@ -1,1 +1,8 @@
-{"BIDSVersion": "1.51-rc1", "Name": "fmri_data"}
+{
+    "BIDSVersion": "1.51-rc1",
+    "Name": "fmri_data",
+    "Authors": [
+        "Bissett, P. G."
+    ],
+    "License": "CC0"
+}
