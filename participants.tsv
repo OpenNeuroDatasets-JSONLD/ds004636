@@ -1,107 +1,111 @@
-participant_id	age	sex	ANT	CCTHot	discountFix	DPX	motorSelectiveStop	stopSignal	stroop	twoByTwo	WATT	surveyMedely	exclusion_notesn/a
-sub-s061	n/a	n/a	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s130	29	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s144	n/a	n/a	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	n/a
-sub-s172	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	poor_performance_subjective_rating	n/a	n/a
-sub-s192	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s251	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s358	26	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s373	32	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s445	21	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s465	23	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s471	22	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s483	20	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s491	23	Female	n/a	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s495	23	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s497	29	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s499	22	Female	n/a	n/a	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s512	23	Female	n/a	n/a	n/a	n/a	n/a	Dropped: task behavior showed greater than 50% ommission rate and a stop success rate greater than 75%	n/a	n/a	n/a	n/a	n/a
-sub-s524	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s525	18	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s526	28	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s533	n/a	n/a	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	n/a
-sub-s541	21	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s546	18	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s548	24	Male	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate above 75%	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s549	40	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s553	30	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s554	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s555	34	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s556	30	Male	n/a	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate above 75%	n/a	n/a	n/a	n/a	n/a
-sub-s557	18	Female	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate above 75%	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s558	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s561	23	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s567	38	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s568	18	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s570	18	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s572	22	Female	n/a	n/a	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s573	28	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s574	22	Male	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate below 25%	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s577	19	Male	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate above 75%	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s579	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s581	18	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s582	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s583	30	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s584	18	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s585	33	Female	n/a	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate above 75%	n/a	n/a	n/a	n/a	n/a
-sub-s586	27	Male	n/a	n/a	n/a	poor_performance_subjective_rating	poor_performance_subjective_rating	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s587	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s588	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s589	28	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s590	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s591	21	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s592	20	Male	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	n/a
-sub-s593	24	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s594	19	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s595	20	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s596	40	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s597	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s598	24	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s599	n/a	n/a	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	n/a
-sub-s600	n/a	n/a	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	n/a
-sub-s601	33	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s602	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s603	n/a	n/a	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	n/a
-sub-s604	23	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s605	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s606	24	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s607	23	Female	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s608	28	Male	n/a	n/a	n/a	n/a	Dropped: behavior shows stop success rate below 25%	n/a	poor_performance_subjective_rating	n/a	n/a	n/a	n/a
-sub-s609	21	Male	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s610	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s611	20	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s612	20	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s613	28	Male	n/a	n/a	n/a	"Dropped: tried truncating data, but this would mean cutting more than half of the data so we dropped them"	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s614	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s615	21	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s616	27	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s617	19	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s618	24	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s619	26	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s621	24	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s622	22	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s623	n/a	n/a	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	"poor_performance_subjective_rating, missing_more_than_half_the_tasks"	Dropped: subject is missing more than half of their task data	"missing_beh_data, poor_performance_subjective_rating, missing_more_than_half_the_tasks"	Dropped: subject is missing more than half of their task data	"poor_performance_subjective_rating, missing_more_than_half_the_tasks"	Dropped: subject is missing more than half of their task data	"poor_performance_subjective_rating, missing_more_than_half_the_tasks"	n/a
-sub-s624	21	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s626	22	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s627	29	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s628	26	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s629	20	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s631	23	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s633	38	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s634	25	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s635	27	Female	Dropped: behavior shows an ommission rate above 50%	n/a	n/a	n/a	n/a	n/a	n/a	Dropped: behavior shows an ommission rate above 50%	n/a	n/a	n/a
-sub-s636	21	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s637	19	Female	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	n/a
-sub-s638	22	Female	n/a	n/a	n/a	poor_performance_subjective_rating	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s639	n/a	n/a	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	n/a
-sub-s640	26	Female	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	n/a
-sub-s641	23	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s642	18	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s643	31	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s644	18	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s645	19	Male	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s646	22	Male	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	Dropped: had no behavioral data for this task	n/a
-sub-s647	24	Female	n/a	n/a	Dropped: had no behavioral data for this task	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s648	30	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s649	22	Female	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-sub-s650	41	Male	"poor_performance_subjective_rating, missing_more_than_half_the_tasks"	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	"poor_performance_subjective_rating, missing_more_than_half_the_tasks"	Dropped: behavior shows stop success rate above 75%	Dropped: subject is missing more than half of their task data	"poor_performance_subjective_rating, missing_more_than_half_the_tasks"	"greater_than_50_percent_nonresponse_rate, missing_more_than_half_the_tasks"	Dropped: subject is missing more than half of their task data	Dropped: subject is missing more than half of their task data	n/a
+participant_id	Age (years)	Gender	Ethnicity	Race
+sub-s061	41.0	Male	NOT Hispanic or Latino	Asian
+sub-s130	27.0	Female	NOT Hispanic or Latino	Asian
+sub-s144	19.0	Female	NOT Hispanic or Latino	Asian
+sub-s172	19.0	Female	NOT Hispanic or Latino	Asian
+sub-s192	18.0	Female	NOT Hispanic or Latino	More Than One Race
+sub-s234	19.0	Male	NOT Hispanic or Latino	More Than One Race
+sub-s251	18.0	Female	NOT Hispanic or Latino	More Than One Race
+sub-s358	25.0	Female	NOT Hispanic or Latino	White
+sub-s373	31.0	Female	NOT Hispanic or Latino	White
+sub-s445	21.0	Female	n/a	Black or African American
+sub-s465	23.0	Male	NOT Hispanic or Latino	Asian
+sub-s471	22.0	Male	NOT Hispanic or Latino	Asian
+sub-s483	20.0	Female	NOT Hispanic or Latino	White
+sub-s491	23.0	Female	NOT Hispanic or Latino	White
+sub-s495	23.0	Male	NOT Hispanic or Latino	Asian
+sub-s497	29.0	Female	NOT Hispanic or Latino	Asian
+sub-s499	22.0	Female	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander
+sub-s512	23.0	Female	NOT Hispanic or Latino	White
+sub-s513	25.0	Female	NOT Hispanic or Latino	Asian
+sub-s518	19.0	Female	NOT Hispanic or Latino	Black or African American
+sub-s519	23.0	Male	NOT Hispanic or Latino	Asian
+sub-s524	23.0	Female	NOT Hispanic or Latino	White
+sub-s525	18.0	Female	NOT Hispanic or Latino	Black or African American
+sub-s526	28.0	Female	NOT Hispanic or Latino	White
+sub-s533	20.0	Female	Hispanic or Latino	Unknown / Not Reported
+sub-s541	21.0	Female	Hispanic or Latino	n/a
+sub-s546	18.0	Male	NOT Hispanic or Latino	Black or African American
+sub-s548	24.0	Male	NOT Hispanic or Latino	White
+sub-s549	40.0	Female	n/a	n/a
+sub-s553	30.0	Female	Hispanic or Latino	More Than One Race
+sub-s554	23.0	Female	NOT Hispanic or Latino	Asian
+sub-s555	34.0	Female	NOT Hispanic or Latino	Asian
+sub-s556	30.0	Male	NOT Hispanic or Latino	White
+sub-s557	18.0	Female	NOT Hispanic or Latino	White
+sub-s558	23.0	Female	Hispanic or Latino	More Than One Race
+sub-s561	23.0	Male	NOT Hispanic or Latino	Asian
+sub-s567	38.0	Female	NOT Hispanic or Latino	White
+sub-s568	18.0	Female	NOT Hispanic or Latino	White
+sub-s570	18.0	Male	NOT Hispanic or Latino	More Than One Race
+sub-s572	22.0	Female	NOT Hispanic or Latino	Asian
+sub-s573	28.0	Female	NOT Hispanic or Latino	Asian
+sub-s574	22.0	Male	NOT Hispanic or Latino	White
+sub-s577	19.0	Male	NOT Hispanic or Latino	Black or African American
+sub-s579	19.0	Female	Hispanic or Latino	White
+sub-s581	18.0	Female	NOT Hispanic or Latino	White
+sub-s582	23.0	Female	NOT Hispanic or Latino	Asian
+sub-s583	30.0	Female	NOT Hispanic or Latino	White
+sub-s584	18.0	Female	NOT Hispanic or Latino	Black or African American
+sub-s585	33.0	Female	NOT Hispanic or Latino	White
+sub-s586	27.0	Male	NOT Hispanic or Latino	Asian
+sub-s587	19.0	Female	NOT Hispanic or Latino	White
+sub-s588	23.0	Female	Hispanic or Latino	More Than One Race
+sub-s589	28.0	Male	NOT Hispanic or Latino	White
+sub-s590	19.0	Female	Hispanic or Latino	White
+sub-s591	21.0	Female	Unknown / Not Reported	Unknown / Not Reported
+sub-s592	20.0	Male	NOT Hispanic or Latino	Asian
+sub-s593	24.0	Female	NOT Hispanic or Latino	White
+sub-s594	19.0	Male	NOT Hispanic or Latino	More Than One Race
+sub-s595	20.0	Female	NOT Hispanic or Latino	White
+sub-s596	39.0	Female	NOT Hispanic or Latino	White
+sub-s597	19.0	Female	Unknown / Not Reported	Asian
+sub-s598	24.0	Female	Hispanic or Latino	White
+sub-s599	19.0	Female	NOT Hispanic or Latino	More Than One Race
+sub-s600	28.0	Male	NOT Hispanic or Latino	Asian
+sub-s601	33.0	Male	Hispanic or Latino	White
+sub-s602	23.0	Female	Hispanic or Latino	n/a
+sub-s603	20.0	Male	NOT Hispanic or Latino	Asian
+sub-s604	23.0	Male	NOT Hispanic or Latino	Black or African American
+sub-s605	19.0	Female	NOT Hispanic or Latino	Asian
+sub-s606	24.0	Male	NOT Hispanic or Latino	Asian
+sub-s607	23.0	Female	Hispanic or Latino	White
+sub-s608	28.0	Male	NOT Hispanic or Latino	Asian
+sub-s609	21.0	Male	NOT Hispanic or Latino	White
+sub-s610	19.0	Female	NOT Hispanic or Latino	Black or African American
+sub-s611	20.0	Female	NOT Hispanic or Latino	Black or African American
+sub-s612	20.0	Female	NOT Hispanic or Latino	Asian
+sub-s613	29.0	Male	NOT Hispanic or Latino	Asian
+sub-s614	23.0	Female	NOT Hispanic or Latino	Asian
+sub-s615	21.0	Female	NOT Hispanic or Latino	Asian
+sub-s616	27.0	Female	NOT Hispanic or Latino	Asian
+sub-s617	19.0	Female	NOT Hispanic or Latino	White
+sub-s618	24.0	Male	NOT Hispanic or Latino	White
+sub-s619	26.0	Male	NOT Hispanic or Latino	White
+sub-s621	24.0	Female	NOT Hispanic or Latino	White
+sub-s622	22.0	Female	NOT Hispanic or Latino	Asian
+sub-s623	26.0	Female	n/a	Asian
+sub-s624	21.0	n/a	NOT Hispanic or Latino	White
+sub-s626	22.0	Male	NOT Hispanic or Latino	More Than One Race
+sub-s627	29.0	Male	NOT Hispanic or Latino	White
+sub-s628	26.0	Male	NOT Hispanic or Latino	White
+sub-s629	20.0	Male	Hispanic or Latino	More Than One Race
+sub-s631	23.0	Male	NOT Hispanic or Latino	Asian
+sub-s633	38.0	Female	Hispanic or Latino	White
+sub-s634	25.0	Male	NOT Hispanic or Latino	White
+sub-s635	27.0	Female	NOT Hispanic or Latino	White
+sub-s636	21.0	Female	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander
+sub-s637	19.0	Female	NOT Hispanic or Latino	Asian
+sub-s638	22.0	Female	NOT Hispanic or Latino	Asian
+sub-s639	20.0	Female	NOT Hispanic or Latino	American Indian/Alaska Native
+sub-s640	26.0	Female	NOT Hispanic or Latino	Asian
+sub-s641	23.0	Female	NOT Hispanic or Latino	White
+sub-s642	18.0	Female	NOT Hispanic or Latino	White
+sub-s643	31.0	Male	NOT Hispanic or Latino	Asian
+sub-s644	18.0	Male	NOT Hispanic or Latino	White
+sub-s645	19.0	Male	NOT Hispanic or Latino	White
+sub-s646	22.0	Male	NOT Hispanic or Latino	Asian
+sub-s647	24.0	Female	NOT Hispanic or Latino	White
+sub-s648	30.0	Female	NOT Hispanic or Latino	White
+sub-s649	22.0	Female	NOT Hispanic or Latino	Unknown / Not Reported
+sub-s650	45.0	Male	NOT Hispanic or Latino	Asian
