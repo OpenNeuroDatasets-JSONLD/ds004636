@@ -1,4 +1,4 @@
-onset	duration	CTI	correct	correct_response	cue	cue_switch	experiment_exp_id	key_press	response_time	stim_color	stim_number	switch_type	task	task_switch	worker_id	first_trial_of_block
+onset	duration	CTI	correct	correct_response	cue	cue_switch	experiment_exp_id	key_press	response_time	stim_color	stim_number	switch_type	task_type	task_switch	worker_id	first_trial_of_block
 3.612	1.0	0.1	True	71.0	High-Low	stay	twobytwo	71.0	0.785	blue	2.0	cue_stay	magnitude	stay	s518	1
 6.79	1.0	0.9	True	71.0	Color	n/a	twobytwo	71.0	0.543	orange	8.0	task_switch	color	switch	s518	0
 9.832	1.0	0.9	True	89.0	Orange-Blue	switch	twobytwo	89.0	0.575	blue	2.0	cue_switch	color	stay	s518	0

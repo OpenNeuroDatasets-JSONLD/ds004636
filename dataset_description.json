@@ -1,6 +1,6 @@
 {
     "BIDSVersion": "1.51-rc1",
-    "Name": "Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation",
+    "Name": "fmri_data",
     "Authors": [
         "Bissett, P. G.",
         "Eisenberg, I. W.",
@@ -21,6 +21,5 @@
     ],
     "EthicsApprovals": [
         "This study was approved by the Stanford Institutional Review Board (IRB protocol #39322)"
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004636.v1.0.2"
+    ]
 }

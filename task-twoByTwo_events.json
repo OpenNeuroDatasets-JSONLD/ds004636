@@ -90,7 +90,7 @@
         }
     },
     "task": {
-        "LongName": "task",
+        "LongName": "task_type",
         "Description": "which task was performed",
         "Levels": {
             "magnitude": "respond based on magnitude",
