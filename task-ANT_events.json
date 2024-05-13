@@ -75,6 +75,15 @@
         },
         "Notes": "89 was coded for index finger responses, 71 for middle finger responses"
     },
+    "trial_id": {
+        "LongName": "trial_id",
+        "Description": "identifier for each trial",
+        "Levels":{
+            "spatialcue": "spatial cue",
+            "doublecue": "double cue",
+            "stim": "probe"
+        }
+    },
     "response_time": {
         "LongName": "response_time",
         "Units": "seconds"

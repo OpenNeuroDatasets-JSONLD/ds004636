@@ -89,7 +89,7 @@
             "task_switch": "task switched"
         }
     },
-    "task": {
+    "task_type": {
         "LongName": "task_type",
         "Description": "which task was performed",
         "Levels": {
