@@ -1,3 +1,5 @@
+1.0.4 2024-05-20
+  - update title
 1.0.3 2024-05-17
   - add scans.tsv files and clean up sessions that were divided
   - update mriqc outputs to match sessions
